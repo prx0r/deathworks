@@ -151,8 +151,8 @@
    "section": "Prologue: Eight civilizations. One corpse. An absolutely eno",
    "type": "narration",
    "voice": "granny",
-   "text": "A new religious proclamation announces resurrection and judgment. The dead will be raised by God. Their actions matter. And between death and resurrection stands a mysterious barrier called *barzakh*\\.",
-   "directed": "A new religious proclamation announces resurrection and judgment. The dead will be raised by God. Their actions matter. And between death and resurrection stands a mysterious barrier called *barzakh*\\."
+   "text": "A new religious proclamation announces resurrection and judgment. The dead will be raised by God. Their actions matter. And between death and resurrection stands a mysterious barrier called *barzakh*.",
+   "directed": "A new religious proclamation announces resurrection and judgment. The dead will be raised by God. Their actions matter. And between death and resurrection stands a mysterious barrier called *barzakh*."
   },
   {
    "id": "b19",
@@ -247,16 +247,16 @@
    "section": "Prologue: Eight civilizations. One corpse. An absolutely eno",
    "type": "narration",
    "voice": "granny",
-   "text": "But here's the critical discovery from comparative anthropology\\:",
-   "directed": "[short pause] But here's the critical discovery from comparative anthropology\\:"
+   "text": "But here's the critical discovery from comparative anthropology:",
+   "directed": "[short pause] But here's the critical discovery from comparative anthropology:"
   },
   {
    "id": "b31",
    "section": "Prologue: Eight civilizations. One corpse. An absolutely eno",
    "type": "narration",
    "voice": "granny",
-   "text": "There is **no universal agreement that an immortal soul survives death, that everybody reincarnates, or that the same afterlife awaits everyone**\\.",
-   "directed": "There is **no universal agreement that an immortal soul survives death, that everybody reincarnates, or that the same afterlife awaits everyone**\\."
+   "text": "There is **no universal agreement that an immortal soul survives death, that everybody reincarnates, or that the same afterlife awaits everyone**.",
+   "directed": "There is **no universal agreement that an immortal soul survives death, that everybody reincarnates, or that the same afterlife awaits everyone**."
   },
   {
    "id": "b32",
@@ -375,8 +375,8 @@
    "section": "I. EGYPT: You are not one thing, and death pulls you apart",
    "type": "narration",
    "voice": "granny",
-   "text": "Among them were the physical body, name, heart, *ka* and *ba*\\.",
-   "directed": "Among them were the physical body, name, heart, *ka* and *ba*\\."
+   "text": "Among them were the physical body, name, heart, *ka* and *ba*.",
+   "directed": "Among them were the physical body, name, heart, *ka* and *ba*."
   },
   {
    "id": "b47",
@@ -511,8 +511,8 @@
    "section": "I. EGYPT: You are not one thing, and death pulls you apart",
    "type": "narration",
    "voice": "granny",
-   "text": "In an Egyptian mortuary chapel, a statue could provide a locus for the *ka*\\.",
-   "directed": "In an Egyptian mortuary chapel, a statue could provide a locus for the *ka*\\."
+   "text": "In an Egyptian mortuary chapel, a statue could provide a locus for the *ka*.",
+   "directed": "In an Egyptian mortuary chapel, a statue could provide a locus for the *ka*."
   },
   {
    "id": "b64",
@@ -1463,8 +1463,8 @@
    "section": "III. ARABIA: One region, three radically different answers t",
    "type": "narration",
    "voice": "granny",
-   "text": "It's not Egyptian transformation into an *akh*\\.",
-   "directed": "It's not Egyptian transformation into an *akh*\\."
+   "text": "It's not Egyptian transformation into an *akh*.",
+   "directed": "It's not Egyptian transformation into an *akh*."
   },
   {
    "id": "b183",
@@ -1479,8 +1479,8 @@
    "section": "III. ARABIA: One region, three radically different answers t",
    "type": "narration",
    "voice": "granny",
-   "text": "In mainstream Islamic doctrine, God resurrects the dead for judgment. Earthly life is not ordinarily understood as one episode in an indefinite sequence of karmic human births. \\; ; \\]",
-   "directed": "In mainstream Islamic doctrine, God resurrects the dead for judgment. Earthly life is not ordinarily understood as one episode in an indefinite sequence of karmic human births. \\; ; \\]"
+   "text": "In mainstream Islamic doctrine, God resurrects the dead for judgment. Earthly life is not ordinarily understood as one episode in an indefinite sequence of karmic human births. ; ; \\]",
+   "directed": "In mainstream Islamic doctrine, God resurrects the dead for judgment. Earthly life is not ordinarily understood as one episode in an indefinite sequence of karmic human births. ; ; \\]"
   },
   {
    "id": "b185",
@@ -1991,8 +1991,8 @@
    "section": "IV. CHINA: The ancestor is in the grave, on the altar, and p",
    "type": "narration",
    "voice": "granny",
-   "text": "One person might say\\:",
-   "directed": "[short pause] One person might say\\:"
+   "text": "One person might say:",
+   "directed": "[short pause] One person might say:"
   },
   {
    "id": "b249",
@@ -2007,8 +2007,8 @@
    "section": "IV. CHINA: The ancestor is in the grave, on the altar, and p",
    "type": "narration",
    "voice": "granny",
-   "text": "Another might say\\:",
-   "directed": "[short pause] Another might say\\:"
+   "text": "Another might say:",
+   "directed": "[short pause] Another might say:"
   },
   {
    "id": "b251",
@@ -2079,8 +2079,8 @@
    "section": "IV. CHINA: The ancestor is in the grave, on the altar, and p",
    "type": "narration",
    "voice": "granny",
-   "text": "The Egyptian *ka*, *ba* and *akh* aren't the same as Chinese *hún* and *pò*\\.",
-   "directed": "The Egyptian *ka*, *ba* and *akh* aren't the same as Chinese *hún* and *pò*\\."
+   "text": "The Egyptian *ka*, *ba* and *akh* aren't the same as Chinese *hún* and *pò*.",
+   "directed": "The Egyptian *ka*, *ba* and *akh* aren't the same as Chinese *hún* and *pò*."
   },
   {
    "id": "b260",
@@ -2119,8 +2119,8 @@
    "section": "IV. CHINA: The ancestor is in the grave, on the altar, and p",
    "type": "narration",
    "voice": "granny",
-   "text": "The Egyptian offers nourishment to the *ka*\\.",
-   "directed": "The Egyptian offers nourishment to the *ka*\\."
+   "text": "The Egyptian offers nourishment to the *ka*.",
+   "directed": "The Egyptian offers nourishment to the *ka*."
   },
   {
    "id": "b265",
@@ -2167,8 +2167,8 @@
    "section": "IV. CHINA: The ancestor is in the grave, on the altar, and p",
    "type": "narration",
    "voice": "granny",
-   "text": "But the underlying social principle is remarkably widespread\\:",
-   "directed": "[short pause] But the underlying social principle is remarkably widespread\\:"
+   "text": "But the underlying social principle is remarkably widespread:",
+   "directed": "[short pause] But the underlying social principle is remarkably widespread:"
   },
   {
    "id": "b271",
@@ -2655,8 +2655,8 @@
    "section": "V. YORUBA: Your grandfather might return as your newborn son",
    "type": "narration",
    "voice": "granny",
-   "text": "They are answering different versions of the question\\:",
-   "directed": "[short pause] They are answering different versions of the question\\:"
+   "text": "They are answering different versions of the question:",
+   "directed": "[short pause] They are answering different versions of the question:"
   },
   {
    "id": "b332",
@@ -2799,8 +2799,8 @@
    "section": "VI. MESOAMERICA: Your destination might depend on HOW you di",
    "type": "narration",
    "voice": "granny",
-   "text": "Death involving water and certain rain-associated conditions could lead to *Tlalocan*\\.",
-   "directed": "Death involving water and certain rain-associated conditions could lead to *Tlalocan*\\."
+   "text": "Death involving water and certain rain-associated conditions could lead to *Tlalocan*.",
+   "directed": "Death involving water and certain rain-associated conditions could lead to *Tlalocan*."
   },
   {
    "id": "b350",
@@ -3015,8 +3015,8 @@
    "section": "VII. ZOROASTRIANISM: What if your own actions were waiting t",
    "type": "narration",
    "voice": "granny",
-   "text": "And it encounters the *daēnā*\\.",
-   "directed": "And it encounters the *daēnā*\\."
+   "text": "And it encounters the *daēnā*.",
+   "directed": "And it encounters the *daēnā*."
   },
   {
    "id": "b377",
@@ -3055,8 +3055,8 @@
    "section": "VII. ZOROASTRIANISM: What if your own actions were waiting t",
    "type": "narration",
    "voice": "granny",
-   "text": "The *Encyclopaedia Iranica* documents the underlying Avestan and later Pahlavi sources. \\; \\]",
-   "directed": "The *Encyclopaedia Iranica* documents the underlying Avestan and later Pahlavi sources. \\; \\]"
+   "text": "The *Encyclopaedia Iranica* documents the underlying Avestan and later Pahlavi sources. ; \\]",
+   "directed": "The *Encyclopaedia Iranica* documents the underlying Avestan and later Pahlavi sources. ; \\]"
   },
   {
    "id": "b382",
@@ -3103,8 +3103,8 @@
    "section": "VII. ZOROASTRIANISM: What if your own actions were waiting t",
    "type": "narration",
    "voice": "granny",
-   "text": "And the meaning of the encounter is\\:",
-   "directed": "[short pause] And the meaning of the encounter is\\:"
+   "text": "And the meaning of the encounter is:",
+   "directed": "[short pause] And the meaning of the encounter is:"
   },
   {
    "id": "b388",
@@ -3463,8 +3463,8 @@
    "section": "VII. ZOROASTRIANISM: What if your own actions were waiting t",
    "type": "narration",
    "voice": "granny",
-   "text": "But the practical question already matters\\:",
-   "directed": "[short pause] But the practical question already matters\\:"
+   "text": "But the practical question already matters:",
+   "directed": "[short pause] But the practical question already matters:"
   },
   {
    "id": "b433",
@@ -4087,8 +4087,8 @@
    "section": "IX. GREECE, INDIA AND TIBET: The dead must remember somethin",
    "type": "narration",
    "voice": "granny",
-   "text": "The decisive line in verse 95 is\\:",
-   "directed": "[short pause] The decisive line in verse 95 is\\:"
+   "text": "The decisive line in verse 95 is:",
+   "directed": "[short pause] The decisive line in verse 95 is:"
   },
   {
    "id": "b511",
@@ -4111,8 +4111,8 @@
    "section": "IX. GREECE, INDIA AND TIBET: The dead must remember somethin",
    "type": "narration",
    "voice": "granny",
-   "text": "My translation\\:",
-   "directed": "[short pause] My translation\\:"
+   "text": "My translation:",
+   "directed": "[short pause] My translation:"
   },
   {
    "id": "b514",
@@ -5399,16 +5399,16 @@
    "section": "XII. THE LAST FUNERAL ON EARTH",
    "type": "narration",
    "voice": "granny",
-   "text": "The *Paramārthasāra*\\.",
-   "directed": "The *Paramārthasāra*\\."
+   "text": "The *Paramārthasāra*.",
+   "directed": "The *Paramārthasāra*."
   },
   {
    "id": "b675",
    "section": "XII. THE LAST FUNERAL ON EARTH",
    "type": "narration",
    "voice": "granny",
-   "text": "The *Bardo Thödol*\\.",
-   "directed": "The *Bardo Thödol*\\."
+   "text": "The *Bardo Thödol*.",
+   "directed": "The *Bardo Thödol*."
   },
   {
    "id": "b676",
@@ -5431,8 +5431,8 @@
    "section": "XII. THE LAST FUNERAL ON EARTH",
    "type": "narration",
    "voice": "granny",
-   "text": "And still one question will remain unanswered until you've examined your own experience\\:",
-   "directed": "[short pause] And still one question will remain unanswered until you've examined your own experience\\:"
+   "text": "And still one question will remain unanswered until you've examined your own experience:",
+   "directed": "[short pause] And still one question will remain unanswered until you've examined your own experience:"
   },
   {
    "id": "b679",
@@ -5879,8 +5879,8 @@
    "section": "XII. THE LAST FUNERAL ON EARTH",
    "type": "narration",
    "voice": "granny",
-   "text": "The strongest scholarly foundations are Matthew Engelke's ; Christopher Heaney's ; Ahmad Al-Jallad's ; Columbia University's ; the ; and the \\.",
-   "directed": "The strongest scholarly foundations are Matthew Engelke's ; Christopher Heaney's ; Ahmad Al-Jallad's ; Columbia University's ; the ; and the \\."
+   "text": "The strongest scholarly foundations are Matthew Engelke's ; Christopher Heaney's ; Ahmad Al-Jallad's ; Columbia University's ; the ; and the .",
+   "directed": "The strongest scholarly foundations are Matthew Engelke's ; Christopher Heaney's ; Ahmad Al-Jallad's ; Columbia University's ; the ; and the ."
   },
   {
    "id": "b735",

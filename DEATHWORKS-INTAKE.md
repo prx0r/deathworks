@@ -30,9 +30,23 @@ pattern. Level for ears to set (opener convention +6dB; toll proposed
 bed-level). Render debt: opener asset is hardcoded per builder —
 lane-parameterize at render phase (same class as NEW-LANE §4).
 
+## Tradition art (owner steer: art from each tradition on death)
+Each piece illustrated with its own tradition's funerary art (museum
+open-access, verified extant 2026-11-08): Egypt = Book-of-the-Dead
+weighing vignettes (Wellcome L0005449, MET Nauny DT11633); Greece =
+Petelia gold tablet photos + MET white-ground lekythoi; Tibet/Trika =
+Wellcome Yama wheel series + phowa ejection diagram (banked).
+Peru/Mesoamerica/China/Arabia/Yoruba/Indonesia holdings to map next.
+Same licensing law: PD/CC0 preferred, CC-BY attributed, reposts flagged.
+
+## TTS-ready (2026-11-08)
+All 5 green, zero TTS dirt in voiced blocks (400+ exporter escapes
+stripped lane-wide, Tibetan script at zero, no URLs; Sanskrit voices
+natively). The scare was a counter bug — work was done.
+
 ## Unsure list
-1. Debris pass, storyboards, casting, glossaries: pending per piece.
-2. Lane shape: one lane or five? Currently a collection, unwired.
-3. Approvals: owner act at render time.
+1. Lane shape decided: w01-w05 wired (this log predates it — done).
+2. Casting bless, gloss confirms, approvals: owner acts.
+3. Motion support for GIFs: builder decision pending.
 
 House visual law: videofactory/docs/VISUALS.md (ladder: Deva+gloss → GIF motifs → drawn landscapes; white law).

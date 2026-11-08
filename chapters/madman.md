@@ -25,7 +25,7 @@ The burial mountains.
 
 The caves full of ascetics who've apparently decided that conventional religious practice is for people with insufficiently terrifying ambitions.
 
-Because history contains an extraordinary collection of people who looked directly at death and thought\:
+Because history contains an extraordinary collection of people who looked directly at death and thought:
 
 "Interesting. What if I could use this?"
 
@@ -39,7 +39,7 @@ Those distinctions matter. None of the extraordinary claims of literal postmorte
 
 Our goal is to find the underlying philosophy.
 
-Because underneath all the skulls and demons is one astonishing question\:
+Because underneath all the skulls and demons is one astonishing question:
 
 **What if the thing you're most afraid of is precisely the thing you need to understand?**
 
@@ -78,7 +78,7 @@ Now, most popular depictions of Aghorīs are sensationalized beyond recognition.
 
 In his ethnographic study Aghor Medicine, Ronald Barrett documents a history of cremation-ground austerities, skull vessels, practices involving substances ordinarily considered radically impure, and the transformation of Aghor communities into organizations providing medical care to stigmatized patients.
 
-That's a remarkable trajectory: **from confronting ritual impurity through transgressive asceticism to confronting social exclusion through healing.** \; \]
+That's a remarkable trajectory: **from confronting ritual impurity through transgressive asceticism to confronting social exclusion through healing.** ; \]
 
 ### The actual word: aghora
 
@@ -186,9 +186,9 @@ And the resulting confrontation is interpreted through a theology of Śakti.
 
 Now consider the philosophical symbolism.
 
-*Śava*\: a corpse.
+*Śava*: a corpse.
 
-*Śiva*\: divine consciousness.
+*Śiva*: divine consciousness.
 
 The visual and phonetic similarity is striking, and later tantric interpretation sometimes exploits it. But it does not establish that the two words have identical etymologies or that every ritual text makes the same identification.
 
@@ -198,7 +198,7 @@ A body without its animating life is a corpse.
 
 Yet Trika maintains that the reality of consciousness is more fundamental than any particular body.
 
-So the corpse becomes an extraordinarily forceful object through which to investigate the difference between **the physical organism, its manifest life and the ultimate nature of consciousness**\.
+So the corpse becomes an extraordinarily forceful object through which to investigate the difference between **the physical organism, its manifest life and the ultimate nature of consciousness**.
 
 But here's the necessary correction.
 
@@ -245,7 +245,7 @@ He becomes a wandering skull-bearing mendicant.
 
 A divine being undertaking a terrible expiatory vow.
 
-The mythology is attested in early Śaiva sources, including the *Skandapurāṇa*, and is central to interpreting the Kāpālika *mahāvrata*\.
+The mythology is attested in early Śaiva sources, including the *Skandapurāṇa*, and is central to interpreting the Kāpālika *mahāvrata*.
 
 Now notice the astonishing inversion.
 
@@ -324,9 +324,9 @@ And we meet one of the most fascinating figures in this entire trilogy.
 
 Machig Labdrön $traditionally dated 1055-1153).
 
-The lineage founder of *chöd*\.
+The lineage founder of *chöd*.
 
-Tibetan: - *gcod*\.
+Tibetan: - *gcod*.
 
 The word means cutting or severance.
 
@@ -410,7 +410,7 @@ Research on the care of Tibetan skull drums examines precisely these ritual obje
 
 There's something philosophically extraordinary here.
 
-The ordinary person encounters a human femur and thinks\:
+The ordinary person encounters a human femur and thinks:
 
 "Death."
 
@@ -458,7 +458,7 @@ Aghorī transgression challenges distinctions such as pure and impure.
 
 Chöd challenges the self that appropriates the body and fears its destruction.
 
-Both ask\:
+Both ask:
 
 *What exactly are you protecting?*
 
@@ -591,7 +591,7 @@ Let's start with an essential correction.
 
 The Egyptian *Book of the Dead* was not one single immutable scripture possessed by every Egyptian for thousands of years.
 
-It is the modern conventional title for a tradition of funerary spells, known in Egyptian terms as the *Book of Coming Forth by Day*\.
+It is the modern conventional title for a tradition of funerary spells, known in Egyptian terms as the *Book of Coming Forth by Day*.
 
 Different manuscripts preserve different selections.
 
@@ -599,7 +599,7 @@ And the tradition developed out of earlier funerary literature, including the Py
 
 The texts were not merely descriptions of the underworld.
 
-They were intended to **help the deceased navigate, survive and flourish within it**\.
+They were intended to **help the deceased navigate, survive and flourish within it**.
 
 The ancient Egyptians turned eschatology into an entire ritual technology.
 
@@ -607,7 +607,7 @@ The ancient Egyptians turned eschatology into an entire ritual technology.
 
 Egyptian anthropology is much richer than a simple distinction between body and soul.
 
-Among the significant elements are\:
+Among the significant elements are:
 
 - The *ka*, often associated with vital identity and the reception of offerings.
 - The *ba*, an aspect of individuality and mobility, often depicted as a human-headed bird.
@@ -666,7 +666,7 @@ Though again, resemblance is not identity.
 
 Now for one of the oldest and strangest funerary ceremonies.
 
-The *Opening of the Mouth*\.
+The *Opening of the Mouth*.
 
 A priest performs ritual actions on a mummy or statue, employing specially shaped implements.
 
@@ -764,7 +764,7 @@ Compare the Buddhist idea of karmic dispositions or the Zoroastrian idea that on
 
 Different metaphysics.
 
-A recurring concern\:
+A recurring concern:
 
 **What if the moral character you've constructed is precisely what confronts you when the familiar protections of life disappear?**
 
@@ -884,7 +884,7 @@ This is not evidence that the historical Egyptian king literally ate gods or tha
 
 It is an extraordinarily violent ritual-poetic presentation of divine assimilation and royal transcendence.
 
-Christopher Eyre's *The Cannibal Hymn: A Cultural and Literary Study* provides an extensive scholarly examination of this passage. The inscription itself is securely attested in the Pyramid Texts. \; \]
+Christopher Eyre's *The Cannibal Hymn: A Cultural and Literary Study* provides an extensive scholarly examination of this passage. The inscription itself is securely attested in the Pyramid Texts. ; \]
 
 Now just imagine the theology.
 
@@ -939,7 +939,7 @@ And somebody has devised perhaps the greatest metaphysical disappearance act in 
 
 **尸解 - shījiě**
 
-Conventionally translated as *corpse liberation* or *release from the corpse*\.
+Conventionally translated as *corpse liberation* or *release from the corpse*.
 
 In certain early Daoist traditions, the adept is believed to escape ordinary mortality through a transformation that can outwardly resemble death.
 
@@ -955,7 +955,7 @@ A pair of sandals.
 
 One particularly memorable story preserved by Ge Hong describes the adept Ling Shouguang, whose coffin was reportedly found empty apart from an old shoe.
 
-Historian Robert Ford Campany discusses this account in Making Transcendents\.
+Historian Robert Ford Campany discusses this account in Making Transcendents.
 
 Now imagine being the funeral director.
 
@@ -989,7 +989,7 @@ You may have tricked the underworld bureaucracy.
 
 You've left your clothes, sword or sandals as evidence of departure.
 
-And the tradition still says\:
+And the tradition still says:
 
 "Excellent work. Unfortunately, further spiritual development required."
 
@@ -1084,7 +1084,7 @@ Memory.
 
 The deceased must identify themselves correctly to the guardians.
 
-The central declaration is\:
+The central declaration is:
 
 **Γῆς παῖς εἰμι καὶ Οὐρανοῦ ἀστερόεντος.**
 
@@ -1092,7 +1092,7 @@ The central declaration is\:
 
 "I am a child of Earth and starry Heaven."
 
-Petelia tablet, line 6. \; \]
+Petelia tablet, line 6. ; \]
 
 Now this is absolutely magnificent.
 
@@ -1136,13 +1136,13 @@ In the *Bardo Thödol* traditions, instruction and recognition are central to na
 
 In the Orphic tablets, knowledge retained or recovered in the underworld becomes crucial.
 
-In Trika, the deepest liberation is *pratyabhijñā*\.
+In Trika, the deepest liberation is *pratyabhijñā*.
 
 Recognition.
 
 Different metaphysics, different ritual cultures, different historical developments.
 
-But there is a striking shared intuition\:
+But there is a striking shared intuition:
 
 **The greatest danger at death may not be the absence of information but the failure to recognize something crucial.**
 
@@ -1215,7 +1215,7 @@ And it produces one of the strangest funerary practices we've encountered.
 
 ### The corpse-demon Nasu
 
-In the *Vidēvdād* and later Zoroastrian literature, a demon associated with decay and corpse pollution is called *Nasu*\.
+In the *Vidēvdād* and later Zoroastrian literature, a demon associated with decay and corpse pollution is called *Nasu*.
 
 The demon can be represented as a fly.
 
@@ -1227,7 +1227,7 @@ The rite is known as **sagdīd**, the gaze of the dog.
 
 The dog's sight is understood as having protective power against the corpse-demon.
 
-This is extensively documented in the *Encyclopaedia Iranica* entries on Nasu and Zoroastrian corpse disposal. \; \]
+This is extensively documented in the *Encyclopaedia Iranica* entries on Nasu and Zoroastrian corpse disposal. ; \]
 
 Now picture the ritual situation.
 
@@ -1235,7 +1235,7 @@ A human has died.
 
 The demon of corpse pollution is supposedly approaching.
 
-And the protective religious specialist is\:
+And the protective religious specialist is:
 
 A dog.
 
@@ -1265,7 +1265,7 @@ The opposition between beneficial and destructive forces has a very different th
 
 In the surviving *Hādōxt Nask*, the deceased person's soul is described as remaining near the body for three nights.
 
-Then it encounters its *daēnā*\.
+Then it encounters its *daēnā*.
 
 This is one of the most philosophically beautiful ideas in ancient religion.
 
@@ -1277,7 +1277,7 @@ And what does this figure represent?
 
 **The person's own moral character, now confronting them as an encounterable reality.**
 
-The *Encyclopaedia Iranica* documents this in its articles on the *Hādōxt Nask*, *daēnā* and Zoroastrian eschatology. \; ; \]
+The *Encyclopaedia Iranica* documents this in its articles on the *Hādōxt Nask*, *daēnā* and Zoroastrian eschatology. ; ; \]
 
 Think about that.
 
@@ -1287,7 +1287,7 @@ You encounter a mysterious being.
 
 You ask who they are.
 
-And the answer, in effect, is\:
+And the answer, in effect, is:
 
 "I'm what you've made of yourself."
 
@@ -1347,7 +1347,7 @@ And that is why the *daēnā* may be the most frightening figure in our entire g
 
 Not because she's a monster.
 
-But because she's **you, with all the self-deception removed**\.
+But because she's **you, with all the self-deception removed**.
 
 
 ## IX. JAPAN: The monks who tried to become Buddhas by preserving their own corpses
@@ -1471,7 +1471,7 @@ Now we're entering a field where modern scientists have actually undertaken empi
 
 *Tukdam.*
 
-Tibetan: *thugs dam*\.
+Tibetan: *thugs dam*.
 
 In certain Tibetan Buddhist traditions, advanced practitioners are said to remain in a meditative state associated with the subtle consciousness of clear light after clinical death.
 
@@ -1487,7 +1487,7 @@ A collaborative project involving the University of Wisconsin-Madison's Center f
 
 In a peer-reviewed study published in January 2021, researchers recorded EEG and auditory-response data.
 
-They found **no detectable EEG activity in the postmortem tukdam cases studied**\.
+They found **no detectable EEG activity in the postmortem tukdam cases studied**.
 
 The measurements were taken more than 26 hours after death, and the study acknowledged important limitations.
 
@@ -1507,7 +1507,7 @@ Later research has documented unusually prolonged preservation in some deceased 
 
 A 2025 anthropological study describes how Tibetan religious interpretations and biomedical classifications understand the dying process differently.
 
-Another documented case described observations of delayed decomposition over an extended postmortem period, with the onset of more recognizable decomposition afterward. \; \]
+Another documented case described observations of delayed decomposition over an extended postmortem period, with the onset of more recognizable decomposition afterward. ; \]
 
 This is fascinating because it creates a genuine interdisciplinary problem.
 
@@ -1614,7 +1614,7 @@ The body is imagined or observed in states of decay.
 
 At each stage, the practitioner relates the sight to their own condition.
 
-A recurring formula can be translated\:
+A recurring formula can be translated:
 
 "This body, too, is of that nature. It will become like that. It cannot escape that fate."
 
@@ -1674,11 +1674,11 @@ Memorize the Egyptian spells.
 
 Understand the Daoist accounts of immortality.
 
-Become an expert on the *Brahmayāmala*\.
+Become an expert on the *Brahmayāmala*.
 
 Learn the Tibetan classifications of phowa.
 
-And still fail to confront one elementary truth\:
+And still fail to confront one elementary truth:
 
 **Your own body is going to die.**
 
@@ -1735,7 +1735,7 @@ The Japanese ascetic seeks to become a continuing sacred presence.
 
 The Dzogchen master, according to tradition, may manifest extraordinary signs at death.
 
-And the early Buddhist practitioner simply looks at a corpse and recognizes\:
+And the early Buddhist practitioner simply looks at a corpse and recognizes:
 
 *This is what happens to bodies.*
 
@@ -1779,7 +1779,7 @@ Now let's bring our trilogy home.
 
 In Part I, we investigated phowa and the possibility of consciously redirecting the process of death.
 
-The question was\:
+The question was:
 
 *Where does consciousness go?*
 
@@ -1789,7 +1789,7 @@ In Part II, we entered the Śaiva death yogas and discovered Abhinavagupta's rad
 
 Then we investigated rebirth.
 
-And the question became more disturbing\:
+And the question became more disturbing:
 
 *What if the conditions responsible for experiencing oneself as a limited being survive the loss of the body?*
 
@@ -1851,11 +1851,11 @@ A mystical accomplishment so spectacular that death itself must surrender.
 
 And that temptation has generated some of the strangest, most astonishing religious practices ever devised.
 
-But then the Buddhist asks\:
+But then the Buddhist asks:
 
 What is this self that must be made immortal?
 
-And Abhinavagupta asks\:
+And Abhinavagupta asks:
 
 What is the consciousness that already makes every experience of mortality possible?
 
@@ -2079,7 +2079,7 @@ Not where consciousness goes.
 
 Not whether you can avoid another birth.
 
-But\:
+But:
 
 **What are you, right now, that makes you so afraid of ceasing to be?**
 
@@ -2191,7 +2191,7 @@ The Buddhist examines the dependently arisen being and refuses to invent an eter
 
 The Śaiva examines the changing manifestation and recognizes the freedom of consciousness.
 
-And the frightened individual, who began this trilogy searching for the secret to escaping death, finally encounters the question they were avoiding all along\:
+And the frightened individual, who began this trilogy searching for the secret to escaping death, finally encounters the question they were avoiding all along:
 
 *Who was trying to escape?*
 
@@ -2230,6 +2230,6 @@ And there is still time to begin.
 
 Principal research behind the finale
 
-For the cremation-ground Śaiva material, the strongest scholarly starting points are Ronald Barrett's , David Lorenzen's *The Kāpālikas and Kālāmukhas*, and Nina Mirnig's \. For Tibetan chöd, consult Sarah Harding's ; for Egyptian mortuary religion, the Metropolitan Museum's collections of and ; and for the empirical investigation of tukdam, the \.
+For the cremation-ground Śaiva material, the strongest scholarly starting points are Ronald Barrett's , David Lorenzen's *The Kāpālikas and Kālāmukhas*, and Nina Mirnig's . For Tibetan chöd, consult Sarah Harding's ; for Egyptian mortuary religion, the Metropolitan Museum's collections of and ; and for the empirical investigation of tukdam, the .
 
 The comparison is deliberately cross-cultural, not a claim that all these traditions share one hidden doctrine or that their extraordinary supernatural accounts are established historical events.

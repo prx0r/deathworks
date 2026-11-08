@@ -33,7 +33,7 @@ Yet his household is effectively still operating.
 
 Now travel to Arabia.
 
-A new religious proclamation announces resurrection and judgment. The dead will be raised by God. Their actions matter. And between death and resurrection stands a mysterious barrier called *barzakh*\.
+A new religious proclamation announces resurrection and judgment. The dead will be raised by God. Their actions matter. And between death and resurrection stands a mysterious barrier called *barzakh*.
 
 Now China.
 
@@ -57,9 +57,9 @@ Yet there are startling recurring patterns.
 
 **The dead remain connected to the living. Identity proves more complicated than the physical body. Death becomes a transition requiring attention. And the way one lives may affect what follows.**
 
-But here's the critical discovery from comparative anthropology\:
+But here's the critical discovery from comparative anthropology:
 
-There is **no universal agreement that an immortal soul survives death, that everybody reincarnates, or that the same afterlife awaits everyone**\.
+There is **no universal agreement that an immortal soul survives death, that everybody reincarnates, or that the same afterlife awaits everyone**.
 
 What recurs is more subtle: the refusal to treat biological death as a simple event without further questions about personhood, relationships, morality and continuity.
 
@@ -90,7 +90,7 @@ The Egyptians did not generally understand a person as simply a body containing 
 
 The living person comprised multiple interrelated aspects.
 
-Among them were the physical body, name, heart, *ka* and *ba*\.
+Among them were the physical body, name, heart, *ka* and *ba*.
 
 The *ka* is commonly understood as a vital aspect of the person, intimately connected to sustenance and offerings.
 
@@ -124,7 +124,7 @@ That's an astonishingly different model from a little soul flying out of the sku
 
 ### The mummy was not just a memorial
 
-In an Egyptian mortuary chapel, a statue could provide a locus for the *ka*\.
+In an Egyptian mortuary chapel, a statue could provide a locus for the *ka*.
 
 Food and drink were offered.
 
@@ -364,11 +364,11 @@ And the answer is no.
 
 This is not Buddhist reincarnation.
 
-It's not Egyptian transformation into an *akh*\.
+It's not Egyptian transformation into an *akh*.
 
 It's not Trika's liberation through Śiva-recognition.
 
-In mainstream Islamic doctrine, God resurrects the dead for judgment. Earthly life is not ordinarily understood as one episode in an indefinite sequence of karmic human births. \; ; \]
+In mainstream Islamic doctrine, God resurrects the dead for judgment. Earthly life is not ordinarily understood as one episode in an indefinite sequence of karmic human births. ; ; \]
 
 Now the existential problem becomes obvious.
 
@@ -497,11 +497,11 @@ Buddhist and Daoist traditions supplied additional accounts of the postmortem co
 
 That means even people participating in outwardly similar ceremonies could understand them differently.
 
-One person might say\:
+One person might say:
 
 "We offer food because the ancestor's spirit receives it."
 
-Another might say\:
+Another might say:
 
 "We perform the rite because remembering our predecessors cultivates our humanity."
 
@@ -519,7 +519,7 @@ What if different aspects of a person have different kinds of continuity?
 
 What if the biological body ends, while the person's moral influence, ancestral presence and supposed spiritual existence are understood through separate categories?
 
-The Egyptian *ka*, *ba* and *akh* aren't the same as Chinese *hún* and *pò*\.
+The Egyptian *ka*, *ba* and *akh* aren't the same as Chinese *hún* and *pò*.
 
 But both traditions reject the assumption that personhood must be explained by one simple, indivisible thing.
 
@@ -529,7 +529,7 @@ And this brings us to a fourth recurring theme.
 
 This recurs with astonishing frequency.
 
-The Egyptian offers nourishment to the *ka*\.
+The Egyptian offers nourishment to the *ka*.
 
 The Andean family tends the sacred ancestor.
 
@@ -541,7 +541,7 @@ The Muslim community washes, shrouds, prays over and buries the deceased, and ma
 
 The outward rites vary enormously.
 
-But the underlying social principle is remarkably widespread\:
+But the underlying social principle is remarkably widespread:
 
 **Death does not cancel the living person's responsibilities toward someone they loved.**
 
@@ -664,7 +664,7 @@ Trika, by contrast, grounds the ultimate possibility of finite experience in Śi
 
 Tibetan Buddhism understands rebirth through conditioned mental continuity without a permanent self.
 
-They are answering different versions of the question\:
+They are answering different versions of the question:
 
 **How is one life connected to lives that came before it?**
 
@@ -701,7 +701,7 @@ Not remotely.
 
 In influential Nahua accounts, the manner of death played a major role in the deceased person's destination.
 
-Death involving water and certain rain-associated conditions could lead to *Tlalocan*\.
+Death involving water and certain rain-associated conditions could lead to *Tlalocan*.
 
 Warriors who died in battle and certain women who died in childbirth were associated with the solar domain.
 
@@ -756,7 +756,7 @@ In the developed Zoroastrian account, the soul remains near the body for three n
 
 Afterward it proceeds toward judgment.
 
-And it encounters the *daēnā*\.
+And it encounters the *daēnā*.
 
 An aspect of the individual's religious and moral identity.
 
@@ -766,7 +766,7 @@ Her beauty reflects the goodness of the individual's thoughts, words and deeds.
 
 A wicked person's corresponding encounter is terrifying.
 
-The *Encyclopaedia Iranica* documents the underlying Avestan and later Pahlavi sources. \; \]
+The *Encyclopaedia Iranica* documents the underlying Avestan and later Pahlavi sources. ; \]
 
 Now imagine this.
 
@@ -778,7 +778,7 @@ A figure approaches.
 
 You ask who they are.
 
-And the meaning of the encounter is\:
+And the meaning of the encounter is:
 
 *I am what you have made of yourself.*
 
@@ -868,7 +868,7 @@ The extraordinary religious extension is the claim that such moral causality rea
 
 Whether it does remains unresolved.
 
-But the practical question already matters\:
+But the practical question already matters:
 
 **What are your actions making of you?**
 
@@ -1026,13 +1026,13 @@ Now return to *Paramārthasāra* 93-95.
 
 Abhinavagupta argues that the knowledge of one's ultimate nature does not become false or disappear merely because the physical body dies.
 
-The decisive line in verse 95 is\:
+The decisive line in verse 95 is:
 
 **मरणावसरे ज्ञानि न च्यवते स्वात्मपरमार्थात्।**
 
 *maraṇāvasare jñāni na cyavate svātmaparamārthāt.*
 
-My translation\:
+My translation:
 
 "O knower, at the moment of death one does not fall away from the ultimate reality of one's own Self."
 
@@ -1367,15 +1367,15 @@ The Qur'an.
 
 The Orphic tablets.
 
-The *Paramārthasāra*\.
+The *Paramārthasāra*.
 
-The *Bardo Thödol*\.
+The *Bardo Thödol*.
 
 The ethnographic record of ancestors in Peru and Africa.
 
 The biological science of dying.
 
-And still one question will remain unanswered until you've examined your own experience\:
+And still one question will remain unanswered until you've examined your own experience:
 
 **What is the relationship between consciousness, the person you believe yourself to be, and the body through which the world presently appears?**
 
@@ -1488,6 +1488,6 @@ And whatever happens after that, you will have already lived this life.
 
 Core research for this comparative finale
 
-The strongest scholarly foundations are Matthew Engelke's ; Christopher Heaney's ; Ahmad Al-Jallad's ; Columbia University's ; the ; and the \.
+The strongest scholarly foundations are Matthew Engelke's ; Christopher Heaney's ; Ahmad Al-Jallad's ; Columbia University's ; the ; and the .
 
 These support a comparison of attested beliefs and practices, not a claim that historical agreement establishes the existence of an afterlife.

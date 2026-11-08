@@ -8,7 +8,7 @@ The first major discovery from the primary sources is that **both traditions rea
 
 In the Tibetan Buddhist tradition, phowa (*'pho ba*\) belongs to the transmitted Six Dharmas, alongside the much more extraordinary practice of entering another body (*grong 'jug*\). The Indian instructions attributed to Tilopa explicitly discuss both.
 
-In Trika, Abhinavagupta's *Tantrasāra* describes initiation at the moment of death (Chapter 15), the liberation of the deceased through ritual (Chapter 16), and postmortem rites (Chapter 19). These are genuine, textually attested teachings, not a loose analogy with Tibetan Buddhism. \; \]
+In Trika, Abhinavagupta's *Tantrasāra* describes initiation at the moment of death (Chapter 15), the liberation of the deceased through ritual (Chapter 16), and postmortem rites (Chapter 19). These are genuine, textually attested teachings, not a loose analogy with Tibetan Buddhism. ; \]
 
 But the most fascinating problem is philosophical.
 
@@ -37,7 +37,7 @@ Your lungs are going to stop.
 
 Your elaborate autobiographical identity, with its preferences, anxieties, opinions, ambitions and passionately defended metaphysical theories, is going to lose its ordinary biological support.
 
-And the tantric traditions ask an absolutely extraordinary question\:
+And the tantric traditions ask an absolutely extraordinary question:
 
 *Does the collapse of the body necessarily entail the collapse of every possibility of consciousness?*
 
@@ -45,19 +45,19 @@ Notice that this is not yet the claim that consciousness survives death. It is a
 
 We mustn't cheat by sneaking our preferred answer into the question.
 
-The Buddhist begins by examining experience as a causally dependent process. The Trika Śaiva begins from the fundamental reality of self-revealing consciousness, *prakāśa*, inseparable from its capacity for reflexive awareness, *vimarśa*\.
+The Buddhist begins by examining experience as a causally dependent process. The Trika Śaiva begins from the fundamental reality of self-revealing consciousness, *prakāśa*, inseparable from its capacity for reflexive awareness, *vimarśa*.
 
 Both investigate the apparent individual. But they disagree about the ultimate nature of what is revealed.
 
-And then, because Indian tantric history is gloriously incapable of leaving anything at the level of a sensible philosophical disagreement, somebody asks\:
+And then, because Indian tantric history is gloriously incapable of leaving anything at the level of a sensible philosophical disagreement, somebody asks:
 
 *Can we actually direct the process of dying?*
 
-Somebody else adds\:
+Somebody else adds:
 
 *Could we arrange for consciousness to leave through the top of the head?*
 
-And the next absolute lunatic goes\:
+And the next absolute lunatic goes:
 
 *Could I enter somebody else's body instead?*
 
@@ -69,7 +69,7 @@ These claims form part of historical religious and contemplative systems; their 
 
 Tilopa, Nāropa, Marpa, the Kagyu transmissions, and the later Tibetan systems
 
-Research basis: the transmitted *Oral Instruction of the Six Yogas*, translated by Glenn Mullin; the traditional classifications documented by Study Buddhism; and Dr. Alexander Berzin's explanations of completion-stage practice. \; ; \]
+Research basis: the transmitted *Oral Instruction of the Six Yogas*, translated by Glenn Mullin; the traditional classifications documented by Study Buddhism; and Dr. Alexander Berzin's explanations of completion-stage practice. ; ; \]
 
 First, a misconception needs to die before we do.
 
@@ -81,7 +81,7 @@ They're concerned with the extraordinary relationship between appearance, mind, 
 
 Different transmissions count the six differently. One common arrangement has inner heat, illusory body, dream, clear light, intermediate state and transference. Another counts transference and entering another body separately, placing dream yoga within the illusory-body training.
 
-That distinction matters because **the yoga of entering another body is not simply an internet legend appended to the tradition**\. It appears within the actual classical lists.
+That distinction matters because **the yoga of entering another body is not simply an internet legend appended to the tradition**. It appears within the actual classical lists.
 
 Now follow the architecture.
 
@@ -163,7 +163,7 @@ In the Guhyasamāja-derived completion-stage explanation presented by Berzin, th
 
 The manifest activity of ordinary perception and thought subsides until the most subtle level of mind becomes apparent.
 
-This is the *clear-light mind*\.
+This is the *clear-light mind*.
 
 Not a little incandescent soul.
 
@@ -177,7 +177,7 @@ That last point is essential. A subtle state of awareness may still be accompani
 
 The tradition distinguishes the clear light naturally manifest at death from the meditative realization cultivated during life.
 
-Their meeting is sometimes called the recognition of the *mother and child luminosities*\.
+Their meeting is sometimes called the recognition of the *mother and child luminosities*.
 
 The mother is not some cosmic lady hiding behind Saturn.
 
@@ -217,15 +217,15 @@ Now the yogin isn't merely preparing to recognize what arises.
 
 The practitioner is attempting, within the tantric model, to direct the continuity of consciousness toward liberation or an auspicious rebirth.
 
-One traditional destination is the buddhafield of Amitābha, *Sukhāvatī*, Tibetan *Dewachen*\.
+One traditional destination is the buddhafield of Amitābha, *Sukhāvatī*, Tibetan *Dewachen*.
 
-And the crucial question becomes\:
+And the crucial question becomes:
 
 **What would it mean to transfer consciousness without transferring an eternal self?**
 
 That's the philosophical grenade at the center of the whole system.
 
-\; ; ; \]
+; ; ; \]
 
 ## III. Phowa: the metaphysics of leaving
 
@@ -281,7 +281,7 @@ Your consciousness supposedly transfers into Amitābha's buddhafield.
 
 Wonderful.
 
-Now explain what you mean by **your consciousness**\.
+Now explain what you mean by **your consciousness**.
 
 The Buddha is not going to let you sneak an immortal soul into the back of Vajrayāna wearing a fake moustache.
 
@@ -289,7 +289,7 @@ The foundational Buddhist doctrine of *anātman* denies a permanent, independent
 
 Even *vijñāna*, consciousness, is not a timeless personal substance in early Buddhist analysis.
 
-Indeed, the Buddha explicitly criticizes the notion that numerically identical consciousness simply wanders unchanged from life to life. \; \]
+Indeed, the Buddha explicitly criticizes the notion that numerically identical consciousness simply wanders unchanged from life to life. ; \]
 
 So if the same entity does not transmigrate, how could rebirth occur?
 
@@ -319,7 +319,7 @@ The continuity is conventionally designated as belonging to a person, although n
 
 This isn't to say all Buddhist schools explain continuity identically.
 
-Certain Yogācāra systems invoke *ālayavijñāna*, the storehouse consciousness, to explain the preservation of karmic potentials. But they do not intend it as an immortal ātman. Other systems give different accounts, and Tibetan Gelug explanations of the subtlest mind cannot simply be collapsed into the Yogācāra storehouse model. \; \]
+Certain Yogācāra systems invoke *ālayavijñāna*, the storehouse consciousness, to explain the preservation of karmic potentials. But they do not intend it as an immortal ātman. Other systems give different accounts, and Tibetan Gelug explanations of the subtlest mind cannot simply be collapsed into the Yogācāra storehouse model. ; \]
 
 Now return to phowa.
 
@@ -375,7 +375,7 @@ Not all phowa is equally literal in its understanding of transference.
 
 In a classification transmitted by Patrul Rinpoche, five forms are distinguished: dharmakāya transference, sambhogakāya transference, nirmāṇakāya transference, ordinary transference through three recognitions, and transference performed for the deceased through compassion.
 
-Other lineages classify these somewhat differently. This is a broader Tibetan presentation, not a claim that Patrul's fivefold scheme is the original sixfold arrangement of Nāropa. \; \]
+Other lineages classify these somewhat differently. This is a broader Tibetan presentation, not a claim that Patrul's fivefold scheme is the original sixfold arrangement of Nāropa. ; \]
 
 ### Ordinary phowa: consciousness has a destination
 
@@ -401,7 +401,7 @@ Amitābha isn't merely functioning as a cosmic airport official processing the r
 
 The Buddha embodies immeasurable light, wisdom and compassionate activity. The aspiration for Sukhāvatī is directed toward a condition understood as especially conducive to awakening.
 
-And this distinction matters: **rebirth in a pure land is not invariably identical with immediately attaining complete buddhahood**\.
+And this distinction matters: **rebirth in a pure land is not invariably identical with immediately attaining complete buddhahood**.
 
 In many presentations it is a supremely favorable environment for accomplishing the path.
 
@@ -431,7 +431,7 @@ Instead of "Get me the fuck out of saṃsāra," the aspiration becomes something
 
 "May the conditions of my existence be transformed so that I can actually help."
 
-The metaphysical claim now involves not simply continuity, but the possibility of **a transformed mode of embodiment**\.
+The metaphysical claim now involves not simply continuity, but the possibility of **a transformed mode of embodiment**.
 
 ### Sambhogakāya phowa: dying into the awakened form
 
@@ -489,11 +489,11 @@ But his explanation of what is recognized will be radically different.
 
 ## VI. Drong-jug: the absolutely deranged yoga of entering another body
 
-Primary Tibetan source: Tilopa-attributed instructions, translated by Glenn Mullin. Later expositions: Tsongkhapa and modern Gelug presentations. Comparative precursor: Pātañjalayogaśāstra 3.38-39. \; ; \]
+Primary Tibetan source: Tilopa-attributed instructions, translated by Glenn Mullin. Later expositions: Tsongkhapa and modern Gelug presentations. Comparative precursor: Pātañjalayogaśāstra 3.38-39. ; ; \]
 
 Now we've reached the material that sounds as though somebody accidentally mixed an Indian tantric manuscript with a science-fiction novel.
 
-*Grong 'jug*\.
+*Grong 'jug*.
 
 Often translated as entering the citadel.
 
@@ -535,7 +535,7 @@ The tradition records the claim. That is different from verifying the phenomenon
 
 Consider Patañjali's *Yogasūtra* 3.38.
 
-The text says\:
+The text says:
 
 *bandhakāraṇaśaithilyāt ... cittasya paraśarīrāveśaḥ.*
 
@@ -616,7 +616,7 @@ What if *all* organisms are expressions of one universal consciousness?
 
 The metaphysics of consciousness in nondual Trika
 
-Research basis: *Tantrasāra* 1-2, 15-16 and 19; *Paramārthasāra* 92-99 with Yogarāja's commentary; Loriliai Biernacki's scholarship on the subtle body; and the *Mālinīvijayottaratantra*\. \; ; ; \]
+Research basis: *Tantrasāra* 1-2, 15-16 and 19; *Paramārthasāra* 92-99 with Yogarāja's commentary; Loriliai Biernacki's scholarship on the subtle body; and the *Mālinīvijayottaratantra*. ; ; ; \]
 
 Right.
 
@@ -636,7 +636,7 @@ But Abhinavagupta's philosophical inquiry concerns a deeper question.
 
 What is the nature of the very reality in which bodies, sensations, perceptions, spatial relations and thoughts are disclosed?
 
-For Trika, the ultimate is *Paramaśiva*\.
+For Trika, the ultimate is *Paramaśiva*.
 
 Not merely a superhuman entity located somewhere beyond the universe.
 
@@ -654,7 +654,7 @@ The world is not an alien substance standing outside that reality.
 
 It is the manifestation of consciousness through its own *svātantrya*, freedom.
 
-Abhinavagupta's system recognizes the reality of manifestation rather than reducing the world to sheer unreality. \; \]
+Abhinavagupta's system recognizes the reality of manifestation rather than reducing the world to sheer unreality. ; \]
 
 Now here's the staggering implication.
 
@@ -692,7 +692,7 @@ It's the cosmic equivalent of trying to move the ocean from one part of itself t
 
 Excellent question.
 
-Now we reach *saṃkoca*\.
+Now we reach *saṃkoca*.
 
 Contraction.
 
@@ -700,7 +700,7 @@ The unlimited, according to Trika, manifests itself as a limited subject.
 
 The universal appears under the condition of particularity.
 
-Instead of experiencing the fullness of consciousness, the individual experiences\:
+Instead of experiencing the fullness of consciousness, the individual experiences:
 
 "I am here."
 
@@ -726,11 +726,11 @@ They're technical explanations of how unlimited consciousness appears as a const
 
 And notice the delicious irony.
 
-The ordinary individual thinks\:
+The ordinary individual thinks:
 
 "I am consciousness imprisoned in a body. I need to escape."
 
-Trika responds\:
+Trika responds:
 
 "The feeling that you are an imprisoned little consciousness is itself the contraction."
 
@@ -754,11 +754,11 @@ If universal consciousness never travels, does Abhinavagupta simply deny reincar
 
 Absolutely not.
 
-This is where we need a distinction between **ultimate identity and the continuity of the contracted individual**\.
+This is where we need a distinction between **ultimate identity and the continuity of the contracted individual**.
 
 In Trika, the finite experiencer, the *jīva* or limited *pramātṛ*, is associated with a subtle psychophysical organization.
 
-One important term is *puryaṣṭaka*\.
+One important term is *puryaṣṭaka*.
 
 The eightfold city.
 
@@ -766,7 +766,7 @@ This is a subtle body, not simply a miniature replica of the gross physical orga
 
 It incorporates structures of limited cognition and vital functioning, allowing the finite subject's experience and karmic continuity to be explained.
 
-Modern scholarship, including Loriliai Biernacki's work, examines how Abhinavagupta's subtle-body theory mediates between consciousness, agency, embodiment and transmigration. \; ; \]
+Modern scholarship, including Loriliai Biernacki's work, examines how Abhinavagupta's subtle-body theory mediates between consciousness, agency, embodiment and transmigration. ; ; \]
 
 Here's the important distinction.
 
@@ -816,7 +816,7 @@ And what is the ultimate nature of the consciousness in which all such transitio
 
 The first admits cosmological answers involving subtle bodies and rebirth.
 
-The second receives the answer of *Pratyabhijñā*\.
+The second receives the answer of *Pratyabhijñā*.
 
 Recognition.
 
@@ -834,11 +834,11 @@ Verse 92 describes the individual associated with existence between bodies and i
 
 Verse 93 says that the self's realization does not become something different merely through the body's fall.
 
-Then verse 95 reaches the crucial point\:
+Then verse 95 reaches the crucial point:
 
 *maraṇāvasare jñānī na cyavate svātmaparamārthāt.*
 
-My translation\:
+My translation:
 
 *At the moment of death, the knower does not fall away from the ultimate truth of their own Self.*
 
@@ -846,7 +846,7 @@ That is absolutely magnificent.
 
 Because it is not primarily saying that the realized yogin performs an extraordinary manoeuvre at death.
 
-It says that **death does not dislodge the realized knower from the truth already established**\.
+It says that **death does not dislodge the realized knower from the truth already established**.
 
 The sensory faculties may fail.
 
@@ -862,7 +862,7 @@ Verses 98-99 then consider someone who dies before full realization. Such a prac
 
 So there is no need to pretend that every aspirant is automatically liberated when the body expires.
 
-The tradition preserves a genuine distinction between achieved realization and incomplete progress. \; \]
+The tradition preserves a genuine distinction between achieved realization and incomplete progress. ; \]
 
 And now we are ready for the astonishing ritual material.
 
@@ -876,11 +876,11 @@ But there's definitely a philosophical problem worth examining.
 
 *Utkrānti* refers to departure, ascent or going forth.
 
-Its use for deliberate departure from the body is attested in Śaiva tantric traditions, notably in sources such as the *Mālinīvijayottaratantra* and *Kubjikāmatatantra*\.
+Its use for deliberate departure from the body is attested in Śaiva tantric traditions, notably in sources such as the *Mālinīvijayottaratantra* and *Kubjikāmatatantra*.
 
 The broader history reaches beyond Abhinavagupta and overlaps with older South Asian ideas of bodily exit-points and postmortem destinations.
 
-This isn't a Tibetan monopoly on spectacular death rituals. \; ; \]
+This isn't a Tibetan monopoly on spectacular death rituals. ; ; \]
 
 But there are distinctions among Śaiva *utkrānti*, initiation at death, postmortem initiation, and liberating cremation.
 
@@ -890,7 +890,7 @@ They are related practices, not interchangeable names.
 
 Now listen carefully, because this is one of our most important primary-text discoveries.
 
-Abhinavagupta's *Tantrasāra* Chapter 15 describes *sadyaḥ samutkramaṇadīkṣā*\.
+Abhinavagupta's *Tantrasāra* Chapter 15 describes *sadyaḥ samutkramaṇadīkṣā*.
 
 An initiation for immediate departure or ascent.
 
@@ -994,11 +994,11 @@ Yet here it is in Abhinavagupta.
 
 But then comes the sentence that changes how we should read the entire bloody system.
 
-*Tantrasāra* 19.6 states that these funerary rites are not useful for the *tattvajñānin*\.
+*Tantrasāra* 19.6 states that these funerary rites are not useful for the *tattvajñānin*.
 
 The knower of reality.
 
-In other words, **one who has realized the truth does not require these postmortem ritual interventions**\.
+In other words, **one who has realized the truth does not require these postmortem ritual interventions**.
 
 Abhinavagupta even understands the realized knower's death as an occasion of significance for those continuing the transmission of knowledge.
 
@@ -1012,7 +1012,7 @@ But they do not constitute an ultimate necessity for the one established in real
 
 It's almost comically beautiful.
 
-The same text that offers you an entire metaphysical emergency service for dying and dead people eventually says\:
+The same text that offers you an entire metaphysical emergency service for dying and dead people eventually says:
 
 "If you've actually realized the truth, none of this is required."
 
@@ -1036,7 +1036,7 @@ Often it concerns immersion in, or possession by, divine consciousness.
 
 That is not the same ritual phenomenon as drong-jug.
 
-We would be manufacturing textual equivalence if we treated every instance of *praveśa* as proof of the same practice. \; \]
+We would be manufacturing textual equivalence if we treated every instance of *praveśa* as proof of the same practice. ; \]
 
 But there is an extraordinary philosophical comparison available.
 
@@ -1086,7 +1086,7 @@ Put Nāropa's Buddhist inheritance on one side.
 
 Put Abhinavagupta's Pratyabhijñā on the other.
 
-Ask them both\:
+Ask them both:
 
 "What is the ultimate nature of consciousness?"
 
@@ -1132,7 +1132,7 @@ It is that the individual's ultimate nature is the absolute, which has manifeste
 
 The realized *aham* is not the empirical ego.
 
-It is the universal *I*\.
+It is the universal *I*.
 
 The difference is crucial.
 
@@ -1284,7 +1284,7 @@ It is already present in the philosophical question of what constitutes selfhood
 
 ### And Abhinavagupta delivers the final blow
 
-Return once more to *Paramārthasāra* 95\.
+Return once more to *Paramārthasāra* 95.
 
 The knower does not fall from the truth of the Self at death.
 
@@ -1308,7 +1308,7 @@ The Buddhist dismantles the imaginary owner of experience.
 
 The Trika adept recognizes the unlimited consciousness that was appearing as a limited owner.
 
-And both force the practitioner to confront the same devastatingly simple question\:
+And both force the practitioner to confront the same devastatingly simple question:
 
 **What exactly were you trying to save?**
 
@@ -1331,16 +1331,16 @@ But because we've finally started questioning who was supposed to board the flig
 
 For a proper further investigation, these are the strongest places to go rather than modern summaries that casually conflate all the traditions.
 
-- **Nāropa's Six Dharmas\:** ; \.
-- **Higher phowa classifications\:** , especially the distinction between dharmakāya and the other forms.
-- **Abhinavagupta's primary Sanskrit\:** \. The essential passages here are 15.1-3, 16.1-19 and 19.1-6.
-- **Trika's account of death and realization\:** \. Study verses 92-99 particularly carefully.
-- **Comparative scholarly research\:** ; Loriliai Biernacki, *The Matter of Wonder*, Chapter 3, for Trika's subtle body and its theory of agency.
+- **Nāropa's Six Dharmas:** ; .
+- **Higher phowa classifications:** , especially the distinction between dharmakāya and the other forms.
+- **Abhinavagupta's primary Sanskrit:** . The essential passages here are 15.1-3, 16.1-19 and 19.1-6.
+- **Trika's account of death and realization:** . Study verses 92-99 particularly carefully.
+- **Comparative scholarly research:** ; Loriliai Biernacki, *The Matter of Wonder*, Chapter 3, for Trika's subtle body and its theory of agency.
 
 The distinction to preserve throughout is between an attested ritual claim, an interpretive philosophical argument, a historically demonstrable connection and an empirically established phenomenon. These are four different kinds of knowledge.
 
 Continue the reading
 
-The natural next subject is the still more extraordinary material in the *Mālinīvijayottaratantra*, *Tantrāloka* and *Vijñānabhairava*\: the relationship between vital breath, the heart of consciousness, the twelve-finger limit (*dvādaśānta*\), yogic exit, the subtle body and the experience of becoming Śiva.
+The natural next subject is the still more extraordinary material in the *Mālinīvijayottaratantra*, *Tantrāloka* and *Vijñānabhairava*: the relationship between vital breath, the heart of consciousness, the twelve-finger limit (*dvādaśānta*\), yogic exit, the subtle body and the experience of becoming Śiva.
 
 [Continue Reading - The Secret Śaiva Death Yogas]

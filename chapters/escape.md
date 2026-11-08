@@ -24,7 +24,7 @@ And discovered that Kashmir Śaivism has its own extraordinary system involving 
 
 The critical primary texts really do contain this material.
 
-In fact, **the principal extended treatment of immediate deathbed initiation in Abhinavagupta's *Tantrāloka* is Chapter 19**, followed by initiation for another person in Chapter 21. The shorter *Tantrasāra* treatments appear in Chapters 15 and 16. These correspondences are directly verifiable in the Sanskrit. \; ; \]
+In fact, **the principal extended treatment of immediate deathbed initiation in Abhinavagupta's *Tantrāloka* is Chapter 19**, followed by initiation for another person in Chapter 21. The shorter *Tantrasāra* treatments appear in Chapters 15 and 16. These correspondences are directly verifiable in the Sanskrit. ; ; \]
 
 Yet there is a magnificent theological complication.
 
@@ -49,7 +49,7 @@ And to understand that, we need to descend into some of the strangest and most b
 
 ## Chapter One. The Mālinīvijayottaratantra: where the madness actually begins
 
-Our first stop is the Mālinīvijayottaratantra\.
+Our first stop is the Mālinīvijayottaratantra.
 
 This is not a minor text Abhinavagupta happens to quote occasionally.
 
@@ -57,17 +57,17 @@ In *Tantrāloka* 1.17-19, he gives the *Mālinīvijayottara* extraordinary autho
 
 For our purposes, two sections are especially important: Chapter 1, verses 42-47, on divine grace and liberation; and Chapter 17, on the six auxiliaries of yoga, including an extraordinary account of deliberate departure from embodiment.
 
-Somadeva Vasudeva's critical edition, *The Yoga of the Mālinīvijayottaratantra* $2004), is the major scholarly reference. The Sanskrit of both passages is available in his edition and in GRETIL's transcription. \; ; \]
+Somadeva Vasudeva's critical edition, *The Yoga of the Mālinīvijayottaratantra* $2004), is the major scholarly reference. The Sanskrit of both passages is available in his edition and in GRETIL's transcription. ; ; \]
 
 ### 1.1 First surprise: liberation begins before the death ritual
 
 At *Mālinīvijayottaratantra* 1.42, the text describes the appropriate moment when Śiva's power comes into relation with an individual.
 
-This is *śaktipāta*\.
+This is *śaktipāta*.
 
 Literally, the descent or occurrence of divine power.
 
-The important word is not merely *śakti*\. It is the relationship between divine grace and the individual who is ready to receive it.
+The important word is not merely *śakti*. It is the relationship between divine grace and the individual who is ready to receive it.
 
 The text then distinguishes several possible results.
 
@@ -79,7 +79,7 @@ Another is drawn toward a genuine teacher.
 
 Another receives initiation and, after undergoing the appropriate course of experience, reaches Śiva.
 
-This culminates in 1.45\:
+This culminates in 1.45:
 
 Mālinīvijayottaratantra 1.45cd · Verified Sanskrit
 
@@ -87,7 +87,7 @@ Mālinīvijayottaratantra 1.45cd · Verified Sanskrit
 
 *tatkṣaṇād vopabhogād vā dehapāte śivaṃ vrajet.*
 
-My literal translation\:
+My literal translation:
 
 "Immediately, or after experience has been undergone, at the body's fall, one may attain Śiva."
 
@@ -137,7 +137,7 @@ After describing contemplative yoga, *Mālinīvijayottaratantra* 17.25 changes d
 
 The text discusses a yogin who regards ordinary enjoyments as unsatisfactory and deliberately abandons the body to attain the eternal state.
 
-The crucial expression is\:
+The crucial expression is:
 
 **स्वशरीरं परित्यज्य शाश्वतं पदमृच्छति।**
 
@@ -163,7 +163,7 @@ The crucial distinction is that we are reading a historically attested ritual pr
 
 Indeed, the text itself issues a startling warning.
 
-Verse 17.30cd\:
+Verse 17.30cd:
 
 **नैनां समुच्चरेद्देवि य इच्छेद्दीर्घजीवितम्।**
 
@@ -221,7 +221,7 @@ A moment of unconsciousness for transcendence.
 
 A spectacular experience for realization.
 
-And this provides our first major distinction\:
+And this provides our first major distinction:
 
 **A successful manipulation of subtle energies, even if we granted the tradition's extraordinary claims, would not automatically constitute the recognition of Śiva.**
 
@@ -262,7 +262,7 @@ In Chapter 6, particularly verses 6.11-15, he develops the relation between cons
 
 The striking claim is that consciousness itself, through its manifestation as prāṇic activity, makes the body appear alive and conscious.
 
-The breath isn't the ultimate creator of awareness. Rather, for Abhinavagupta, vital embodiment is a manifestation of the power of consciousness. \; \]
+The breath isn't the ultimate creator of awareness. Rather, for Abhinavagupta, vital embodiment is a manifestation of the power of consciousness. ; \]
 
 That is a significant ontological reversal.
 
@@ -326,7 +326,7 @@ Not because the universe literally has lungs.
 
 But because the tradition uses the pattern of expansion, return and repose to understand the dynamics of manifestation.
 
-This is **cosmology expressed through contemplative embodiment**\.
+This is **cosmology expressed through contemplative embodiment**.
 
 ### 2.3 The crucial mistake: confusing the manifestation with the source
 
@@ -377,7 +377,7 @@ In the Trika deathbed initiation, it becomes a significant ritual location.
 
 In Tibetan phowa, the crown of the head similarly functions as a privileged exit.
 
-It sounds like the traditions share a peculiar conviction\:
+It sounds like the traditions share a peculiar conviction:
 
 When leaving the body, use the upstairs door.
 
@@ -447,7 +447,7 @@ Abhinavagupta addresses an astonishingly similar problem in *Tantrāloka* 5.14-1
 
 There he reflects upon the fact that everything is already within consciousness and asks how a transition into prāṇa or body could ultimately be conceived.
 
-The key interrogation is\:
+The key interrogation is:
 
 **प्राणे देहेऽथवा कस्मात्संक्रामेत्केन वा कथम्।**
 
@@ -514,7 +514,7 @@ Vijñānabhairava 24 · GRETIL Sanskrit text
 *ūrdhve prāṇo hy adho jīvo visargātmā paroccaret &#124;
 utpattidvitayasthāne bharaṇād bharitā sthitiḥ &#124;&#124;*
 
-A fairly literal rendering\:
+A fairly literal rendering:
 
 "Prāṇa moves upward and jīva downward; the supreme, whose nature is emission, expresses itself. Through fullness at the two places of arising, the state of fullness is established."
 
@@ -552,7 +552,7 @@ Now things get exquisitely subtle.
 
 The verse explores the condition in which the breath-associated Śakti is represented as neither moving outward nor moving inward.
 
-The crucial words are\:
+The crucial words are:
 
 **न व्रजेन्न विशेच्छक्तिः।**
 
@@ -674,7 +674,7 @@ The quieting of mental differentiation.
 
 The emergence of Bhairava.
 
-And finally *svātantrya*\.
+And finally *svātantrya*.
 
 Not mere freedom to travel to another place.
 
@@ -709,7 +709,7 @@ In Jaideva Singh's reading of *Vijñānabhairava* 24-25, the external *dvādaś�
 
 In other contexts, the twelvefold limit is associated with ascent beyond the crown.
 
-This is why we cannot construct a single universal anatomical map by indiscriminately merging different tantric texts. \; \]
+This is why we cannot construct a single universal anatomical map by indiscriminately merging different tantric texts. ; \]
 
 ### 5.1 Why twelve?
 
@@ -786,11 +786,11 @@ The term does not have one universally agreed list of eight components.
 
 Different Sanskrit philosophical and tantric traditions explain its composition differently.
 
-Hayato Kondō's 2016 study demonstrates exactly this problem by examining differing Vedāntic interpretations, while scholarship on Kashmir Śaivism documents distinct Śaiva enumerations. \; \]
+Hayato Kondō's 2016 study demonstrates exactly this problem by examining differing Vedāntic interpretations, while scholarship on Kashmir Śaivism documents distinct Śaiva enumerations. ; \]
 
 ### 6.1 What is the eightfold fortress?
 
-In a common Śaiva and Spanda-associated explanation, the eight components are the five subtle sensory elements (*tanmātras*$ together with *manas*, *buddhi* and *ahaṃkāra*\.
+In a common Śaiva and Spanda-associated explanation, the eight components are the five subtle sensory elements (*tanmātras*$ together with *manas*, *buddhi* and *ahaṃkāra*.
 
 But another Pratyabhijñā-associated analysis groups the five vital functions, the cognitive faculties, the active faculties and intellect. These are eight only when the five vital functions are counted individually and each organ-class is treated collectively.
 
@@ -854,7 +854,7 @@ Outside is what the individual takes to be other than itself.
 
 The finite subject experiences this separation as fundamental.
 
-It says\:
+It says:
 
 "I know this."
 
@@ -927,7 +927,7 @@ The actual objective is not perpetual individual survival.
 
 Now, ladies and gentlemen, we arrive at the actual Śaiva death manual.
 
-*Tantrāloka*, nineteenth *āhnika*\.
+*Tantrāloka*, nineteenth *āhnika*.
 
 This is the expanded counterpart to *Tantrasāra* Chapter 15.
 
@@ -949,7 +949,7 @@ This is the textual genealogy we're after.
 
 The *Mālinī* supplies the earlier scriptural authority.
 
-Abhinavagupta develops its meaning and ritual implications in the *Tantrāloka*\.
+Abhinavagupta develops its meaning and ritual implications in the *Tantrāloka*.
 
 Then the *Tantrasāra* offers a much more compressed treatment.
 
@@ -963,7 +963,7 @@ Now here is a detail people routinely overlook.
 
 Death is approaching.
 
-The disciple is affected by an appropriate manifestation of *śaktipāta*\.
+The disciple is affected by an appropriate manifestation of *śaktipāta*.
 
 The guru evaluates the situation.
 
@@ -981,7 +981,7 @@ It defines the conditions under which a particular transformation is possible.
 
 The ritual is not presented as a mechanical bypass of the entire metaphysical architecture.
 
-Abhinavagupta is not saying\:
+Abhinavagupta is not saying:
 
 "Doesn't matter what state you're in. Just apply the sacred breathing apparatus and enjoy unlimited Śiva."
 
@@ -1053,7 +1053,7 @@ That's a beautiful and unsettling reversal.
 
 *Tantrasāra* 15.3 states that the individual, having departed through the initiation, becomes non-different from Paramaśiva.
 
-The crucial Sanskrit phrase is\:
+The crucial Sanskrit phrase is:
 
 *jīvo niṣkrāntaḥ paramaśivābhinno bhavati.*
 
@@ -1148,7 +1148,7 @@ In *Tantrasāra* 15.5, he says that *brahmavidyā* may be recited into the disci
 
 Now here is why this is more interesting than a generic blessing.
 
-Abhinavagupta specifically explains the power of this recitation in terms of *parāmarśa* and *vimarśa*\.
+Abhinavagupta specifically explains the power of this recitation in terms of *parāmarśa* and *vimarśa*.
 
 The mantra is characterized as being of the nature of reflective awareness.
 
@@ -1170,7 +1170,7 @@ This does not mean that every ordinary utterance possesses the same transformati
 
 The distinction between ordinary linguistic use and spiritually effective mantra is part of the tantric system.
 
-But the fundamental claim is that **language is not ontologically foreign to consciousness**\.
+But the fundamental claim is that **language is not ontologically foreign to consciousness**.
 
 A mantra, understood through the proper knowledge and initiation, can function as a vehicle of recognition.
 
@@ -1257,7 +1257,7 @@ Absolutely not.
 
 And this includes the dead.
 
-The opening of *Tantrāloka* 21 announces\:
+The opening of *Tantrāloka* 21 announces:
 
 *parokṣasaṃsthitasyātha dīkṣākarma nigadyate.*
 
@@ -1277,7 +1277,7 @@ The text develops a specific ritual theory for the liberation of someone no long
 
 Now prepare yourself.
 
-Abhinavagupta describes a ritual called *mahājāla*\.
+Abhinavagupta describes a ritual called *mahājāla*.
 
 The great net.
 
@@ -1287,7 +1287,7 @@ The imagery involves a cosmic net through which the desired individual is brough
 
 A figure made from grass or other materials serves as the representation of the absent person.
 
-And the rite proceeds through purification and initiation. \; \]
+And the rite proceeds through purification and initiation. ; \]
 
 Just take a moment to appreciate how extraordinarily elaborate this metaphysics is.
 
@@ -1458,7 +1458,7 @@ It is distinguished from ordinary phowa because the objective is not simply rebi
 
 It is the appropriation of another embodied vehicle.
 
-The historicity of the transmission and its varied presentations are discussed in Tibetan scholarship, and traditional accounts describe the accomplishment as exceptionally rare. \; \]
+The historicity of the transmission and its varied presentations are discussed in Tibetan scholarship, and traditional accounts describe the accomplishment as exceptionally rare. ; \]
 
 Here's the comparison.
 
@@ -1583,7 +1583,7 @@ That person may attain an exalted condition and subsequently achieve Śiva-reali
 
 
 
-This is particularly interesting because it prevents the simplistic equation\:
+This is particularly interesting because it prevents the simplistic equation:
 
 Spiritual practice plus death equals liberation.
 
@@ -1649,7 +1649,7 @@ What has been recognized is not reducible to that organism.
 
 The ultimate Self has no need to migrate.
 
-In other words, asking where the enlightened Śaiva's consciousness goes is rather like asking\:
+In other words, asking where the enlightened Śaiva's consciousness goes is rather like asking:
 
 "Where does space travel when a room is demolished?"
 
@@ -1903,11 +1903,11 @@ A complete esoteric scholar.
 
 An absolute fucking encyclopedia of metaphysical departure procedures.
 
-And yet he might still be asking\:
+And yet he might still be asking:
 
 "How can I make sure *I* survive?"
 
-Now Abhinavagupta asks him to examine that *I*\.
+Now Abhinavagupta asks him to examine that *I*.
 
 The empirical self?
 

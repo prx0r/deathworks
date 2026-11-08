@@ -68,7 +68,7 @@ TIBETAN BUDDHISM
 
 No permanent self transmigrates. Consciousness and karmic dispositions continue dependently, giving rise to another set of psychophysical processes.
 
-Both traditions distinguish ordinary karmic rebirth from the freedom of the realized practitioner, but disagree about what consciousness ultimately is. \; ; \]
+Both traditions distinguish ordinary karmic rebirth from the freedom of the realized practitioner, but disagree about what consciousness ultimately is. ; ; \]
 
 That distinction is absolutely essential.
 
@@ -111,9 +111,9 @@ Here's where the metaphysics gets genuinely extraordinary.
 
 In Abhinavagupta's system, reality is not fundamentally composed of independent material objects with consciousness mysteriously emerging somewhere along the way.
 
-The absolute is *Paramaśiva*\: consciousness inseparable from its capacity to know itself and manifest an entire world.
+The absolute is *Paramaśiva*: consciousness inseparable from its capacity to know itself and manifest an entire world.
 
-Its essential freedom is *svātantrya*\.
+Its essential freedom is *svātantrya*.
 
 And that freedom includes the ability to manifest itself as apparently limited.
 
@@ -137,7 +137,7 @@ Because if Śiva freely manifests limitation, does that mean Śiva is responsibl
 
 In the ultimate metaphysical account, the manifestation of bondage belongs to Śiva's own power. The tradition doesn't posit a second, independent cosmic villain responsible for corrupting an otherwise helpless God.
 
-Abhinavagupta's *Paramārthasāra* and Yogarāja's commentary explicitly describe the universe as the self-manifestation and self-concealment of divine consciousness. \; \]
+Abhinavagupta's *Paramārthasāra* and Yogarāja's commentary explicitly describe the universe as the self-manifestation and self-concealment of divine consciousness. ; \]
 
 ### The original cosmic identity crisis
 
@@ -161,7 +161,7 @@ To know a particular object involves the distinction between knower and known.
 
 The absolute appears as the finite.
 
-The cosmic *aham*, the universal I, appears as\:
+The cosmic *aham*, the universal I, appears as:
 
 "Hello. I'm a particular person. I'm approximately six feet tall, have unresolved emotional issues, and would really prefer it if reality started behaving according to my expectations."
 
@@ -173,13 +173,13 @@ But this is not meant to suggest that the divine literally suffers from human ps
 
 The philosophical point is that finite subjectivity is a real mode of manifestation without being the ultimate identity of consciousness.
 
-And the process of assuming limitation is called *saṃkoca*\.
+And the process of assuming limitation is called *saṃkoca*.
 
 Contraction.
 
 ### The three locks on the prison
 
-Trika explains the finite individual's condition through three *malas*\.
+Trika explains the finite individual's condition through three *malas*.
 
 1
 
@@ -201,7 +201,7 @@ The differentiation of experience into apparently independent subjects and objec
 
 Limited agency generates the karmic conditions for further experience and embodiment.
 
-\; \]
+; \]
 
 Now watch the logic.
 
@@ -231,7 +231,7 @@ The tradition explicitly extends this pattern beyond the death of the gross body
 
 ### Abhinavagupta says it in an actual verse
 
-*Paramārthasāra*, verse 54\:
+*Paramārthasāra*, verse 54:
 
 **लोकव्यवहारकृतां य इहाविद्यामुपासते मूढाः।
 ते यान्ति जन्ममृत्यू धर्माधर्मार्गलाबद्धाः॥**
@@ -239,7 +239,7 @@ The tradition explicitly extends this pattern beyond the death of the gross body
 *lokavyavahārakṛtāṃ ya ihāvidyām upāsate mūḍhāḥ &#124;
 te yānti janmamṛtyū dharmādharmārgalābaddhāḥ &#124;&#124;*
 
-My translation\:
+My translation:
 
 "Those deluded ones who cultivate ignorance shaped by ordinary worldly dealings undergo birth and death, bound by the bolts of merit and demerit."
 
@@ -273,7 +273,7 @@ It is overcoming the ignorance that makes consciousness imagine itself essential
 
 Now we're ready for the mechanism.
 
-Abhinavagupta and later commentators distinguish universal consciousness from the limited individual associated with a subtle body, the *puryaṣṭaka*\.
+Abhinavagupta and later commentators distinguish universal consciousness from the limited individual associated with a subtle body, the *puryaṣṭaka*.
 
 In the relevant Śaiva account, this eightfold organization involves vital functions, sensory and active capacities, and the inner cognitive apparatus.
 
@@ -287,7 +287,7 @@ The limited experiencer continues according to the tradition's subtle-body accou
 
 And the conditions of the next embodiment reflect the accumulated tendencies and karmic consequences of the individual.
 
-Now listen to *Paramārthasāra* 92\:
+Now listen to *Paramārthasāra* 92:
 
 **स्वर्गमयो निरयमयस्तदयं देहान्तरालगः पुरुषः।
 तद्भङ्गे स्वौचित्याद्देहान्तरयोगमभ्येति॥**
@@ -295,13 +295,13 @@ Now listen to *Paramārthasāra* 92\:
 *svargamayo nirayamayastadayaṃ dehāntarālagaḥ puruṣaḥ &#124;
 tadbhaṅge svaucityāddehāntarayogam abhyeti &#124;&#124;*
 
-My translation\:
+My translation:
 
 "This person, dwelling in the interval between bodies and conditioned toward heaven or hell, upon that body's dissolution enters into connection with another body according to what is appropriate to their condition."
 
 Yogarāja explains that the relevant appropriateness concerns dispositions produced by previous action, directing the individual toward another embodiment suitable for the experience of its karmic results.
 
-So the sequence in Trika is approximately\:
+So the sequence in Trika is approximately:
 
 **Self-contraction**
 
@@ -365,7 +365,7 @@ And the absolute isn't motivated by lack in the way a finite person is.
 
 A perfect being doesn't need entertainment because it's bored.
 
-So divine play is not supposed to mean\:
+So divine play is not supposed to mean:
 
 "Tuesday was a bit quiet, so Śiva invented cancer, jealousy, famine and several trillion frightened animals."
 
@@ -431,7 +431,7 @@ Which leads to Abhinavagupta's final twist.
 
 Verse 56 argues that actions performed in the state of realization do not produce the same binding consequences.
 
-Verses 85-86 explain why the liberated person may continue living in a body without the body becoming a cause of renewed saṃsāra. \; \]
+Verses 85-86 explain why the liberated person may continue living in a body without the body becoming a cause of renewed saṃsāra. ; \]
 
 Think about that.
 
@@ -464,7 +464,7 @@ And immediately, we encounter a rather spectacular disagreement.
 
 The Trika philosopher has explained the universe through Śiva's self-concealing freedom.
 
-The Buddhist says\:
+The Buddhist says:
 
 "Interesting. Now demonstrate that this universal Self exists."
 
@@ -472,7 +472,7 @@ No divine creator is required.
 
 No supreme consciousness needs to manifest itself as billions of confused individuals.
 
-Instead, Tibetan Buddhism inherits the Buddhist account of *pratītyasamutpāda*\.
+Instead, Tibetan Buddhism inherits the Buddhist account of *pratītyasamutpāda*.
 
 Dependent origination.
 
@@ -488,7 +488,7 @@ To the actual production and continuation of embodied sentient existence.
 
 ### 5.1 The twelve links: how you manufacture another life
 
-The traditional twelvefold account can be presented as a causal sequence\:
+The traditional twelvefold account can be presented as a causal sequence:
 
 THE CAUSES
 
@@ -514,7 +514,7 @@ THE RESULT
 
 Another conditioned life unfolds, sustaining the possibility of another cycle.
 
-Traditional twelve-link model. The links have several exegetical arrangements, often spanning three lifetimes; the diagram is not meant to imply twelve successive physical events within a few seconds. \; ; \]
+Traditional twelve-link model. The links have several exegetical arrangements, often spanning three lifetimes; the diagram is not meant to imply twelve successive physical events within a few seconds. ; ; \]
 
 Now look at the middle of this sequence.
 
@@ -598,7 +598,7 @@ In the other, rebirth is an expression of compassionate freedom.
 
 This is not to suggest that the second mechanism has been scientifically demonstrated.
 
-But it is fundamental to the Tibetan account of the *tulku*\: an accomplished practitioner whose subsequent birth is understood as the continuation of enlightened activity.
+But it is fundamental to the Tibetan account of the *tulku*: an accomplished practitioner whose subsequent birth is understood as the continuation of enlightened activity.
 
 And there is a crucial ethical inversion.
 
@@ -656,7 +656,7 @@ The intermediate state is not universally accepted in every Buddhist tradition.
 
 Nor should we treat the famous forty-nine-day descriptions as a demonstrated timetable for what every deceased person experiences.
 
-But the central causal claim is common\:
+But the central causal claim is common:
 
 **Death removes the present gross bodily organization. It does not necessarily remove the ignorance and karmic conditions responsible for further existence.**
 
@@ -688,7 +688,7 @@ This is important.
 
 The Buddha is principally identifying the conditions that sustain the cycle, not telling a story about a uniquely identifiable historical beginning.
 
-In simplified form\:
+In simplified form:
 
 Why does suffering continue?
 
@@ -767,7 +767,7 @@ Walk into a modern neuroscience laboratory.
 
 Ask the researchers what happens to consciousness when the brain is irreversibly destroyed.
 
-Most will not reach for the *Tantrāloka*\.
+Most will not reach for the *Tantrāloka*.
 
 And there are serious reasons for that.
 
@@ -793,7 +793,7 @@ Changes in neural network organization are consistently associated with changes 
 
 These aren't speculative metaphysical observations.
 
-They are findings supported by extensive experimental and clinical research. \; ; \]
+They are findings supported by extensive experimental and clinical research. ; ; \]
 
 And the ordinary scientific inference is powerful.
 
@@ -867,11 +867,11 @@ Christian theology is not materialist neuroscience.
 
 But neither made classical South Asian rebirth theory the standard explanation of personal identity.
 
-So many Western people inherited a framework in which the question is\:
+So many Western people inherited a framework in which the question is:
 
 "Does anything survive this one life?"
 
-Rather than\:
+Rather than:
 
 "Why am I undergoing another life, and what ends the cycle?"
 
@@ -922,7 +922,7 @@ Which brings us to the part where the discussion gets genuinely interesting.
 
 There is a research tradition examining young children who spontaneously report memories of apparently previous lives.
 
-The most prominent institutional center is the University of Virginia Division of Perceptual Studies\.
+The most prominent institutional center is the University of Virginia Division of Perceptual Studies.
 
 Researchers including Ian Stevenson and Jim Tucker have investigated thousands of cases.
 
@@ -1079,7 +1079,7 @@ Trika's cosmology also includes diverse forms and conditions of embodied existen
 
 The claim is far more expansive than repeatedly getting another nice human life.
 
-Now ask yourself\:
+Now ask yourself:
 
 What exactly are you trying to preserve?
 
@@ -1171,7 +1171,7 @@ You could understand entire philosophical systems and still be governed by cravi
 
 You could master Sanskrit, recite the *Tantrāloka*, study the Six Dharmas and construct the most impressive intellectual account of consciousness imaginable.
 
-And the traditions would still ask\:
+And the traditions would still ask:
 
 **Have you actually understood the ignorance that keeps bondage in place?**
 
@@ -1294,11 +1294,11 @@ Even their learning cannot, by itself, establish what happens next.
 
 Here the traditions deliver two very different but equally uncompromising challenges.
 
-The Buddhist asks\:
+The Buddhist asks:
 
 *Have you understood the causes of craving, clinging and suffering?*
 
-The Śaiva asks\:
+The Śaiva asks:
 
 *Have you recognized the consciousness whose unlimited nature you have mistaken for a finite person?*
 
