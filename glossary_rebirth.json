@@ -1,0 +1,254 @@
+{
+ "unit": "rebirth",
+ "status": "proposed-scholar-confirm",
+ "rule": "citation Deva + final gloss required; video shows confirmed only",
+ "deva_terms": [
+  {
+   "term": "लोकव्यवहारकृत",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "य",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "इहाविद्यामुपासत",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "मूढ",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "त",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "यान्त",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "जन्ममृत्य",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "धर्माधर्मार्गलाबद्ध",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "स्वर्गमय",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "निरयमयस्तदय",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "देहान्तरालग",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "पुरुष",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "तद्भङ्ग",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "स्वौचित्याद्देहान्तरयोगमभ्येत",
+   "occurrences": 1,
+   "gloss": ""
+  }
+ ],
+ "iast_terms": [
+  {
+   "term": "Śiva",
+   "occurrences": 24,
+   "gloss": ""
+  },
+  {
+   "term": "saṃsāra",
+   "occurrences": 6,
+   "gloss": ""
+  },
+  {
+   "term": "Śaiva",
+   "occurrences": 5,
+   "gloss": ""
+  },
+  {
+   "term": "Paramārthasāra",
+   "occurrences": 5,
+   "gloss": ""
+  },
+  {
+   "term": "Yogarāja",
+   "occurrences": 4,
+   "gloss": ""
+  },
+  {
+   "term": "Saṃyutta",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "Nikāya",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "Śaivism",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "Paramaśiva",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "svātantrya",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "puryaṣṭaka",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "Tantrāloka",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "Saṃsāra",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "ŚAIVISM",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "saṃkoca",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Āṇavamala",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Māyīyamala",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Kārmamala",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "lokavyavahārakṛtāṃ",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "ihāvidyām",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "upāsate",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "mūḍhāḥ",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "yānti",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "janmamṛtyū",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "dharmādharmārgalābaddhāḥ",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "nirayamayastadayaṃ",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "dehāntarālagaḥ",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "puruṣaḥ",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "tadbhaṅge",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "svaucityāddehāntarayogam",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "krīḍā",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "pratītyasamutpāda",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "avidyā",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Mahāyāna",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Vivṛti",
+   "occurrences": 1,
+   "gloss": ""
+  }
+ ]
+}

@@ -6,9 +6,9 @@ A very irreverent, philosophically rigorous reading of the Six Dharmas of Nārop
 
 The first major discovery from the primary sources is that **both traditions really do contain elaborate accounts of consciousness leaving the body.** This isn't merely modern New Age speculation.
 
-In the Tibetan Buddhist tradition, phowa (*'pho ba*\) belongs to the transmitted Six Dharmas, alongside the much more extraordinary practice of entering another body (*grong 'jug*\). The Indian instructions attributed to Tilopa explicitly discuss both. \[[Readings On the Six Yogas of Naropa](https://www.shambhala.com/snowlion_articles/readings-on-the-six-yogas-of-naropa/?utm_source=chatgpt.com)\]
+In the Tibetan Buddhist tradition, phowa (*'pho ba*\) belongs to the transmitted Six Dharmas, alongside the much more extraordinary practice of entering another body (*grong 'jug*\). The Indian instructions attributed to Tilopa explicitly discuss both.
 
-In Trika, Abhinavagupta's *Tantrasāra* describes initiation at the moment of death (Chapter 15), the liberation of the deceased through ritual (Chapter 16), and postmortem rites (Chapter 19). These are genuine, textually attested teachings, not a loose analogy with Tibetan Buddhism. \[[Abhinavagupta: Tantrasara](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/saiva/abhtantu.htm?utm_source=chatgpt.com); [Tantrasāra: Chapter 19](https://www.sanskrit-trikashaivism.com/index.php?c=en%2Fscriptures-trika-scriptures-tantrasara-chapter-19%2F951&utm_source=chatgpt.com)\]
+In Trika, Abhinavagupta's *Tantrasāra* describes initiation at the moment of death (Chapter 15), the liberation of the deceased through ritual (Chapter 16), and postmortem rites (Chapter 19). These are genuine, textually attested teachings, not a loose analogy with Tibetan Buddhism. \; \]
 
 But the most fascinating problem is philosophical.
 
@@ -18,7 +18,6 @@ So what the bloody hell is travelling?
 
 That question will govern the entire reading.
 
----
 
 ## I. Congratulations, you're dying. What now?
 
@@ -70,7 +69,7 @@ These claims form part of historical religious and contemplative systems; their 
 
 Tilopa, Nāropa, Marpa, the Kagyu transmissions, and the later Tibetan systems
 
-Research basis: the transmitted *Oral Instruction of the Six Yogas*, translated by Glenn Mullin; the traditional classifications documented by Study Buddhism; and Dr. Alexander Berzin's explanations of completion-stage practice. \[[Readings On the Six Yogas of Naropa](https://www.shambhala.com/snowlion_articles/readings-on-the-six-yogas-of-naropa/?utm_source=chatgpt.com); [Six yogas of Naropa](https://studybuddhism.com/en/glossary/six-yogas-of-naropa?utm_source=chatgpt.com); [Six Yogas of Naropa: Further Advanced Practices](https://studybuddhism.com/en/advanced-studies/vajrayana/tantra-advanced/introduction-to-the-six-yogas-of-naropa/six-yogas-of-naropa-further-advanced-practices?utm_source=chatgpt.com)\]
+Research basis: the transmitted *Oral Instruction of the Six Yogas*, translated by Glenn Mullin; the traditional classifications documented by Study Buddhism; and Dr. Alexander Berzin's explanations of completion-stage practice. \; ; \]
 
 First, a misconception needs to die before we do.
 
@@ -226,7 +225,7 @@ And the crucial question becomes\:
 
 That's the philosophical grenade at the center of the whole system.
 
-\[[Six Yogas of Naropa: Further Advanced Practices](https://studybuddhism.com/en/advanced-studies/vajrayana/tantra-advanced/introduction-to-the-six-yogas-of-naropa/six-yogas-of-naropa-further-advanced-practices?utm_source=chatgpt.com); [The Guhyasamaja Presentation of the Process of Death](https://studybuddhism.com/en/advanced-studies/vajrayana/tantra-advanced/the-process-of-death-bardo-and-rebirth/the-guhyasamaja-presentation-of-the-process-of-death?utm_source=chatgpt.com); [Six Yogas of Naropa: Further Advanced Practices](https://studybuddhism.com/en/advanced-studies/vajrayana/tantra-advanced/introduction-to-the-six-yogas-of-naropa/six-yogas-of-naropa-further-advanced-practices?utm_source=chatgpt.com); [Transference (Phowa) Series](https://www.lotsawahouse.org/topics/transference/?utm_source=chatgpt.com)\]
+\; ; ; \]
 
 ## III. Phowa: the metaphysics of leaving
 
@@ -242,7 +241,7 @@ The phowa literature describes consciousness in luminous, sometimes syllabic for
 
 These descriptions belong to the visualization and subtle-body framework of the practice; the channels should not simply be identified with anatomical nerves or blood vessels.
 
-In the Tilopa-attributed instructions translated by Glenn Mullin, consciousness is directed toward the deity inseparable from the guru and then toward a desired buddhafield. The same source also discusses entering another body. \[[Readings On the Six Yogas of Naropa](https://www.shambhala.com/snowlion_articles/readings-on-the-six-yogas-of-naropa/?utm_source=chatgpt.com)\]
+In the Tilopa-attributed instructions translated by Glenn Mullin, consciousness is directed toward the deity inseparable from the guru and then toward a desired buddhafield. The same source also discusses entering another body.
 
 Now understand why the crown matters.
 
@@ -258,7 +257,7 @@ Rather than merely asking, "Where did the consciousness leave?", the tantric pra
 
 **The distinction is between predicting the outcome of death and attempting to transform it.**
 
-Kris Anderson's Berkeley study of Buddhist *utkrānti* rituals documents precisely this broader historical relationship, including important parallels with Śaiva ritual technologies. \[[UC Berkeley](https://escholarship.org/content/qt4zr3j0m9/qt4zr3j0m9.pdf?utm_source=chatgpt.com)\]
+Kris Anderson's Berkeley study of Buddhist *utkrānti* rituals documents precisely this broader historical relationship, including important parallels with Śaiva ritual technologies.
 
 But an uncomfortable problem immediately appears.
 
@@ -290,7 +289,7 @@ The foundational Buddhist doctrine of *anātman* denies a permanent, independent
 
 Even *vijñāna*, consciousness, is not a timeless personal substance in early Buddhist analysis.
 
-Indeed, the Buddha explicitly criticizes the notion that numerically identical consciousness simply wanders unchanged from life to life. \[[Mind in Indian Buddhist Philosophy (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/mind-indian-buddhism/index.html?utm_source=chatgpt.com); [Buddha](https://iep.utm.edu/buddha/?utm_source=chatgpt.com)\]
+Indeed, the Buddha explicitly criticizes the notion that numerically identical consciousness simply wanders unchanged from life to life. \; \]
 
 So if the same entity does not transmigrate, how could rebirth occur?
 
@@ -320,7 +319,7 @@ The continuity is conventionally designated as belonging to a person, although n
 
 This isn't to say all Buddhist schools explain continuity identically.
 
-Certain Yogācāra systems invoke *ālayavijñāna*, the storehouse consciousness, to explain the preservation of karmic potentials. But they do not intend it as an immortal ātman. Other systems give different accounts, and Tibetan Gelug explanations of the subtlest mind cannot simply be collapsed into the Yogācāra storehouse model. \[[Yogācāra (Stanford Encyclopedia of Philosophy/Fall 2025 Edition)](https://plato.stanford.edu/archives/fall2025/entries/yogacara/?utm_source=chatgpt.com); [The Guhyasamaja Presentation of the Process of Death](https://studybuddhism.com/en/advanced-studies/vajrayana/tantra-advanced/the-process-of-death-bardo-and-rebirth/the-guhyasamaja-presentation-of-the-process-of-death?utm_source=chatgpt.com)\]
+Certain Yogācāra systems invoke *ālayavijñāna*, the storehouse consciousness, to explain the preservation of karmic potentials. But they do not intend it as an immortal ātman. Other systems give different accounts, and Tibetan Gelug explanations of the subtlest mind cannot simply be collapsed into the Yogācāra storehouse model. \; \]
 
 Now return to phowa.
 
@@ -376,7 +375,7 @@ Not all phowa is equally literal in its understanding of transference.
 
 In a classification transmitted by Patrul Rinpoche, five forms are distinguished: dharmakāya transference, sambhogakāya transference, nirmāṇakāya transference, ordinary transference through three recognitions, and transference performed for the deceased through compassion.
 
-Other lineages classify these somewhat differently. This is a broader Tibetan presentation, not a claim that Patrul's fivefold scheme is the original sixfold arrangement of Nāropa. \[[Phowa](https://rigpawiki.org/index.php/Phowa?utm_source=chatgpt.com); [Commentary on Transference of Consciousness](https://www.lotsawahouse.org/tibetan-masters/karma-chakme/phowa-commentary?utm_source=chatgpt.com)\]
+Other lineages classify these somewhat differently. This is a broader Tibetan presentation, not a claim that Patrul's fivefold scheme is the original sixfold arrangement of Nāropa. \; \]
 
 ### Ordinary phowa: consciousness has a destination
 
@@ -456,7 +455,7 @@ And then comes the final category.
 
 This is the exquisite one.
 
-In Karma Chakme's commentary on consciousness transference, available in translation at Lotsawa House, the highest transference concerns recognition of luminosity and is explicitly described as free of the ordinary conceptual distinction between the one transferring and what is transferred. \[[Commentary on Transference of Consciousness](https://www.lotsawahouse.org/tibetan-masters/karma-chakme/phowa-commentary?utm_source=chatgpt.com)\]
+In Karma Chakme's commentary on consciousness transference, available in translation at Lotsawa House, the highest transference concerns recognition of luminosity and is explicitly described as free of the ordinary conceptual distinction between the one transferring and what is transferred.
 
 Read that carefully.
 
@@ -490,7 +489,7 @@ But his explanation of what is recognized will be radically different.
 
 ## VI. Drong-jug: the absolutely deranged yoga of entering another body
 
-Primary Tibetan source: Tilopa-attributed instructions, translated by Glenn Mullin. Later expositions: Tsongkhapa and modern Gelug presentations. Comparative precursor: Pātañjalayogaśāstra 3.38-39. \[[Readings On the Six Yogas of Naropa](https://www.shambhala.com/snowlion_articles/readings-on-the-six-yogas-of-naropa/?utm_source=chatgpt.com); [Six Yogas of Naropa: Further Advanced Practices](https://studybuddhism.com/en/advanced-studies/vajrayana/tantra-advanced/introduction-to-the-six-yogas-of-naropa/six-yogas-of-naropa-further-advanced-practices?utm_source=chatgpt.com); [Patañjali: Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra) (GRETIL)](https://www.gretil.uni-goettingen.de/gretil/corpustei/transformations/html/sa_pataJjali-yogasUtra-with-bhASya.htm?utm_source=chatgpt.com)\]
+Primary Tibetan source: Tilopa-attributed instructions, translated by Glenn Mullin. Later expositions: Tsongkhapa and modern Gelug presentations. Comparative precursor: Pātañjalayogaśāstra 3.38-39. \; ; \]
 
 Now we've reached the material that sounds as though somebody accidentally mixed an Indian tantric manuscript with a science-fiction novel.
 
@@ -544,7 +543,7 @@ The general meaning is that loosening the causes of bondage, together with aware
 
 The accompanying classical commentary elaborates this in terms of the yogin's mind entering another body.
 
-The immediately following sūtra, 3.39, connects mastery of the upward vital energy, *udāna*, with *utkrānti*, departure or ascent at death. \[[Patañjali: Yogasūtra with Bhāṣya (= Pātañjalayogaśāstra) (GRETIL)](https://www.gretil.uni-goettingen.de/gretil/corpustei/transformations/html/sa_pataJjali-yogasUtra-with-bhASya.htm?utm_source=chatgpt.com)\]
+The immediately following sūtra, 3.39, connects mastery of the upward vital energy, *udāna*, with *utkrānti*, departure or ascent at death.
 
 Now this is worth lingering over.
 
@@ -612,13 +611,12 @@ And this is where Śaiva thought enters the room with an even bigger proposition
 
 What if *all* organisms are expressions of one universal consciousness?
 
----
 
 ## VII. Enter Abhinavagupta: you've misunderstood what you are
 
 The metaphysics of consciousness in nondual Trika
 
-Research basis: *Tantrasāra* 1-2, 15-16 and 19; *Paramārthasāra* 92-99 with Yogarāja's commentary; Loriliai Biernacki's scholarship on the subtle body; and the *Mālinīvijayottaratantra*\. \[[Abhinavagupta: Tantrasara](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/saiva/abhtantu.htm?utm_source=chatgpt.com); [Abhinavagupta: Paramārthasāra with Yogarāja's Paramārthasārasaṃgrahavivṛti commentary (GRETIL)](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_abhinavagupta-paramArthasAra-comm.htm?utm_source=chatgpt.com); [The Subtle Body \| The Matter of Wonder: Abhinavagupta's Panentheism and the New Materialism](https://academic.oup.com/book/45384/chapter-abstract/389330272?utm_source=chatgpt.com); [TextGrid Repository](https://betaportal.textgrid.d.sub.uni-goettingen.de/browse/49ksb.0?utm_source=chatgpt.com)\]
+Research basis: *Tantrasāra* 1-2, 15-16 and 19; *Paramārthasāra* 92-99 with Yogarāja's commentary; Loriliai Biernacki's scholarship on the subtle body; and the *Mālinīvijayottaratantra*\. \; ; ; \]
 
 Right.
 
@@ -656,7 +654,7 @@ The world is not an alien substance standing outside that reality.
 
 It is the manifestation of consciousness through its own *svātantrya*, freedom.
 
-Abhinavagupta's system recognizes the reality of manifestation rather than reducing the world to sheer unreality. \[[Cosmic Process, Philosophy, and Soteriology in the Works of Abhinavagupta \| The Oxford Handbook of Tantric Studies](https://academic.oup.com/edited-volume/44001/chapter-abstract/425847172?utm_source=chatgpt.com); [Kashmiri Shaiva Philosophy](https://iep.utm.edu/kashmiri/?utm_source=chatgpt.com)\]
+Abhinavagupta's system recognizes the reality of manifestation rather than reducing the world to sheer unreality. \; \]
 
 Now here's the staggering implication.
 
@@ -768,7 +766,7 @@ This is a subtle body, not simply a miniature replica of the gross physical orga
 
 It incorporates structures of limited cognition and vital functioning, allowing the finite subject's experience and karmic continuity to be explained.
 
-Modern scholarship, including Loriliai Biernacki's work, examines how Abhinavagupta's subtle-body theory mediates between consciousness, agency, embodiment and transmigration. \[[The Subtle Body \| The Matter of Wonder: Abhinavagupta's Panentheism and the New Materialism](https://academic.oup.com/book/45384/chapter-abstract/389330272?utm_source=chatgpt.com); [Karma and Rebirth in Hinduism](https://www.cambridge.org/core/elements/karma-and-rebirth-in-hinduism/93C67F86CB4CA592A37E8BBD96F18018?utm_source=chatgpt.com); [Imagining the body in tantric contemplative practice \| International Journal of Dharma Studies](https://link.springer.com/article/10.1186/s40613-016-0043-7?utm_source=chatgpt.com)\]
+Modern scholarship, including Loriliai Biernacki's work, examines how Abhinavagupta's subtle-body theory mediates between consciousness, agency, embodiment and transmigration. \; ; \]
 
 Here's the important distinction.
 
@@ -864,7 +862,7 @@ Verses 98-99 then consider someone who dies before full realization. Such a prac
 
 So there is no need to pretend that every aspirant is automatically liberated when the body expires.
 
-The tradition preserves a genuine distinction between achieved realization and incomplete progress. \[[Abhinavagupta: Paramārthasāra (GRETIL)](https://www.gretil.uni-goettingen.de/gretil/corpustei/transformations/html/sa_abhinavagupta-paramArthasAra.htm?utm_source=chatgpt.com); [Abhinavagupta: Paramārthasāra with Yogarāja's Paramārthasārasaṃgrahavivṛti commentary (GRETIL)](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_abhinavagupta-paramArthasAra-comm.htm?utm_source=chatgpt.com)\]
+The tradition preserves a genuine distinction between achieved realization and incomplete progress. \; \]
 
 And now we are ready for the astonishing ritual material.
 
@@ -882,7 +880,7 @@ Its use for deliberate departure from the body is attested in Śaiva tantric tra
 
 The broader history reaches beyond Abhinavagupta and overlaps with older South Asian ideas of bodily exit-points and postmortem destinations.
 
-This isn't a Tibetan monopoly on spectacular death rituals. \[[Tracing the Roots of Samādhi Burial Practice \| The Journal of Hindu Studies](https://academic.oup.com/jhs/article/14/1/8/6316037?guestAccessKey=4a79041d-019c-4b68-a9cf-6b155b58563d&utm_source=chatgpt.com); [Lord in the Temple, Lord in the Tomb: The Hindu Temple and Its Relationship to the Samādhi Shrine Tradition of Jnāneśvar Mahārāj](https://escholarship.org/uc/item/4650q3zk?utm_source=chatgpt.com); [The Yoga of the Mālinivijayottaratantra. Chapters 1–4, 7, 12–17.](https://www.ifpindia.org/bookstore/ci97/?utm_source=chatgpt.com)\]
+This isn't a Tibetan monopoly on spectacular death rituals. \; ; \]
 
 But there are distinctions among Śaiva *utkrānti*, initiation at death, postmortem initiation, and liberating cremation.
 
@@ -904,7 +902,7 @@ The ritual involves the purification of the pathways of manifestation, the invoc
 
 The consummation is the ritual unification of the departing individual with Paramaśiva.
 
-This isn't my imaginative reconstruction. It is what *Tantrasāra* 15.1-3 actually describes. \[[Abhinavagupta: Tantrasara](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/saiva/abhtantu.htm?utm_source=chatgpt.com)\]
+This isn't my imaginative reconstruction. It is what *Tantrasāra* 15.1-3 actually describes.
 
 Let's examine what this means.
 
@@ -960,7 +958,7 @@ In certain circumstances liberation is effected; in others the outcome is access
 
 That's an important nuance.
 
-The text doesn't simply treat every departed being as identical in karmic circumstance or ritual eligibility. \[[Abhinavagupta: Tantrasara](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/saiva/abhtantu.htm?utm_source=chatgpt.com)\]
+The text doesn't simply treat every departed being as identical in karmic circumstance or ritual eligibility.
 
 Now think about the metaphysical assumptions.
 
@@ -986,7 +984,7 @@ It describes the ritual manipulation and purification of the departed person's r
 
 The Sanskrit even includes the striking assertion that, through the prescribed vital-energy ritual, the corpse trembles.
 
-The resulting transformation is understood through the joining of the finite being to Paramaśiva. \[[Abhinavagupta: Tantrasara](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/saiva/abhtantu.htm?utm_source=chatgpt.com)\]
+The resulting transformation is understood through the joining of the finite being to Paramaśiva.
 
 Imagine reading that without knowing the source.
 
@@ -1002,7 +1000,7 @@ The knower of reality.
 
 In other words, **one who has realized the truth does not require these postmortem ritual interventions**\.
 
-Abhinavagupta even understands the realized knower's death as an occasion of significance for those continuing the transmission of knowledge. \[[Abhinavagupta: Tantrasara](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/saiva/abhtantu.htm?utm_source=chatgpt.com)\]
+Abhinavagupta even understands the realized knower's death as an occasion of significance for those continuing the transmission of knowledge.
 
 There it is.
 
@@ -1038,7 +1036,7 @@ Often it concerns immersion in, or possession by, divine consciousness.
 
 That is not the same ritual phenomenon as drong-jug.
 
-We would be manufacturing textual equivalence if we treated every instance of *praveśa* as proof of the same practice. \[[देवेषु विश्वासटिप्पन्यः](https://vishvasa.github.io/devaH/meta/AveshaH/articles/self-possessed/4_Worldly_and_Otherworldly_Ruptures/10_Possession_in_Tantra/02_Discipline_and_Enlightenment/?utm_source=chatgpt.com); [Kashmiri Shaiva Philosophy](https://iep.utm.edu/kashmiri/?utm_source=chatgpt.com)\]
+We would be manufacturing textual equivalence if we treated every instance of *praveśa* as proof of the same practice. \; \]
 
 But there is an extraordinary philosophical comparison available.
 
@@ -1142,7 +1140,7 @@ The everyday ego says, "I am this particular person."
 
 The universal *aham* is the reflexive self-awareness of the totality of consciousness, not a gigantic human personality.
 
-Abhinavagupta's *Tantrasāra* Chapter 2 expresses the highest standpoint through the identity of the self with the unbounded reality of consciousness. \[[Abhinavagupta: Tantrasara](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/saiva/abhtantu.htm?utm_source=chatgpt.com)\]
+Abhinavagupta's *Tantrasāra* Chapter 2 expresses the highest standpoint through the identity of the self with the unbounded reality of consciousness.
 
 Now compare what happens to the idea of transferring consciousness.
 
@@ -1170,7 +1168,7 @@ There are also historical connections between Buddhist and Śaiva tantric ritual
 
 Kris Anderson's research on Buddhist funerary *utkrānti* traces meaningful parallels with Śaiva rites and discusses the probable adoption and transformation of related techniques in Buddhist tantric literature.
 
-The historical relationship is more interesting than a simple assertion that one tradition copied the other wholesale. \[[UC Berkeley](https://escholarship.org/content/qt4zr3j0m9/qt4zr3j0m9.pdf?utm_source=chatgpt.com)\]
+The historical relationship is more interesting than a simple assertion that one tradition copied the other wholesale.
 
 A shared contemplative or ritual architecture need not generate identical philosophical interpretations.
 
@@ -1328,17 +1326,16 @@ Not because we've proved what survives death.
 
 But because we've finally started questioning who was supposed to board the flight.
 
----
 
 ## Research notes and primary texts
 
 For a proper further investigation, these are the strongest places to go rather than modern summaries that casually conflate all the traditions.
 
-- **Nāropa's Six Dharmas\:** [Tilopa's transmitted instructions, translated by Glenn Mullin](https://www.shambhala.com/blogs/snow-lion-newsletter-archive/readings-on-the-six-yogas-of-naropa?utm_source=chatgpt.com); [Alexander Berzin's detailed completion-stage exposition](https://studybuddhism.com/en/advanced-studies/vajrayana/tantra-advanced/introduction-to-the-six-yogas-of-naropa/six-yogas-of-naropa-further-advanced-practices?utm_source=chatgpt.com)\.
-- **Higher phowa classifications\:** [Karma Chakme's Commentary on Transference](https://www.lotsawahouse.org/tibetan-masters/karma-chakme/phowa-commentary?utm_source=chatgpt.com), especially the distinction between dharmakāya and the other forms.
-- **Abhinavagupta's primary Sanskrit\:** [Tantrasāra, GRETIL edition](https://gretil.sub.uni-goettingen.de/gretil/1_sanskr/6_sastra/3_phil/saiva/abhtantu.htm?utm_source=chatgpt.com)\. The essential passages here are 15.1-3, 16.1-19 and 19.1-6.
-- **Trika's account of death and realization\:** [Paramārthasāra with Yogarāja's commentary](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_abhinavagupta-paramArthasAra-comm.htm?utm_source=chatgpt.com)\. Study verses 92-99 particularly carefully.
-- **Comparative scholarly research\:** [Kris Anderson, Raising the Dead and Saving Them](https://escholarship.org/uc/item/4zr3j0m9?utm_source=chatgpt.com); Loriliai Biernacki, *The Matter of Wonder*, Chapter 3, for Trika's subtle body and its theory of agency.
+- **Nāropa's Six Dharmas\:** ; \.
+- **Higher phowa classifications\:** , especially the distinction between dharmakāya and the other forms.
+- **Abhinavagupta's primary Sanskrit\:** \. The essential passages here are 15.1-3, 16.1-19 and 19.1-6.
+- **Trika's account of death and realization\:** \. Study verses 92-99 particularly carefully.
+- **Comparative scholarly research\:** ; Loriliai Biernacki, *The Matter of Wonder*, Chapter 3, for Trika's subtle body and its theory of agency.
 
 The distinction to preserve throughout is between an attested ritual claim, an interpretive philosophical argument, a historically demonstrable connection and an empirically established phenomenon. These are four different kinds of knowledge.
 
@@ -1347,51 +1344,3 @@ Continue the reading
 The natural next subject is the still more extraordinary material in the *Mālinīvijayottaratantra*, *Tantrāloka* and *Vijñānabhairava*\: the relationship between vital breath, the heart of consciousness, the twelve-finger limit (*dvādaśānta*\), yogic exit, the subtle body and the experience of becoming Śiva.
 
 [Continue Reading - The Secret Śaiva Death Yogas]
-
-## Prompt:
-05/11/2026, 00:32:59
-
-Continue our very long, hilarious but strictly philologically grounded slang audiobook with Part II: death yoga, utkrānti and consciousness transference in the Mālinīvijayottaratantra, Abhinavagupta's Tantrāloka, Tantrasāra and Vijñānabhairava. Go deep into primary Sanskrit sources, exact verified textual references, puryaṣṭaka, brahmarandhra, dvādaśānta, prāṇa, Śaiva initiation at death, subtle bodies, parakāyapraveśa, recognition, and a rigorous comparison with Tibetan phowa. No fabricated quotations; explain the metaphysics with outrageous humour rather than give hazardous practical instructions.
-
-## Response:
-05/11/2026, 00:33:07 · gpt-6-thinking
-
-I’ll anchor Part II in verifiable Sanskrit passages first—particularly the deathbed initiation in *Tantrasāra*, the *Mālinīvijayottaratantra* material taken up in *Tantrāloka*, and the breath-and-awareness verses of *Vijñānabhairava*\. Then I’ll separate literal claims about departure and body-entry from Trika’s deeper argument that consciousness never ultimately goes anywhere.
-
-> **Refining textual evidence**
->
-> I’m organizing the Sanskrit citations, checking technical distinctions, and prioritizing verses that support the argument. I’m especially careful not to conflate internal and external points, while preserving the key contrast involving reasoning as yoga’s highest limb.
->
-> **Refined textual evidence**
->
-> 
->
-> **Deepening the research**
->
-> I’m shifting toward primary sources and careful interpretation. I’ll distinguish textual descriptions from practical claims, address variant presentations of the subtle body, and avoid treating these passages as instructions for causing or escaping death.
->
-> **Deepened the research**
->
-> 
->
-> **Checking primary passages**
->
-> I’m verifying the central passages and limiting quotations to short, reliable excerpts. I’m also treating claims about consciousness and embodiment as philosophical interpretations rather than operational descriptions of death or bodily transfer.
->
-> **Checked primary passages**
->
-> 
->
-> **Verifying textual precision**
->
-> I’m distinguishing established readings from scholarly reconstructions, checking variant interpretations, and avoiding overconfident verse numbering. The final discussion will emphasize philosophical meaning over literal claims about consciousness leaving the body.
->
-> **Verified textual precision**
->
-> 
->
-> **Searched 37 websites**
->
-> 
->
-> Worked for 4m 36s

@@ -1,0 +1,27 @@
+{
+ "unit": "madman",
+ "files": {
+  "storyboards/storyboard_madman.json": {
+   "sha256": "335672a9792bc3cd",
+   "bytes": 339588
+  },
+  "chapters/madman.md": {
+   "sha256": "5d420b1bfa030405",
+   "bytes": 73023
+  },
+  "overrides_madman.json": {
+   "sha256": "5b8e23f9f7b3c738",
+   "bytes": 311
+  },
+  "glossary_madman.json": {
+   "sha256": "2bbbbdd099089feb",
+   "bytes": 678
+  },
+  "casting/cast_madman.md": {
+   "sha256": "6c1ab5e3573a4a63",
+   "bytes": 950
+  }
+ },
+ "casting": "provisional-rule-cast-owner-bless-pending",
+ "glossary": "candidates-mined-glosses-empty-scholar-confirms"
+}

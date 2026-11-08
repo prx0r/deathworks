@@ -1,0 +1,27 @@
+{
+ "unit": "escape",
+ "files": {
+  "storyboards/storyboard_escape.json": {
+   "sha256": "95d0a996ff8809a3",
+   "bytes": 331128
+  },
+  "chapters/escape.md": {
+   "sha256": "2810086d5fddd4f4",
+   "bytes": 76495
+  },
+  "overrides_escape.json": {
+   "sha256": "91eaeb8e61807b20",
+   "bytes": 518
+  },
+  "glossary_escape.json": {
+   "sha256": "8640a6e2ae23a952",
+   "bytes": 4089
+  },
+  "casting/cast_escape.md": {
+   "sha256": "33e1fdb42166fdf8",
+   "bytes": 2043
+  }
+ },
+ "casting": "provisional-rule-cast-owner-bless-pending",
+ "glossary": "candidates-mined-glosses-empty-scholar-confirms"
+}

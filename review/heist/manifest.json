@@ -1,0 +1,27 @@
+{
+ "unit": "heist",
+ "files": {
+  "storyboards/storyboard_heist.json": {
+   "sha256": "3fe22820d5909bf2",
+   "bytes": 231495
+  },
+  "chapters/heist.md": {
+   "sha256": "b6a82ad4f6da896f",
+   "bytes": 57357
+  },
+  "overrides_heist.json": {
+   "sha256": "d6b98ccc65b7f3ee",
+   "bytes": 219
+  },
+  "glossary_heist.json": {
+   "sha256": "0d39d60ee2b8d236",
+   "bytes": 312
+  },
+  "casting/cast_heist.md": {
+   "sha256": "f4fa7a06320b3f27",
+   "bytes": 889
+  }
+ },
+ "casting": "provisional-rule-cast-owner-bless-pending",
+ "glossary": "candidates-mined-glosses-empty-scholar-confirms"
+}

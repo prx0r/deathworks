@@ -1,0 +1,363 @@
+{
+ "unit": "heist",
+ "status": "proposed-scholar-confirm",
+ "rule": "citation Deva + final gloss required; video shows confirmed only",
+ "deva_terms": [],
+ "iast_terms": [
+  {
+   "term": "Śiva",
+   "occurrences": 15,
+   "gloss": ""
+  },
+  {
+   "term": "Śaiva",
+   "occurrences": 15,
+   "gloss": ""
+  },
+  {
+   "term": "Tantrasāra",
+   "occurrences": 10,
+   "gloss": ""
+  },
+  {
+   "term": "Nāropa",
+   "occurrences": 7,
+   "gloss": ""
+  },
+  {
+   "term": "utkrānti",
+   "occurrences": 5,
+   "gloss": ""
+  },
+  {
+   "term": "Vajrayāna",
+   "occurrences": 4,
+   "gloss": ""
+  },
+  {
+   "term": "dharmakāya",
+   "occurrences": 4,
+   "gloss": ""
+  },
+  {
+   "term": "saṃsāra",
+   "occurrences": 4,
+   "gloss": ""
+  },
+  {
+   "term": "Paramaśiva",
+   "occurrences": 4,
+   "gloss": ""
+  },
+  {
+   "term": "vimarśa",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "Amitābha",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "Paramārthasāra",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "Mālinīvijayottaratantra",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "Śaivism",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "prakāśa",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "Sukhāvatī",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "Yogācāra",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "Sambhogakāya",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "Pātañjalayogaśāstra",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "Patañjali",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "sūtra",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "Pratyabhijñā",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "niṣpannakrama",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "caṇḍālī",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Guhyasamāja",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "avadhūtī",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Upaniṣadic",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "anātman",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "vijñāna",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "ālayavijñāna",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "ātman",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "sambhogakāya",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "nirmāṇakāya",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Nirmāṇakāya",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Dharmakāya",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "mahāsiddha",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Yogasūtra",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "bandhakāraṇaśaithilyāt",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "paraśarīrāveśaḥ",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "udāna",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Yogarāja",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "svātantrya",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "saṃkoca",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Āṇavamala",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Māyīyamala",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Kārmamala",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "jīva",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "pramātṛ",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "puryaṣṭaka",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "maraṇāvasare",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "jñānī",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "svātmaparamārthāt",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Utkrānti",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Kubjikāmatatantra",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "sadyaḥ",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "samutkramaṇadīkṣā",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "śaktipāta",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Kālarātrī",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "dīkṣā",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "mahājāla",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "tattvajñānin",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "parakāyapraveśa",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "paraśarīrāveśa",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "āveśa",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "samāveśa",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "praveśa",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Mahāyāna",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Prakāśa",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Tantrāloka",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Vijñānabhairava",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "dvādaśānta",
+   "occurrences": 1,
+   "gloss": ""
+  }
+ ]
+}

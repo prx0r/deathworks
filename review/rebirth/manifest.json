@@ -1,0 +1,27 @@
+{
+ "unit": "rebirth",
+ "files": {
+  "storyboards/storyboard_rebirth.json": {
+   "sha256": "9cd50070598d7b90",
+   "bytes": 230109
+  },
+  "chapters/rebirth.md": {
+   "sha256": "414d59120581f95b",
+   "bytes": 52278
+  },
+  "overrides_rebirth.json": {
+   "sha256": "17453c2c3d488117",
+   "bytes": 179
+  },
+  "glossary_rebirth.json": {
+   "sha256": "16f8cab433b982fa",
+   "bytes": 1428
+  },
+  "casting/cast_rebirth.md": {
+   "sha256": "6d803e2a1769bc94",
+   "bytes": 876
+  }
+ },
+ "casting": "provisional-rule-cast-owner-bless-pending",
+ "glossary": "candidates-mined-glosses-empty-scholar-confirms"
+}

@@ -4,7 +4,6 @@ THE FINAL BONUS CHAPTER - Death Yoga: What Humanity Discovered About Dying
 
 *A journey through ancient Egypt, Inca Peru, Arabia, India, Tibet, China, Africa and the Americas-and the astonishing patterns that emerge when we ask what, if anything, survives death.*
 
----
 
 ## Prologue: Eight civilizations. One corpse. An absolutely enormous question.
 
@@ -64,7 +63,7 @@ There is **no universal agreement that an immortal soul survives death, that eve
 
 What recurs is more subtle: the refusal to treat biological death as a simple event without further questions about personhood, relationships, morality and continuity.
 
-Matthew Engelke's major review, *The Anthropology of Death Revisited*, identifies two recurring concerns in mortuary traditions: how life is understood to continue despite individual death, and how societies deal with the physical reality of the corpse. \[[The Anthropology of Death Revisited](https://www.annualreviews.org/content/journals/10.1146/annurev-anthro-102218-011420?utm_source=chatgpt.com)\]
+Matthew Engelke's major review, *The Anthropology of Death Revisited*, identifies two recurring concerns in mortuary traditions: how life is understood to continue despite individual death, and how societies deal with the physical reality of the corpse.
 
 That's our framework.
 
@@ -82,7 +81,6 @@ And what, exactly, should a living person understand before their own death?
 
 Let's begin with the civilization that turned surviving death into an entire science of sacred administration.
 
----
 
 ## I. EGYPT: You are not one thing, and death pulls you apart
 
@@ -102,7 +100,7 @@ The *akh* is an effective or transfigured postmortem state.
 
 And the name mattered enormously.
 
-The Metropolitan Museum's *Transforming the Dead* explains that death disrupted the relationship among these components; funerary rituals aimed to reunite and transform them so that existence could continue. \[[Transforming the Dead](https://www.metmuseum.org/-/media/files/about-the-met/curatorial-departments/egyptian/facsimiles/2014_transformingthedead_web.pdf?utm_source=chatgpt.com)\]
+The Metropolitan Museum's *Transforming the Dead* explains that death disrupted the relationship among these components; funerary rituals aimed to reunite and transform them so that existence could continue.
 
 Now understand the implications.
 
@@ -132,7 +130,7 @@ Food and drink were offered.
 
 A false door connected the ritual space with the deceased's continued existence.
 
-The Australian Museum documents these practices and explains that offerings and tomb inscriptions were meant to sustain the dead even when living descendants were no longer available. \[[Maintaining a connection with the dead in ancient Egypt](https://australian.museum/learn/cultures/international-collection/ancient-egyptian/mantaining-a-connection-with-the-dead-in-ancient-egypt/?utm_source=chatgpt.com)\]
+The Australian Museum documents these practices and explains that offerings and tomb inscriptions were meant to sustain the dead even when living descendants were no longer available.
 
 Picture the dead person's situation.
 
@@ -184,7 +182,6 @@ The Egyptians answered with an entire sacred architecture of continued existence
 
 And in another part of the world, the ancient Peruvians arrived at something equally remarkable.
 
----
 
 ## II. PERU: The king is dead. Unfortunately, he still owns everything.
 
@@ -198,7 +195,7 @@ The Quechua term *mallki* is associated with ancestors and ancestral remains.
 
 The royal dead could also be described through the sacred category *illapa* or *yllapa*, although these terms must be interpreted in their particular historical contexts.
 
-Christopher Heaney's 2023 study, Empires of the Dead, draws on Inca and Andean records, archaeology and colonial chronicles to examine how ancestral remains continued to structure communities, religious authority and imperial politics. \[[Curing Incas: Andean Lifeways and the Pre-Hispanic Imperial Dead \| Empires of the Dead: Inca Mummies and the Peruvian Ancestors of American Anthropology](https://academic.oup.com/book/46629/chapter-abstract/410059398?utm_source=chatgpt.com)\]
+Christopher Heaney's 2023 study, Empires of the Dead, draws on Inca and Andean records, archaeology and colonial chronicles to examine how ancestral remains continued to structure communities, religious authority and imperial politics.
 
 Now consider what the chroniclers described.
 
@@ -218,7 +215,7 @@ And the deceased remains a source of authority.
 
 Ancestors could be treated as advisers, protectors and participants in ongoing social life.
 
-A scholarly study of ancestral personhood in ancient Peru examines how Inca rulers' mummies and their associated images were cared for and deployed as extensions of the rulers' continuing presence. \[[Animating Idolatry: Making Ancestral Kin and Personhood in Ancient Peru](https://www.mdpi.com/2077-1444/12/5/287?utm_source=chatgpt.com)\]
+A scholarly study of ancestral personhood in ancient Peru examines how Inca rulers' mummies and their associated images were cared for and deployed as extensions of the rulers' continuing presence.
 
 You thought death was an opportunity to settle the estate?
 
@@ -256,7 +253,7 @@ Heaney documents the removal of several royal mummies in the sixteenth century.
 
 Their seizure was not simply the collection of interesting archaeological objects.
 
-It was a confrontation over the continuing power of the dead. \[[Embalming Incas: Huayna Capac’s Yllapa and the Spanish Collection of Empire \| Empires of the Dead: Inca Mummies and the Peruvian Ancestors of American Anthropology](https://academic.oup.com/book/46629/chapter-abstract/410059472?utm_source=chatgpt.com)\]
+It was a confrontation over the continuing power of the dead.
 
 That tells us something extraordinary.
 
@@ -316,7 +313,6 @@ First, Arabia.
 
 Where we discover that even within one geographical region, the most basic answer to death could change dramatically.
 
----
 
 ## III. ARABIA: One region, three radically different answers to death
 
@@ -330,7 +326,7 @@ Some pre-Islamic Arabian poetry and religious discourse emphasize *dahr*-time or
 
 The Qur'an itself, at 45:24, describes people asserting that they live and die and that time destroys them. The Qur'an then challenges this position with the proclamation of divine resurrection.
 
-Oxford's survey of Islamic eschatology identifies this as a major shift in the religious understanding of death. \[[Death, Dying, and the Afterlife \| Oxford Bibliographies in Islamic Studies](https://academic.oup.com/reference/62361/reference-article-abstract/554566381?utm_source=chatgpt.com)\]
+Oxford's survey of Islamic eschatology identifies this as a major shift in the religious understanding of death.
 
 That's important.
 
@@ -340,9 +336,9 @@ Some evidence indicates skepticism concerning postmortem existence.
 
 Other evidence points to funerary obligations and possible expectations of life beyond death.
 
-Geoffrey King's archaeological study of pre-Islamic Arabian *balīya* sacrifices, for example, documents the burial of camels with deceased persons of status, possibly so the dead would possess a mount in the afterlife. \[[Camels and Arabian \<i\>balîya\</i\> and other forms of sacrifice: a review of archaeological and literary evidence - King - 2009 - Arabian Archaeology and Epigraphy](https://onlinelibrary.wiley.com/doi/10.1111/j.1600-0471.2008.00305.x?utm_source=chatgpt.com)\]
+Geoffrey King's archaeological study of pre-Islamic Arabian *balīya* sacrifices, for example, documents the burial of camels with deceased persons of status, possibly so the dead would possess a mount in the afterlife.
 
-But historian Ahmad Al-Jallad warns that the Safaitic inscriptions of ancient Arabian nomads do not explicitly describe a complete doctrine of the afterlife. Interpretations must therefore remain cautious. \[[The Religion and Rituals of the Nomads of Pre-Islamic Arabia: A Reconstruction Based on the Safaitic Inscriptions](https://www.jstor.org/stable/10.1163/j.ctv2kqwzwp?utm_source=chatgpt.com)\]
+But historian Ahmad Al-Jallad warns that the Safaitic inscriptions of ancient Arabian nomads do not explicitly describe a complete doctrine of the afterlife. Interpretations must therefore remain cautious.
 
 So already, within one region, there is no uniform ancient answer.
 
@@ -372,7 +368,7 @@ It's not Egyptian transformation into an *akh*\.
 
 It's not Trika's liberation through Śiva-recognition.
 
-In mainstream Islamic doctrine, God resurrects the dead for judgment. Earthly life is not ordinarily understood as one episode in an indefinite sequence of karmic human births. \[[The Quranic Arabic Corpus](https://corpus.quran.com/translation.jsp?chapter=23&verse=99&utm_source=chatgpt.com); [The Quranic Arabic Corpus](https://corpus.quran.com/translation.jsp?chapter=23&verse=100&utm_source=chatgpt.com); [From Death to Resurrection: Classical Islam \| The Islamic Understanding of Death and Resurrection](https://academic.oup.com/book/12533/chapter-abstract/162285205?utm_source=chatgpt.com)\]
+In mainstream Islamic doctrine, God resurrects the dead for judgment. Earthly life is not ordinarily understood as one episode in an indefinite sequence of karmic human births. \; ; \]
 
 Now the existential problem becomes obvious.
 
@@ -400,7 +396,7 @@ An intermediate reality can simultaneously distinguish and connect different mod
 
 His understanding of *khayāl*, imagination or the imaginal realm, allows for a mode of reality in which spiritual meanings assume forms and bodily realities are expressed spiritually.
 
-The Stanford Encyclopedia of Philosophy explains how this account is applied to dreams, visions, angelic appearances and postmortem experiences. \[[Ibn ‘Arabī (Stanford Encyclopedia of Philosophy)](https://plato.stanford.edu/entries/ibn-arabi/?utm_source=chatgpt.com)\]
+The Stanford Encyclopedia of Philosophy explains how this account is applied to dreams, visions, angelic appearances and postmortem experiences.
 
 Now don't confuse this with saying the afterlife is imaginary in the ordinary sense of fictional.
 
@@ -446,7 +442,6 @@ And this takes us to China.
 
 Where the dead apparently have several different places to be at once.
 
----
 
 ## IV. CHINA: The ancestor is in the grave, on the altar, and possibly being reincarnated
 
@@ -460,7 +455,7 @@ In one influential religious understanding, *hún* is associated with a more yan
 
 And in some developed popular religious interpretations, a person's postmortem existence may be distributed among the grave, the ancestral tablet and a process involving judgment and rebirth.
 
-Columbia University's *Living in the Chinese Cosmos* documents this threefold arrangement and the enormous importance of ancestral ritual. \[[Living in the Chinese Cosmos](https://afe.easia.columbia.edu/cosmos/prb/journey.htm?utm_source=chatgpt.com)\]
+Columbia University's *Living in the Chinese Cosmos* documents this threefold arrangement and the enormous importance of ancestral ritual.
 
 Now imagine explaining this to an Egyptian.
 
@@ -576,7 +571,6 @@ They say the ancestor may return.
 
 And for that, we go to West Africa.
 
----
 
 ## V. YORUBA: Your grandfather might return as your newborn son
 
@@ -594,7 +588,7 @@ There are names whose conventional meanings reflect this possibility.
 
 And these are not simply picturesque names invented by people writing comparative religion books.
 
-Ethnographic research in Ado-Ekiti documents forms of divination through which families sought to determine whether a newborn child represented the return of a deceased ancestor. \[[Contradictions in Yoruba folk beliefs concerning post-life existence : the ado example](https://www.persee.fr/doc/jafr_0399-0346_1988_num_58_1_2255?pageId=T1_110&utm_source=chatgpt.com)\]
+Ethnographic research in Ado-Ekiti documents forms of divination through which families sought to determine whether a newborn child represented the return of a deceased ancestor.
 
 Now imagine the philosophical consequences.
 
@@ -620,7 +614,7 @@ Now consider *Egúngún*, the ancestral masquerade tradition.
 
 A performer appears in elaborate layered costume, representing the presence and power of the ancestors.
 
-The Smithsonian's National Museum of African Art describes these performances as honoring named ancestors or collective lineage forebears and embodying the supernatural power associated with them. \[[Masquerade costume](https://www.si.edu/object/nmafa_2005-2-1?utm_source=chatgpt.com)\]
+The Smithsonian's National Museum of African Art describes these performances as honoring named ancestors or collective lineage forebears and embodying the supernatural power associated with them.
 
 The dead become socially present.
 
@@ -684,7 +678,6 @@ But before we declare that every civilization associates the afterlife with mora
 
 Because the ancient Nahua will thoroughly dismantle that assumption.
 
----
 
 ## VI. MESOAMERICA: Your destination might depend on HOW you died, not how virtuous you were
 
@@ -714,7 +707,7 @@ Warriors who died in battle and certain women who died in childbirth were associ
 
 Many ordinary deaths were associated with *Mictlan*, a realm of the dead.
 
-The exact structure is more complicated than older textbooks suggest. A 2026 study in *Ancient Mesoamerica* challenges the conventional classification of these realms as a simple set of geographical destinations, emphasizing the complexity of Nahua otherworld concepts. \[[Beyond Mictlan: The otherworlds of the pre-contact Nahua \| Ancient Mesoamerica](https://www.cambridge.org/core/journals/ancient-mesoamerica/article/beyond-mictlan-the-otherworlds-of-the-precontact-nahua/D876B805B25DC6FE52F6B550DC1CE056?utm_source=chatgpt.com)\]
+The exact structure is more complicated than older textbooks suggest. A 2026 study in *Ancient Mesoamerica* challenges the conventional classification of these realms as a simple set of geographical destinations, emphasizing the complexity of Nahua otherworld concepts.
 
 But the point survives.
 
@@ -736,7 +729,7 @@ Now, just to make everything even more interesting, some Nahua philosophical ant
 
 The *teyolía*, associated with vital personhood, could continue into a realm of the dead.
 
-The Internet Encyclopedia of Philosophy discusses this threefold structure and its interpretation in Nahua thought. \[[Aztec Philosophy](https://iep.utm.edu/aztec-philosophy/?utm_source=chatgpt.com)\]
+The Internet Encyclopedia of Philosophy discusses this threefold structure and its interpretation in Nahua thought.
 
 Now think back to Egypt and China.
 
@@ -752,7 +745,6 @@ But it doesn't mean they discovered the same supernatural anatomy.
 
 It means different cultures arrived at sophisticated ways of explaining why personhood cannot simply be equated with the visible body.
 
----
 
 ## VII. ZOROASTRIANISM: What if your own actions were waiting to meet you?
 
@@ -774,7 +766,7 @@ Her beauty reflects the goodness of the individual's thoughts, words and deeds.
 
 A wicked person's corresponding encounter is terrifying.
 
-The *Encyclopaedia Iranica* documents the underlying Avestan and later Pahlavi sources. \[[ESCHATOLOGY i. In Zoroastrianism and Zoroastrian Influence](https://www.iranicaonline.org/articles/eschatology-i/?utm_source=chatgpt.com); [DĒN](https://www.iranicaonline.org/articles/den/?utm_source=chatgpt.com)\]
+The *Encyclopaedia Iranica* documents the underlying Avestan and later Pahlavi sources. \; \]
 
 Now imagine this.
 
@@ -880,7 +872,6 @@ But the practical question already matters\:
 
 **What are your actions making of you?**
 
----
 
 ## VIII. INDONESIA: What if someone doesn't fully become dead until the funeral?
 
@@ -894,7 +885,7 @@ The person can be spoken of as sick or sleeping rather than fully dead in the ri
 
 The funeral accomplishes the transition to a different ancestral status.
 
-The Australian Museum documents these practices and notes that ceremonies may be delayed for months or years while families make the necessary arrangements. \[[Burial - Toraja, Sulawesi](https://australian.museum/about/history/exhibitions/death-the-last-taboo/burial-toraja-sulawesi/?utm_source=chatgpt.com)\]
+The Australian Museum documents these practices and notes that ceremonies may be delayed for months or years while families make the necessary arrangements.
 
 Now consider the extraordinary philosophical implication.
 
@@ -908,7 +899,7 @@ The funeral is not merely a response to a completed event.
 
 It participates in making the transition complete.
 
-A 2022 ethnographic study discusses this distinction and the Toraja concepts surrounding the deceased's continued presence. \[[The cultural attitudes of a funeral ritual discourse in the indigenous Torajan, Indonesia](https://pmc.ncbi.nlm.nih.gov/articles/PMC8851071/?utm_source=chatgpt.com)\]
+A 2022 ethnographic study discusses this distinction and the Toraja concepts surrounding the deceased's continued presence.
 
 Now compare.
 
@@ -960,7 +951,6 @@ The second is a metaphysical claim requiring independent evidence.
 
 We should be able to understand both without confusing them.
 
----
 
 ## IX. GREECE, INDIA AND TIBET: The dead must remember something
 
@@ -994,7 +984,7 @@ One tablet in the J. Paul Getty Museum, dating to approximately 350-300 BCE, pre
 
 The deceased declares descent from Earth and starry Heaven.
 
-The Getty explains that these tablets were intended to assist particular initiates in navigating the underworld and obtaining a favorable postmortem condition. \[[Golden Tickets to the Underworld](https://www.getty.edu/news/golden-tickets-to-the-underworld/?utm_source=chatgpt.com)\]
+The Getty explains that these tablets were intended to assist particular initiates in navigating the underworld and obtaining a favorable postmortem condition.
 
 Now think about what that means.
 
@@ -1048,7 +1038,7 @@ My translation\:
 
 The address *jñāni* is vocative here.
 
-The teaching is that bodily dissolution cannot revoke genuine realization of Śiva-nature. \[[Abhinavagupta: Paramārthasāra (GRETIL)](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_abhinavagupta-paramArthasAra.htm?utm_source=chatgpt.com)\]
+The teaching is that bodily dissolution cannot revoke genuine realization of Śiva-nature.
 
 Now compare the three systems.
 
@@ -1096,7 +1086,6 @@ It concerns the transformation of understanding while life is still available.
 
 And this is where our entire trilogy comes together.
 
----
 
 # X. WHAT ACTUALLY REMAINS? THE FINAL VERDICT
 
@@ -1184,7 +1173,6 @@ That distinction is critical.
 
 Now we've reached the heart of the whole inquiry.
 
----
 
 # XI. THE GREAT HUMAN AGREEMENT-AND THE GREAT DISAGREEMENT
 
@@ -1284,7 +1272,6 @@ That's what makes them so philosophically unusual.
 
 And now we can finally end this trilogy properly.
 
----
 
 # XII. THE LAST FUNERAL ON EARTH
 
@@ -1498,10 +1485,9 @@ And whatever happens after that, you will have already lived this life.
 
 *The end of the Death Yoga Trilogy.*
 
----
 
 Core research for this comparative finale
 
-The strongest scholarly foundations are Matthew Engelke's [The Anthropology of Death Revisited](https://www.annualreviews.org/content/journals/10.1146/annurev-anthro-102218-011420?utm_source=chatgpt.com); Christopher Heaney's [Empires of the Dead: Inca Mummies and the Peruvian Ancestors of American Anthropology](https://academic.oup.com/book/46629?utm_source=chatgpt.com); Ahmad Al-Jallad's [The Religion and Rituals of the Nomads of Pre-Islamic Arabia](https://www.jstor.org/stable/10.1163/j.ctv2kqwzwp?utm_source=chatgpt.com); Columbia University's [Chinese ancestral religion study](https://afe.easia.columbia.edu/cosmos/prb/journey.htm?utm_source=chatgpt.com); the [Encyclopaedia Iranica's study of Zoroastrian eschatology](https://www.iranicaonline.org/articles/eschatology-i/?utm_source=chatgpt.com); and the [Sanskrit Paramārthasāra with Yogarāja's commentary](https://gretil.sub.uni-goettingen.de/gretil/corpustei/transformations/html/sa_abhinavagupta-paramArthasAra-comm.htm?utm_source=chatgpt.com)\.
+The strongest scholarly foundations are Matthew Engelke's ; Christopher Heaney's ; Ahmad Al-Jallad's ; Columbia University's ; the ; and the \.
 
 These support a comparison of attested beliefs and practices, not a claim that historical agreement establishes the existence of an afterlife.

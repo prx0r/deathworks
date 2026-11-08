@@ -1,0 +1,79 @@
+{
+ "unit": "ancestors",
+ "status": "proposed-scholar-confirm",
+ "rule": "citation Deva + final gloss required; video shows confirmed only",
+ "deva_terms": [
+  {
+   "term": "मरणावसर",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "ज्ञान",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "न",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "च्यवत",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "स्वात्मपरमार्थात",
+   "occurrences": 1,
+   "gloss": ""
+  }
+ ],
+ "iast_terms": [
+  {
+   "term": "Śiva",
+   "occurrences": 7,
+   "gloss": ""
+  },
+  {
+   "term": "Paramārthasāra",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "jñāni",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "Śaiva",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "balīya",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "khayāl",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "maraṇāvasare",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "svātmaparamārthāt",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Śaivism",
+   "occurrences": 1,
+   "gloss": ""
+  }
+ ]
+}

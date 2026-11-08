@@ -1,0 +1,16 @@
+# Casting sheet heist (PROVISIONAL rule-cast — owner marks M/G per quote)
+
+- b216 [man?] "May the conditions of my existence be transformed so that I can actually help."
+- b352 [man?] "I am here."
+- b353 [man?] "I am this body."
+- b354 [man?] "I know these things, but not those things."
+- b355 [man?] "I can do this, but cannot do that."
+- b356 [man?] "I need something outside myself to become complete."
+- b365 [man?] "I am consciousness imprisoned in a body. I need to escape."
+- b367 [granny?] "The feeling that you are an imprisoned little consciousness is itself the contraction."
+- b508 [granny?] "If you've actually realized the truth, none of this is required."
+- b545 [granny?] "What is the ultimate nature of consciousness?"
+- b616 [man?] "What happens to me?"
+- b617 [man?] "Where will I go?"
+- b618 [man?] "Can I direct the process?"
+- b619 [man?] "What if I do it wrong?"

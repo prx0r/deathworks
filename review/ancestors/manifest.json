@@ -1,0 +1,27 @@
+{
+ "unit": "ancestors",
+ "files": {
+  "storyboards/storyboard_ancestors.json": {
+   "sha256": "f6ba02898c306a39",
+   "bytes": 231792
+  },
+  "chapters/ancestors.md": {
+   "sha256": "80bbcc475a808751",
+   "bytes": 51846
+  },
+  "overrides_ancestors.json": {
+   "sha256": "1ad4d8dc453e2cc7",
+   "bytes": 156
+  },
+  "glossary_ancestors.json": {
+   "sha256": "23a5c40c9522cda7",
+   "bytes": 581
+  },
+  "casting/cast_ancestors.md": {
+   "sha256": "cad4b046af924a54",
+   "bytes": 699
+  }
+ },
+ "casting": "provisional-rule-cast-owner-bless-pending",
+ "glossary": "candidates-mined-glosses-empty-scholar-confirms"
+}

@@ -1,0 +1,189 @@
+{
+ "unit": "madman",
+ "status": "proposed-scholar-confirm",
+ "rule": "citation Deva + final gloss required; video shows confirmed only",
+ "deva_terms": [
+  {
+   "term": "अघोर",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "शवसाधन",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "कापालिक",
+   "occurrences": 1,
+   "gloss": ""
+  }
+ ],
+ "iast_terms": [
+  {
+   "term": "Śaiva",
+   "occurrences": 16,
+   "gloss": ""
+  },
+  {
+   "term": "Śiva",
+   "occurrences": 14,
+   "gloss": ""
+  },
+  {
+   "term": "Aghorī",
+   "occurrences": 9,
+   "gloss": ""
+  },
+  {
+   "term": "Kāpālikas",
+   "occurrences": 4,
+   "gloss": ""
+  },
+  {
+   "term": "Brahmayāmala",
+   "occurrences": 4,
+   "gloss": ""
+  },
+  {
+   "term": "Śava",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "Kāpālika",
+   "occurrences": 3,
+   "gloss": ""
+  },
+  {
+   "term": "Aghorīs",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "sādhana",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "kapāla",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "mahāvrata",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "Kālāmukhas",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "Brahmā",
+   "occurrences": 2,
+   "gloss": ""
+  },
+  {
+   "term": "śava",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Sādhana",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Śākta",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Śakti",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "KĀPĀLIKAS",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "kāpālika",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "brahmahatyā",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Skandapurāṇa",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Mahāmanthāna",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Pratyabhijñā",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Prajñāpāramitā",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "puryaṣṭaka",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Śaivas",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "pratyabhijñā",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "sagdīd",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Satipaṭṭhāna",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Nikāya",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "utkrānti",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Paramārthasāra",
+   "occurrences": 1,
+   "gloss": ""
+  },
+  {
+   "term": "Tantrasāra",
+   "occurrences": 1,
+   "gloss": ""
+  }
+ ]
+}
