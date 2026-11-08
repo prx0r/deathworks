@@ -34,3 +34,5 @@ lane-parameterize at render phase (same class as NEW-LANE §4).
 1. Debris pass, storyboards, casting, glossaries: pending per piece.
 2. Lane shape: one lane or five? Currently a collection, unwired.
 3. Approvals: owner act at render time.
+
+House visual law: videofactory/docs/VISUALS.md (ladder: Deva+gloss → GIF motifs → drawn landscapes; white law).
