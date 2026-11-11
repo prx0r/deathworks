@@ -31,8 +31,8 @@
    "section": "THE DEAD ARE NOT DONE WITH US",
    "type": "narration",
    "voice": "granny",
-   "text": "*A journey through ancient Egypt, Inca Peru, Arabia, India, Tibet, China, Africa and the Americas-and the astonishing patterns that emerge when we ask what, if anything, survives death.*",
-   "directed": "*A journey through ancient Egypt, Inca Peru, Arabia, India, Tibet, China, Africa and the Americas-and the astonishing patterns that emerge when we ask what, if anything, survives death.*"
+   "text": "A journey through ancient Egypt, Inca Peru, Arabia, India, Tibet, China, Africa and the Americas-and the astonishing patterns that emerge when we ask what, if anything, survives death.",
+   "directed": "A journey through ancient Egypt, Inca Peru, Arabia, India, Tibet, China, Africa and the Americas-and the astonishing patterns that emerge when we ask what, if anything, survives death."
   },
   {
    "id": "b4",
@@ -151,8 +151,8 @@
    "section": "Prologue: Eight civilizations. One corpse. An absolutely eno",
    "type": "narration",
    "voice": "granny",
-   "text": "A new religious proclamation announces resurrection and judgment. The dead will be raised by God. Their actions matter. And between death and resurrection stands a mysterious barrier called *barzakh*.",
-   "directed": "A new religious proclamation announces resurrection and judgment. The dead will be raised by God. Their actions matter. And between death and resurrection stands a mysterious barrier called *barzakh*."
+   "text": "A new religious proclamation announces resurrection and judgment. The dead will be raised by God. Their actions matter. And between death and resurrection stands a mysterious barrier called barzakh.",
+   "directed": "A new religious proclamation announces resurrection and judgment. The dead will be raised by God. Their actions matter. And between death and resurrection stands a mysterious barrier called barzakh."
   },
   {
    "id": "b19",
@@ -239,8 +239,8 @@
    "section": "Prologue: Eight civilizations. One corpse. An absolutely eno",
    "type": "narration",
    "voice": "granny",
-   "text": "**The dead remain connected to the living. Identity proves more complicated than the physical body. Death becomes a transition requiring attention. And the way one lives may affect what follows.**",
-   "directed": "**The dead remain connected to the living. Identity proves more complicated than the physical body. Death becomes a transition requiring attention. And the way one lives may affect what follows.**"
+   "text": "The dead remain connected to the living. Identity proves more complicated than the physical body. Death becomes a transition requiring attention. And the way one lives may affect what follows.",
+   "directed": "The dead remain connected to the living. Identity proves more complicated than the physical body. Death becomes a transition requiring attention. And the way one lives may affect what follows."
   },
   {
    "id": "b30",
@@ -255,8 +255,8 @@
    "section": "Prologue: Eight civilizations. One corpse. An absolutely eno",
    "type": "narration",
    "voice": "granny",
-   "text": "There is **no universal agreement that an immortal soul survives death, that everybody reincarnates, or that the same afterlife awaits everyone**.",
-   "directed": "There is **no universal agreement that an immortal soul survives death, that everybody reincarnates, or that the same afterlife awaits everyone**."
+   "text": "There is no universal agreement that an immortal soul survives death, that everybody reincarnates, or that the same afterlife awaits everyone.",
+   "directed": "There is no universal agreement that an immortal soul survives death, that everybody reincarnates, or that the same afterlife awaits everyone."
   },
   {
    "id": "b32",
@@ -271,8 +271,8 @@
    "section": "Prologue: Eight civilizations. One corpse. An absolutely eno",
    "type": "narration",
    "voice": "granny",
-   "text": "Matthew Engelke's major review, *The Anthropology of Death Revisited*, identifies two recurring concerns in mortuary traditions: how life is understood to continue despite individual death, and how societies deal with the physical reality of the corpse.",
-   "directed": "Matthew Engelke's major review, *The Anthropology of Death Revisited*, identifies two recurring concerns in mortuary traditions: how life is understood to continue despite individual death, and how societies deal with the physical reality of the corpse."
+   "text": "Matthew Engelke's major review, The Anthropology of Death Revisited, identifies two recurring concerns in mortuary traditions: how life is understood to continue despite individual death, and how societies deal with the physical reality of the corpse.",
+   "directed": "Matthew Engelke's major review, The Anthropology of Death Revisited, identifies two recurring concerns in mortuary traditions: how life is understood to continue despite individual death, and how societies deal with the physical reality of the corpse."
   },
   {
    "id": "b34",
@@ -375,32 +375,32 @@
    "section": "I. EGYPT: You are not one thing, and death pulls you apart",
    "type": "narration",
    "voice": "granny",
-   "text": "Among them were the physical body, name, heart, *ka* and *ba*.",
-   "directed": "Among them were the physical body, name, heart, *ka* and *ba*."
+   "text": "Among them were the physical body, name, heart, ka and ba.",
+   "directed": "Among them were the physical body, name, heart, ka and ba."
   },
   {
    "id": "b47",
    "section": "I. EGYPT: You are not one thing, and death pulls you apart",
    "type": "narration",
    "voice": "granny",
-   "text": "The *ka* is commonly understood as a vital aspect of the person, intimately connected to sustenance and offerings.",
-   "directed": "The *ka* is commonly understood as a vital aspect of the person, intimately connected to sustenance and offerings."
+   "text": "The ka is commonly understood as a vital aspect of the person, intimately connected to sustenance and offerings.",
+   "directed": "The ka is commonly understood as a vital aspect of the person, intimately connected to sustenance and offerings."
   },
   {
    "id": "b48",
    "section": "I. EGYPT: You are not one thing, and death pulls you apart",
    "type": "narration",
    "voice": "granny",
-   "text": "The *ba* represents another dimension of personal existence, notably capable of movement between the tomb and the wider world.",
-   "directed": "The *ba* represents another dimension of personal existence, notably capable of movement between the tomb and the wider world."
+   "text": "The ba represents another dimension of personal existence, notably capable of movement between the tomb and the wider world.",
+   "directed": "The ba represents another dimension of personal existence, notably capable of movement between the tomb and the wider world."
   },
   {
    "id": "b49",
    "section": "I. EGYPT: You are not one thing, and death pulls you apart",
    "type": "narration",
    "voice": "granny",
-   "text": "The *akh* is an effective or transfigured postmortem state.",
-   "directed": "The *akh* is an effective or transfigured postmortem state."
+   "text": "The akh is an effective or transfigured postmortem state.",
+   "directed": "The akh is an effective or transfigured postmortem state."
   },
   {
    "id": "b50",
@@ -415,8 +415,8 @@
    "section": "I. EGYPT: You are not one thing, and death pulls you apart",
    "type": "narration",
    "voice": "granny",
-   "text": "The Metropolitan Museum's *Transforming the Dead* explains that death disrupted the relationship among these components; funerary rituals aimed to reunite and transform them so that existence could continue.",
-   "directed": "The Metropolitan Museum's *Transforming the Dead* explains that death disrupted the relationship among these components; funerary rituals aimed to reunite and transform them so that existence could continue."
+   "text": "The Metropolitan Museum's Transforming the Dead explains that death disrupted the relationship among these components; funerary rituals aimed to reunite and transform them so that existence could continue.",
+   "directed": "The Metropolitan Museum's Transforming the Dead explains that death disrupted the relationship among these components; funerary rituals aimed to reunite and transform them so that existence could continue."
   },
   {
    "id": "b52",
@@ -503,16 +503,16 @@
    "section": "I. EGYPT: You are not one thing, and death pulls you apart",
    "type": "narration",
    "voice": "granny",
-   "text": "### The mummy was not just a memorial",
-   "directed": "### The mummy was not just a memorial"
+   "text": "The mummy was not just a memorial",
+   "directed": "The mummy was not just a memorial"
   },
   {
    "id": "b63",
    "section": "I. EGYPT: You are not one thing, and death pulls you apart",
    "type": "narration",
    "voice": "granny",
-   "text": "In an Egyptian mortuary chapel, a statue could provide a locus for the *ka*.",
-   "directed": "In an Egyptian mortuary chapel, a statue could provide a locus for the *ka*."
+   "text": "In an Egyptian mortuary chapel, a statue could provide a locus for the ka.",
+   "directed": "In an Egyptian mortuary chapel, a statue could provide a locus for the ka."
   },
   {
    "id": "b64",
@@ -607,8 +607,8 @@
    "section": "I. EGYPT: You are not one thing, and death pulls you apart",
    "type": "narration",
    "voice": "granny",
-   "text": "**Tenet One: Personhood may be composite.**",
-   "directed": "**Tenet One: Personhood may be composite.**"
+   "text": "Tenet One: Personhood may be composite.",
+   "directed": "Tenet One: Personhood may be composite."
   },
   {
    "id": "b76",
@@ -663,8 +663,8 @@
    "section": "I. EGYPT: You are not one thing, and death pulls you apart",
    "type": "narration",
    "voice": "granny",
-   "text": "The word *person* conceals considerable complexity.",
-   "directed": "The word *person* conceals considerable complexity."
+   "text": "The word person conceals considerable complexity.",
+   "directed": "The word person conceals considerable complexity."
   },
   {
    "id": "b83",
@@ -775,16 +775,16 @@
    "section": "II. PERU: The king is dead. Unfortunately, he still owns eve",
    "type": "narration",
    "voice": "granny",
-   "text": "The Quechua term *mallki* is associated with ancestors and ancestral remains.",
-   "directed": "The Quechua term *mallki* is associated with ancestors and ancestral remains."
+   "text": "The Quechua term mallki is associated with ancestors and ancestral remains.",
+   "directed": "The Quechua term mallki is associated with ancestors and ancestral remains."
   },
   {
    "id": "b97",
    "section": "II. PERU: The king is dead. Unfortunately, he still owns eve",
    "type": "narration",
    "voice": "granny",
-   "text": "The royal dead could also be described through the sacred category *illapa* or *yllapa*, although these terms must be interpreted in their particular historical contexts.",
-   "directed": "The royal dead could also be described through the sacred category *illapa* or *yllapa*, although these terms must be interpreted in their particular historical contexts."
+   "text": "The royal dead could also be described through the sacred category illapa or yllapa, although these terms must be interpreted in their particular historical contexts.",
+   "directed": "The royal dead could also be described through the sacred category illapa or yllapa, although these terms must be interpreted in their particular historical contexts."
   },
   {
    "id": "b98",
@@ -935,8 +935,8 @@
    "section": "II. PERU: The king is dead. Unfortunately, he still owns eve",
    "type": "narration",
    "voice": "granny",
-   "text": "### But what actually survives here?",
-   "directed": "### But what actually survives here?"
+   "text": "But what actually survives here?",
+   "directed": "But what actually survives here?"
   },
   {
    "id": "b117",
@@ -1063,16 +1063,16 @@
    "section": "II. PERU: The king is dead. Unfortunately, he still owns eve",
    "type": "narration",
    "voice": "granny",
-   "text": "### The deeper Andean insight",
-   "directed": "### The deeper Andean insight"
+   "text": "The deeper Andean insight",
+   "directed": "The deeper Andean insight"
   },
   {
    "id": "b133",
    "section": "II. PERU: The king is dead. Unfortunately, he still owns eve",
    "type": "narration",
    "voice": "granny",
-   "text": "Here is **Tenet Two: A person can continue through relationships.**",
-   "directed": "Here is **Tenet Two: A person can continue through relationships.**"
+   "text": "Here is Tenet Two: A person can continue through relationships.",
+   "directed": "Here is Tenet Two: A person can continue through relationships."
   },
   {
    "id": "b134",
@@ -1191,8 +1191,8 @@
    "section": "II. PERU: The king is dead. Unfortunately, he still owns eve",
    "type": "narration",
    "voice": "granny",
-   "text": "**Death ends an organism's life. It does not instantaneously erase everything that constituted the person's presence in the world.**",
-   "directed": "**Death ends an organism's life. It does not instantaneously erase everything that constituted the person's presence in the world.**"
+   "text": "Death ends an organism's life. It does not instantaneously erase everything that constituted the person's presence in the world.",
+   "directed": "Death ends an organism's life. It does not instantaneously erase everything that constituted the person's presence in the world."
   },
   {
    "id": "b149",
@@ -1295,8 +1295,8 @@
    "section": "III. ARABIA: One region, three radically different answers t",
    "type": "narration",
    "voice": "granny",
-   "text": "Some pre-Islamic Arabian poetry and religious discourse emphasize *dahr*-time or fate-as the power that destroys human life.",
-   "directed": "Some pre-Islamic Arabian poetry and religious discourse emphasize *dahr*-time or fate-as the power that destroys human life."
+   "text": "Some pre-Islamic Arabian poetry and religious discourse emphasize dahr-time or fate-as the power that destroys human life.",
+   "directed": "Some pre-Islamic Arabian poetry and religious discourse emphasize dahr-time or fate-as the power that destroys human life."
   },
   {
    "id": "b162",
@@ -1351,8 +1351,8 @@
    "section": "III. ARABIA: One region, three radically different answers t",
    "type": "narration",
    "voice": "granny",
-   "text": "Geoffrey King's archaeological study of pre-Islamic Arabian *balīya* sacrifices, for example, documents the burial of camels with deceased persons of status, possibly so the dead would possess a mount in the afterlife.",
-   "directed": "Geoffrey King's archaeological study of pre-Islamic Arabian *balīya* sacrifices, for example, documents the burial of camels with deceased persons of status, possibly so the dead would possess a mount in the afterlife."
+   "text": "Geoffrey King's archaeological study of pre-Islamic Arabian balīya sacrifices, for example, documents the burial of camels with deceased persons of status, possibly so the dead would possess a mount in the afterlife.",
+   "directed": "Geoffrey King's archaeological study of pre-Islamic Arabian balīya sacrifices, for example, documents the burial of camels with deceased persons of status, possibly so the dead would possess a mount in the afterlife."
   },
   {
    "id": "b169",
@@ -1383,16 +1383,16 @@
    "section": "III. ARABIA: One region, three radically different answers t",
    "type": "narration",
    "voice": "granny",
-   "text": "### The barzakh: the barrier between death and resurrection",
-   "directed": "### The barzakh: the barrier between death and resurrection"
+   "text": "The barzakh: the barrier between death and resurrection",
+   "directed": "The barzakh: the barrier between death and resurrection"
   },
   {
    "id": "b173",
    "section": "III. ARABIA: One region, three radically different answers t",
    "type": "narration",
    "voice": "granny",
-   "text": "**بَرْزَخ - barzakh**",
-   "directed": "**بَرْزَخ - barzakh**"
+   "text": "بَرْزَخ - barzakh",
+   "directed": "بَرْزَخ - barzakh"
   },
   {
    "id": "b174",
@@ -1407,8 +1407,8 @@
    "section": "III. ARABIA: One region, three radically different answers t",
    "type": "narration",
    "voice": "granny",
-   "text": "At Qur'an 23:99-100, a dying person asks to be returned so they can act righteously, but the request is refused. A *barzakh* stands before the dead until the day they are raised.",
-   "directed": "At Qur'an 23:99-100, a dying person asks to be returned so they can act righteously, but the request is refused. A *barzakh* stands before the dead until the day they are raised."
+   "text": "At Qur'an 23:99-100, a dying person asks to be returned so they can act righteously, but the request is refused. A barzakh stands before the dead until the day they are raised.",
+   "directed": "At Qur'an 23:99-100, a dying person asks to be returned so they can act righteously, but the request is refused. A barzakh stands before the dead until the day they are raised."
   },
   {
    "id": "b176",
@@ -1463,8 +1463,8 @@
    "section": "III. ARABIA: One region, three radically different answers t",
    "type": "narration",
    "voice": "granny",
-   "text": "It's not Egyptian transformation into an *akh*.",
-   "directed": "It's not Egyptian transformation into an *akh*."
+   "text": "It's not Egyptian transformation into an akh.",
+   "directed": "It's not Egyptian transformation into an akh."
   },
   {
    "id": "b183",
@@ -1479,8 +1479,8 @@
    "section": "III. ARABIA: One region, three radically different answers t",
    "type": "narration",
    "voice": "granny",
-   "text": "In mainstream Islamic doctrine, God resurrects the dead for judgment. Earthly life is not ordinarily understood as one episode in an indefinite sequence of karmic human births. ; ; \\]",
-   "directed": "In mainstream Islamic doctrine, God resurrects the dead for judgment. Earthly life is not ordinarily understood as one episode in an indefinite sequence of karmic human births. ; ; \\]"
+   "text": "In mainstream Islamic doctrine, God resurrects the dead for judgment. Earthly life is not ordinarily understood as one episode in an indefinite sequence of karmic human births. ; ; ]",
+   "directed": "In mainstream Islamic doctrine, God resurrects the dead for judgment. Earthly life is not ordinarily understood as one episode in an indefinite sequence of karmic human births. ; ; ]"
   },
   {
    "id": "b185",
@@ -1535,16 +1535,16 @@
    "section": "III. ARABIA: One region, three radically different answers t",
    "type": "narration",
    "voice": "granny",
-   "text": "### Islamic mysticism makes the intermediate world much stranger",
-   "directed": "### Islamic mysticism makes the intermediate world much stranger"
+   "text": "Islamic mysticism makes the intermediate world much stranger",
+   "directed": "Islamic mysticism makes the intermediate world much stranger"
   },
   {
    "id": "b192",
    "section": "III. ARABIA: One region, three radically different answers t",
    "type": "narration",
    "voice": "granny",
-   "text": "Now enter Ibn ʿArabī \\(1165-1240).",
-   "directed": "Now enter Ibn ʿArabī \\(1165-1240)."
+   "text": "Now enter Ibn ʿArabī (1165-1240).",
+   "directed": "Now enter Ibn ʿArabī (1165-1240)."
   },
   {
    "id": "b193",
@@ -1559,8 +1559,8 @@
    "section": "III. ARABIA: One region, three radically different answers t",
    "type": "narration",
    "voice": "granny",
-   "text": "For Ibn ʿArabī, *barzakh* becomes a central philosophical concept.",
-   "directed": "For Ibn ʿArabī, *barzakh* becomes a central philosophical concept."
+   "text": "For Ibn ʿArabī, barzakh becomes a central philosophical concept.",
+   "directed": "For Ibn ʿArabī, barzakh becomes a central philosophical concept."
   },
   {
    "id": "b195",
@@ -1583,8 +1583,8 @@
    "section": "III. ARABIA: One region, three radically different answers t",
    "type": "narration",
    "voice": "granny",
-   "text": "His understanding of *khayāl*, imagination or the imaginal realm, allows for a mode of reality in which spiritual meanings assume forms and bodily realities are expressed spiritually.",
-   "directed": "His understanding of *khayāl*, imagination or the imaginal realm, allows for a mode of reality in which spiritual meanings assume forms and bodily realities are expressed spiritually."
+   "text": "His understanding of khayāl, imagination or the imaginal realm, allows for a mode of reality in which spiritual meanings assume forms and bodily realities are expressed spiritually.",
+   "directed": "His understanding of khayāl, imagination or the imaginal realm, allows for a mode of reality in which spiritual meanings assume forms and bodily realities are expressed spiritually."
   },
   {
    "id": "b198",
@@ -1679,8 +1679,8 @@
    "section": "III. ARABIA: One region, three radically different answers t",
    "type": "narration",
    "voice": "granny",
-   "text": "**Must every possible form of experience possess the same relationship to physical embodiment that ordinary waking experience does?**",
-   "directed": "**Must every possible form of experience possess the same relationship to physical embodiment that ordinary waking experience does?**"
+   "text": "Must every possible form of experience possess the same relationship to physical embodiment that ordinary waking experience does?",
+   "directed": "Must every possible form of experience possess the same relationship to physical embodiment that ordinary waking experience does?"
   },
   {
    "id": "b210",
@@ -1695,8 +1695,8 @@
    "section": "III. ARABIA: One region, three radically different answers t",
    "type": "narration",
    "voice": "granny",
-   "text": "### Tenet Three: The significance of death depends upon what can still change afterward",
-   "directed": "### Tenet Three: The significance of death depends upon what can still change afterward"
+   "text": "Tenet Three: The significance of death depends upon what can still change afterward",
+   "directed": "Tenet Three: The significance of death depends upon what can still change afterward"
   },
   {
    "id": "b212",
@@ -1791,8 +1791,8 @@
    "section": "IV. CHINA: The ancestor is in the grave, on the altar, and p",
    "type": "narration",
    "voice": "granny",
-   "text": "The key terms include *hún* \\(魂) and *pò* \\(魄), associated with different aspects of the human spirit or psychophysical constitution.",
-   "directed": "The key terms include *hún* \\(魂) and *pò* \\(魄), associated with different aspects of the human spirit or psychophysical constitution."
+   "text": "The key terms include hún (魂) and pò (魄), associated with different aspects of the human spirit or psychophysical constitution.",
+   "directed": "The key terms include hún (魂) and pò (魄), associated with different aspects of the human spirit or psychophysical constitution."
   },
   {
    "id": "b224",
@@ -1807,8 +1807,8 @@
    "section": "IV. CHINA: The ancestor is in the grave, on the altar, and p",
    "type": "narration",
    "voice": "granny",
-   "text": "In one influential religious understanding, *hún* is associated with a more yang or spiritually mobile aspect, while *pò* is associated with a more yin or bodily aspect.",
-   "directed": "In one influential religious understanding, *hún* is associated with a more yang or spiritually mobile aspect, while *pò* is associated with a more yin or bodily aspect."
+   "text": "In one influential religious understanding, hún is associated with a more yang or spiritually mobile aspect, while pò is associated with a more yin or bodily aspect.",
+   "directed": "In one influential religious understanding, hún is associated with a more yang or spiritually mobile aspect, while pò is associated with a more yin or bodily aspect."
   },
   {
    "id": "b226",
@@ -1823,8 +1823,8 @@
    "section": "IV. CHINA: The ancestor is in the grave, on the altar, and p",
    "type": "narration",
    "voice": "granny",
-   "text": "Columbia University's *Living in the Chinese Cosmos* documents this threefold arrangement and the enormous importance of ancestral ritual.",
-   "directed": "Columbia University's *Living in the Chinese Cosmos* documents this threefold arrangement and the enormous importance of ancestral ritual."
+   "text": "Columbia University's Living in the Chinese Cosmos documents this threefold arrangement and the enormous importance of ancestral ritual.",
+   "directed": "Columbia University's Living in the Chinese Cosmos documents this threefold arrangement and the enormous importance of ancestral ritual."
   },
   {
    "id": "b228",
@@ -1951,8 +1951,8 @@
    "section": "IV. CHINA: The ancestor is in the grave, on the altar, and p",
    "type": "narration",
    "voice": "granny",
-   "text": "### The really interesting disagreement is within China itself",
-   "directed": "### The really interesting disagreement is within China itself"
+   "text": "The really interesting disagreement is within China itself",
+   "directed": "The really interesting disagreement is within China itself"
   },
   {
    "id": "b244",
@@ -2079,8 +2079,8 @@
    "section": "IV. CHINA: The ancestor is in the grave, on the altar, and p",
    "type": "narration",
    "voice": "granny",
-   "text": "The Egyptian *ka*, *ba* and *akh* aren't the same as Chinese *hún* and *pò*.",
-   "directed": "The Egyptian *ka*, *ba* and *akh* aren't the same as Chinese *hún* and *pò*."
+   "text": "The Egyptian ka, ba and akh aren't the same as Chinese hún and pò.",
+   "directed": "The Egyptian ka, ba and akh aren't the same as Chinese hún and pò."
   },
   {
    "id": "b260",
@@ -2103,8 +2103,8 @@
    "section": "IV. CHINA: The ancestor is in the grave, on the altar, and p",
    "type": "narration",
    "voice": "granny",
-   "text": "### Tenet Four: The living may have duties toward the dead",
-   "directed": "### Tenet Four: The living may have duties toward the dead"
+   "text": "Tenet Four: The living may have duties toward the dead",
+   "directed": "Tenet Four: The living may have duties toward the dead"
   },
   {
    "id": "b263",
@@ -2119,8 +2119,8 @@
    "section": "IV. CHINA: The ancestor is in the grave, on the altar, and p",
    "type": "narration",
    "voice": "granny",
-   "text": "The Egyptian offers nourishment to the *ka*.",
-   "directed": "The Egyptian offers nourishment to the *ka*."
+   "text": "The Egyptian offers nourishment to the ka.",
+   "directed": "The Egyptian offers nourishment to the ka."
   },
   {
    "id": "b265",
@@ -2175,8 +2175,8 @@
    "section": "IV. CHINA: The ancestor is in the grave, on the altar, and p",
    "type": "narration",
    "voice": "granny",
-   "text": "**Death does not cancel the living person's responsibilities toward someone they loved.**",
-   "directed": "**Death does not cancel the living person's responsibilities toward someone they loved.**"
+   "text": "Death does not cancel the living person's responsibilities toward someone they loved.",
+   "directed": "Death does not cancel the living person's responsibilities toward someone they loved."
   },
   {
    "id": "b272",
@@ -2311,8 +2311,8 @@
    "section": "V. YORUBA: Your grandfather might return as your newborn son",
    "type": "narration",
    "voice": "granny",
-   "text": "The Yoruba word *àtúnwáyé* refers to returning to the world or reincarnation.",
-   "directed": "The Yoruba word *àtúnwáyé* refers to returning to the world or reincarnation."
+   "text": "The Yoruba word àtúnwáyé refers to returning to the world or reincarnation.",
+   "directed": "The Yoruba word àtúnwáyé refers to returning to the world or reincarnation."
   },
   {
    "id": "b289",
@@ -2327,16 +2327,16 @@
    "section": "V. YORUBA: Your grandfather might return as your newborn son",
    "type": "narration",
    "voice": "granny",
-   "text": "*Babatúndé* - father has returned.",
-   "directed": "*Babatúndé* - father has returned."
+   "text": "Babatúndé - father has returned.",
+   "directed": "Babatúndé - father has returned."
   },
   {
    "id": "b291",
    "section": "V. YORUBA: Your grandfather might return as your newborn son",
    "type": "narration",
    "voice": "granny",
-   "text": "*Yétúndé* - mother has returned.",
-   "directed": "*Yétúndé* - mother has returned."
+   "text": "Yétúndé - mother has returned.",
+   "directed": "Yétúndé - mother has returned."
   },
   {
    "id": "b292",
@@ -2431,16 +2431,16 @@
    "section": "V. YORUBA: Your grandfather might return as your newborn son",
    "type": "narration",
    "voice": "granny",
-   "text": "### Egúngún: the ancestor returns through the living",
-   "directed": "### Egúngún: the ancestor returns through the living"
+   "text": "Egúngún: the ancestor returns through the living",
+   "directed": "Egúngún: the ancestor returns through the living"
   },
   {
    "id": "b304",
    "section": "V. YORUBA: Your grandfather might return as your newborn son",
    "type": "narration",
    "voice": "granny",
-   "text": "Now consider *Egúngún*, the ancestral masquerade tradition.",
-   "directed": "Now consider *Egúngún*, the ancestral masquerade tradition."
+   "text": "Now consider Egúngún, the ancestral masquerade tradition.",
+   "directed": "Now consider Egúngún, the ancestral masquerade tradition."
   },
   {
    "id": "b305",
@@ -2551,8 +2551,8 @@
    "section": "V. YORUBA: Your grandfather might return as your newborn son",
    "type": "narration",
    "voice": "granny",
-   "text": "### The remarkable implication",
-   "directed": "### The remarkable implication"
+   "text": "The remarkable implication",
+   "directed": "The remarkable implication"
   },
   {
    "id": "b319",
@@ -2663,8 +2663,8 @@
    "section": "V. YORUBA: Your grandfather might return as your newborn son",
    "type": "narration",
    "voice": "granny",
-   "text": "**How is one life connected to lives that came before it?**",
-   "directed": "**How is one life connected to lives that came before it?**"
+   "text": "How is one life connected to lives that came before it?",
+   "directed": "How is one life connected to lives that came before it?"
   },
   {
    "id": "b333",
@@ -2799,8 +2799,8 @@
    "section": "VI. MESOAMERICA: Your destination might depend on HOW you di",
    "type": "narration",
    "voice": "granny",
-   "text": "Death involving water and certain rain-associated conditions could lead to *Tlalocan*.",
-   "directed": "Death involving water and certain rain-associated conditions could lead to *Tlalocan*."
+   "text": "Death involving water and certain rain-associated conditions could lead to Tlalocan.",
+   "directed": "Death involving water and certain rain-associated conditions could lead to Tlalocan."
   },
   {
    "id": "b350",
@@ -2815,16 +2815,16 @@
    "section": "VI. MESOAMERICA: Your destination might depend on HOW you di",
    "type": "narration",
    "voice": "granny",
-   "text": "Many ordinary deaths were associated with *Mictlan*, a realm of the dead.",
-   "directed": "Many ordinary deaths were associated with *Mictlan*, a realm of the dead."
+   "text": "Many ordinary deaths were associated with Mictlan, a realm of the dead.",
+   "directed": "Many ordinary deaths were associated with Mictlan, a realm of the dead."
   },
   {
    "id": "b352",
    "section": "VI. MESOAMERICA: Your destination might depend on HOW you di",
    "type": "narration",
    "voice": "granny",
-   "text": "The exact structure is more complicated than older textbooks suggest. A 2026 study in *Ancient Mesoamerica* challenges the conventional classification of these realms as a simple set of geographical destinations, emphasizing the complexity of Nahua otherworld concepts.",
-   "directed": "The exact structure is more complicated than older textbooks suggest. A 2026 study in *Ancient Mesoamerica* challenges the conventional classification of these realms as a simple set of geographical destinations, emphasizing the complexity of Nahua otherworld concepts."
+   "text": "The exact structure is more complicated than older textbooks suggest. A 2026 study in Ancient Mesoamerica challenges the conventional classification of these realms as a simple set of geographical destinations, emphasizing the complexity of Nahua otherworld concepts.",
+   "directed": "The exact structure is more complicated than older textbooks suggest. A 2026 study in Ancient Mesoamerica challenges the conventional classification of these realms as a simple set of geographical destinations, emphasizing the complexity of Nahua otherworld concepts."
   },
   {
    "id": "b353",
@@ -2839,8 +2839,8 @@
    "section": "VI. MESOAMERICA: Your destination might depend on HOW you di",
    "type": "narration",
    "voice": "granny",
-   "text": "**The conditions of your death could matter independently of an ordinary moral judgment about your character.**",
-   "directed": "**The conditions of your death could matter independently of an ordinary moral judgment about your character.**"
+   "text": "The conditions of your death could matter independently of an ordinary moral judgment about your character.",
+   "directed": "The conditions of your death could matter independently of an ordinary moral judgment about your character."
   },
   {
    "id": "b355",
@@ -2895,16 +2895,16 @@
    "section": "VI. MESOAMERICA: Your destination might depend on HOW you di",
    "type": "narration",
    "voice": "granny",
-   "text": "*Tonalli*, *teyolía* and *ihíyotl* are associated, in an influential scholarly reconstruction, with different vital and psychological functions, respectively connected with the head, heart and liver.",
-   "directed": "*Tonalli*, *teyolía* and *ihíyotl* are associated, in an influential scholarly reconstruction, with different vital and psychological functions, respectively connected with the head, heart and liver."
+   "text": "Tonalli, teyolía and ihíyotl are associated, in an influential scholarly reconstruction, with different vital and psychological functions, respectively connected with the head, heart and liver.",
+   "directed": "Tonalli, teyolía and ihíyotl are associated, in an influential scholarly reconstruction, with different vital and psychological functions, respectively connected with the head, heart and liver."
   },
   {
    "id": "b362",
    "section": "VI. MESOAMERICA: Your destination might depend on HOW you di",
    "type": "narration",
    "voice": "granny",
-   "text": "The *teyolía*, associated with vital personhood, could continue into a realm of the dead.",
-   "directed": "The *teyolía*, associated with vital personhood, could continue into a realm of the dead."
+   "text": "The teyolía, associated with vital personhood, could continue into a realm of the dead.",
+   "directed": "The teyolía, associated with vital personhood, could continue into a realm of the dead."
   },
   {
    "id": "b363",
@@ -3015,8 +3015,8 @@
    "section": "VII. ZOROASTRIANISM: What if your own actions were waiting t",
    "type": "narration",
    "voice": "granny",
-   "text": "And it encounters the *daēnā*.",
-   "directed": "And it encounters the *daēnā*."
+   "text": "And it encounters the daēnā.",
+   "directed": "And it encounters the daēnā."
   },
   {
    "id": "b377",
@@ -3031,8 +3031,8 @@
    "section": "VII. ZOROASTRIANISM: What if your own actions were waiting t",
    "type": "narration",
    "voice": "granny",
-   "text": "In the *Hādōxt Nask*, a righteous person encounters their *daēnā* in the form of a beautiful maiden.",
-   "directed": "In the *Hādōxt Nask*, a righteous person encounters their *daēnā* in the form of a beautiful maiden."
+   "text": "In the Hādōxt Nask, a righteous person encounters their daēnā in the form of a beautiful maiden.",
+   "directed": "In the Hādōxt Nask, a righteous person encounters their daēnā in the form of a beautiful maiden."
   },
   {
    "id": "b379",
@@ -3055,8 +3055,8 @@
    "section": "VII. ZOROASTRIANISM: What if your own actions were waiting t",
    "type": "narration",
    "voice": "granny",
-   "text": "The *Encyclopaedia Iranica* documents the underlying Avestan and later Pahlavi sources. ; \\]",
-   "directed": "The *Encyclopaedia Iranica* documents the underlying Avestan and later Pahlavi sources. ; \\]"
+   "text": "The Encyclopaedia Iranica documents the underlying Avestan and later Pahlavi sources. ; ]",
+   "directed": "The Encyclopaedia Iranica documents the underlying Avestan and later Pahlavi sources. ; ]"
   },
   {
    "id": "b382",
@@ -3111,8 +3111,8 @@
    "section": "VII. ZOROASTRIANISM: What if your own actions were waiting t",
    "type": "narration",
    "voice": "granny",
-   "text": "*I am what you have made of yourself.*",
-   "directed": "*I am what you have made of yourself.*"
+   "text": "I am what you have made of yourself.",
+   "directed": "I am what you have made of yourself."
   },
   {
    "id": "b389",
@@ -3231,8 +3231,8 @@
    "section": "VII. ZOROASTRIANISM: What if your own actions were waiting t",
    "type": "narration",
    "voice": "granny",
-   "text": "### The Egyptian heart and the Zoroastrian daēnā",
-   "directed": "### The Egyptian heart and the Zoroastrian daēnā"
+   "text": "The Egyptian heart and the Zoroastrian daēnā",
+   "directed": "The Egyptian heart and the Zoroastrian daēnā"
   },
   {
    "id": "b404",
@@ -3327,8 +3327,8 @@
    "section": "VII. ZOROASTRIANISM: What if your own actions were waiting t",
    "type": "narration",
    "voice": "granny",
-   "text": "### Tenet Five: What you do may matter beyond the moment you do it",
-   "directed": "### Tenet Five: What you do may matter beyond the moment you do it"
+   "text": "Tenet Five: What you do may matter beyond the moment you do it",
+   "directed": "Tenet Five: What you do may matter beyond the moment you do it"
   },
   {
    "id": "b416",
@@ -3471,8 +3471,8 @@
    "section": "VII. ZOROASTRIANISM: What if your own actions were waiting t",
    "type": "narration",
    "voice": "granny",
-   "text": "**What are your actions making of you?**",
-   "directed": "**What are your actions making of you?**"
+   "text": "What are your actions making of you?",
+   "directed": "What are your actions making of you?"
   },
   {
    "id": "b434",
@@ -3655,8 +3655,8 @@
    "section": "VIII. INDONESIA: What if someone doesn't fully become dead u",
    "type": "narration",
    "voice": "granny",
-   "text": "### Tenet Six: Death is often a process, not merely an instant",
-   "directed": "### Tenet Six: Death is often a process, not merely an instant"
+   "text": "Tenet Six: Death is often a process, not merely an instant",
+   "directed": "Tenet Six: Death is often a process, not merely an instant"
   },
   {
    "id": "b457",
@@ -3727,8 +3727,8 @@
    "section": "VIII. INDONESIA: What if someone doesn't fully become dead u",
    "type": "narration",
    "voice": "granny",
-   "text": "The concept of *social death* is useful here.",
-   "directed": "The concept of *social death* is useful here."
+   "text": "The concept of social death is useful here.",
+   "directed": "The concept of social death is useful here."
   },
   {
    "id": "b466",
@@ -3831,8 +3831,8 @@
    "section": "IX. GREECE, INDIA AND TIBET: The dead must remember somethin",
    "type": "narration",
    "voice": "granny",
-   "text": "But several extraordinarily sophisticated systems treat **knowledge or recognition** as vital to the passage beyond death.",
-   "directed": "But several extraordinarily sophisticated systems treat **knowledge or recognition** as vital to the passage beyond death."
+   "text": "But several extraordinarily sophisticated systems treat knowledge or recognition as vital to the passage beyond death.",
+   "directed": "But several extraordinarily sophisticated systems treat knowledge or recognition as vital to the passage beyond death."
   },
   {
    "id": "b479",
@@ -3847,8 +3847,8 @@
    "section": "IX. GREECE, INDIA AND TIBET: The dead must remember somethin",
    "type": "narration",
    "voice": "granny",
-   "text": "### The Orphic gold tablets",
-   "directed": "### The Orphic gold tablets"
+   "text": "The Orphic gold tablets",
+   "directed": "The Orphic gold tablets"
   },
   {
    "id": "b481",
@@ -3999,8 +3999,8 @@
    "section": "IX. GREECE, INDIA AND TIBET: The dead must remember somethin",
    "type": "narration",
    "voice": "granny",
-   "text": "### Tibetan phowa and the bardo",
-   "directed": "### Tibetan phowa and the bardo"
+   "text": "Tibetan phowa and the bardo",
+   "directed": "Tibetan phowa and the bardo"
   },
   {
    "id": "b500",
@@ -4063,16 +4063,16 @@
    "section": "IX. GREECE, INDIA AND TIBET: The dead must remember somethin",
    "type": "narration",
    "voice": "granny",
-   "text": "### Abhinavagupta: the final recognition",
-   "directed": "### Abhinavagupta: the final recognition"
+   "text": "Abhinavagupta: the final recognition",
+   "directed": "Abhinavagupta: the final recognition"
   },
   {
    "id": "b508",
    "section": "IX. GREECE, INDIA AND TIBET: The dead must remember somethin",
    "type": "narration",
    "voice": "granny",
-   "text": "Now return to *Paramārthasāra* 93-95.",
-   "directed": "Now return to *Paramārthasāra* 93-95."
+   "text": "Now return to Paramārthasāra 93-95.",
+   "directed": "Now return to Paramārthasāra 93-95."
   },
   {
    "id": "b509",
@@ -4095,16 +4095,16 @@
    "section": "IX. GREECE, INDIA AND TIBET: The dead must remember somethin",
    "type": "verse",
    "voice": "verse",
-   "text": "**मरणावसरे ज्ञानि न च्यवते स्वात्मपरमार्थात्।**",
-   "directed": "[slowly] **मरणावसरे ज्ञानि न च्यवते स्वात्मपरमार्थात्।**"
+   "text": "मरणावसरे ज्ञानि न च्यवते स्वात्मपरमार्थात्।",
+   "directed": "[slowly] मरणावसरे ज्ञानि न च्यवते स्वात्मपरमार्थात्।"
   },
   {
    "id": "b512",
    "section": "IX. GREECE, INDIA AND TIBET: The dead must remember somethin",
    "type": "narration",
    "voice": "granny",
-   "text": "*maraṇāvasare jñāni na cyavate svātmaparamārthāt.*",
-   "directed": "*maraṇāvasare jñāni na cyavate svātmaparamārthāt.*"
+   "text": "maraṇāvasare jñāni na cyavate svātmaparamārthāt.",
+   "directed": "maraṇāvasare jñāni na cyavate svātmaparamārthāt."
   },
   {
    "id": "b513",
@@ -4127,8 +4127,8 @@
    "section": "IX. GREECE, INDIA AND TIBET: The dead must remember somethin",
    "type": "narration",
    "voice": "granny",
-   "text": "The address *jñāni* is vocative here.",
-   "directed": "The address *jñāni* is vocative here."
+   "text": "The address jñāni is vocative here.",
+   "directed": "The address jñāni is vocative here."
   },
   {
    "id": "b516",
@@ -4223,8 +4223,8 @@
    "section": "IX. GREECE, INDIA AND TIBET: The dead must remember somethin",
    "type": "narration",
    "voice": "granny",
-   "text": "### Tenet Seven: What you understand before death may matter at death",
-   "directed": "### Tenet Seven: What you understand before death may matter at death"
+   "text": "Tenet Seven: What you understand before death may matter at death",
+   "directed": "Tenet Seven: What you understand before death may matter at death"
   },
   {
    "id": "b528",
@@ -4295,8 +4295,8 @@
    "section": "IX. GREECE, INDIA AND TIBET: The dead must remember somethin",
    "type": "narration",
    "voice": "granny",
-   "text": "*Is the person prepared for what they understand death to involve?*",
-   "directed": "*Is the person prepared for what they understand death to involve?*"
+   "text": "Is the person prepared for what they understand death to involve?",
+   "directed": "Is the person prepared for what they understand death to involve?"
   },
   {
    "id": "b537",
@@ -4351,8 +4351,8 @@
    "section": "X. WHAT ACTUALLY REMAINS? THE FINAL VERDICT",
    "type": "narration",
    "voice": "granny",
-   "text": "| Tradition | What is understood to continue? |\n|--------|--------|\n| Ancient Egypt | Multiple aspects of the deceased, transformed into an effective postmortem existence |\n| Inca and other Andean contexts | Ancestral personhood, connected with remains, descendants, sacred places and continuing relationships |\n| Islam | The person remains subject to God's power, awaiting resurrection and judgment; interpretations of the intermediate state vary |\n| Chinese ancestral traditions | Differentiated spiritual aspects, ancestor presence, ritual relationships and, in some accounts, rebirth |\n| Yoruba traditions | Ancestral presence and, in some settings, return within a lineage |\n| Nahua traditions | Different vital aspects of the person and postmortem destinies connected with modes of death |\n| Zoroastrianism | The soul, which encounters judgment and the manifestation of its moral character |\n| Tibetan Buddhism | A causally continuous mental process without a permanent independent self |\n| Trika Śaivism | The karmically conditioned individual continues in bondage; ultimate consciousness is Śiva, which never truly departs |",
-   "directed": "| Tradition | What is understood to continue? |\n|--------|--------|\n| Ancient Egypt | Multiple aspects of the deceased, transformed into an effective postmortem existence |\n| Inca and other Andean contexts | Ancestral personhood, connected with remains, descendants, sacred places and continuing relationships |\n| Islam | The person remains subject to God's power, awaiting resurrection and judgment; interpretations of the intermediate state vary |\n| Chinese ancestral traditions | Differentiated spiritual aspects, ancestor presence, ritual relationships and, in some accounts, rebirth |\n| Yoruba traditions | Ancestral presence and, in some settings, return within a lineage |\n| Nahua traditions | Different vital aspects of the person and postmortem destinies connected with modes of death |\n| Zoroastrianism | The soul, which encounters judgment and the manifestation of its moral character |\n| Tibetan Buddhism | A causally continuous mental process without a permanent independent self |\n| Trika Śaivism | The karmically conditioned individual continues in bondage; ultimate consciousness is Śiva, which never truly departs |"
+   "text": "Tradition: What is understood to continue? Ancient Egypt: Multiple aspects of the deceased, transformed into an effective postmortem existence Inca and other Andean contexts: Ancestral personhood, connected with remains, descendants, sacred places and continuing relationships Islam: The person remains subject to God's power, awaiting resurrection and judgment; interpretations of the intermediate state vary Chinese ancestral traditions: Differentiated spiritual aspects, ancestor presence, ritual relationships and, in some accounts, rebirth Yoruba traditions: Ancestral presence and, in some settings, return within a lineage Nahua traditions: Different vital aspects of the person and postmortem destinies connected with modes of death Zoroastrianism: The soul, which encounters judgment and the manifestation of its moral character Tibetan Buddhism: A causally continuous mental process without a permanent independent self Trika Śaivism: The karmically conditioned individual continues in bondage; ultimate consciousness is Śiva, which never truly departs",
+   "directed": "Tradition: What is understood to continue? Ancient Egypt: Multiple aspects of the deceased, transformed into an effective postmortem existence Inca and other Andean contexts: Ancestral personhood, connected with remains, descendants, sacred places and continuing relationships Islam: The person remains subject to God's power, awaiting resurrection and judgment; interpretations of the intermediate state vary Chinese ancestral traditions: Differentiated spiritual aspects, ancestor presence, ritual relationships and, in some accounts, rebirth Yoruba traditions: Ancestral presence and, in some settings, return within a lineage Nahua traditions: Different vital aspects of the person and postmortem destinies connected with modes of death Zoroastrianism: The soul, which encounters judgment and the manifestation of its moral character Tibetan Buddhism: A causally continuous mental process without a permanent independent self Trika Śaivism: The karmically conditioned individual continues in bondage; ultimate consciousness is Śiva, which never truly departs"
   },
   {
    "id": "b544",
@@ -4399,8 +4399,8 @@
    "section": "X. WHAT ACTUALLY REMAINS? THE FINAL VERDICT",
    "type": "narration",
    "voice": "granny",
-   "text": "### The continuity of matter",
-   "directed": "### The continuity of matter"
+   "text": "The continuity of matter",
+   "directed": "The continuity of matter"
   },
   {
    "id": "b550",
@@ -4455,8 +4455,8 @@
    "section": "X. WHAT ACTUALLY REMAINS? THE FINAL VERDICT",
    "type": "narration",
    "voice": "granny",
-   "text": "### The continuity of consequences",
-   "directed": "### The continuity of consequences"
+   "text": "The continuity of consequences",
+   "directed": "The continuity of consequences"
   },
   {
    "id": "b557",
@@ -4527,8 +4527,8 @@
    "section": "X. WHAT ACTUALLY REMAINS? THE FINAL VERDICT",
    "type": "narration",
    "voice": "granny",
-   "text": "### The proposed continuity of experience",
-   "directed": "### The proposed continuity of experience"
+   "text": "The proposed continuity of experience",
+   "directed": "The proposed continuity of experience"
   },
   {
    "id": "b566",
@@ -4615,8 +4615,8 @@
    "section": "X. WHAT ACTUALLY REMAINS? THE FINAL VERDICT",
    "type": "narration",
    "voice": "granny",
-   "text": "**Something about every human being continues causally after death. Whether their subjective experience continues is a separate and unresolved question.**",
-   "directed": "**Something about every human being continues causally after death. Whether their subjective experience continues is a separate and unresolved question.**"
+   "text": "Something about every human being continues causally after death. Whether their subjective experience continues is a separate and unresolved question.",
+   "directed": "Something about every human being continues causally after death. Whether their subjective experience continues is a separate and unresolved question."
   },
   {
    "id": "b577",
@@ -4703,32 +4703,32 @@
    "section": "XI. THE GREAT HUMAN AGREEMENT-AND THE GREAT DISAGREEMENT",
    "type": "narration",
    "voice": "granny",
-   "text": "*What is a person?*",
-   "directed": "*What is a person?*"
+   "text": "What is a person?",
+   "directed": "What is a person?"
   },
   {
    "id": "b588",
    "section": "XI. THE GREAT HUMAN AGREEMENT-AND THE GREAT DISAGREEMENT",
    "type": "narration",
    "voice": "granny",
-   "text": "*What constitutes identity?*",
-   "directed": "*What constitutes identity?*"
+   "text": "What constitutes identity?",
+   "directed": "What constitutes identity?"
   },
   {
    "id": "b589",
    "section": "XI. THE GREAT HUMAN AGREEMENT-AND THE GREAT DISAGREEMENT",
    "type": "narration",
    "voice": "granny",
-   "text": "*What makes a life one continuous life?*",
-   "directed": "*What makes a life one continuous life?*"
+   "text": "What makes a life one continuous life?",
+   "directed": "What makes a life one continuous life?"
   },
   {
    "id": "b590",
    "section": "XI. THE GREAT HUMAN AGREEMENT-AND THE GREAT DISAGREEMENT",
    "type": "narration",
    "voice": "granny",
-   "text": "*Does the organism exhaust what we mean by self?*",
-   "directed": "*Does the organism exhaust what we mean by self?*"
+   "text": "Does the organism exhaust what we mean by self?",
+   "directed": "Does the organism exhaust what we mean by self?"
   },
   {
    "id": "b591",
@@ -4863,8 +4863,8 @@
    "section": "XI. THE GREAT HUMAN AGREEMENT-AND THE GREAT DISAGREEMENT",
    "type": "narration",
    "voice": "granny",
-   "text": "**Is the highest goal to continue existing-or to become free from the very conditions that make ordinary existence a problem?**",
-   "directed": "**Is the highest goal to continue existing-or to become free from the very conditions that make ordinary existence a problem?**"
+   "text": "Is the highest goal to continue existing-or to become free from the very conditions that make ordinary existence a problem?",
+   "directed": "Is the highest goal to continue existing-or to become free from the very conditions that make ordinary existence a problem?"
   },
   {
    "id": "b608",
@@ -4943,8 +4943,8 @@
    "section": "XI. THE GREAT HUMAN AGREEMENT-AND THE GREAT DISAGREEMENT",
    "type": "narration",
    "voice": "granny",
-   "text": "**Would survival itself be a good thing?**",
-   "directed": "**Would survival itself be a good thing?**"
+   "text": "Would survival itself be a good thing?",
+   "directed": "Would survival itself be a good thing?"
   },
   {
    "id": "b618",
@@ -5399,16 +5399,16 @@
    "section": "XII. THE LAST FUNERAL ON EARTH",
    "type": "narration",
    "voice": "granny",
-   "text": "The *Paramārthasāra*.",
-   "directed": "The *Paramārthasāra*."
+   "text": "The Paramārthasāra.",
+   "directed": "The Paramārthasāra."
   },
   {
    "id": "b675",
    "section": "XII. THE LAST FUNERAL ON EARTH",
    "type": "narration",
    "voice": "granny",
-   "text": "The *Bardo Thödol*.",
-   "directed": "The *Bardo Thödol*."
+   "text": "The Bardo Thödol.",
+   "directed": "The Bardo Thödol."
   },
   {
    "id": "b676",
@@ -5439,8 +5439,8 @@
    "section": "XII. THE LAST FUNERAL ON EARTH",
    "type": "narration",
    "voice": "granny",
-   "text": "**What is the relationship between consciousness, the person you believe yourself to be, and the body through which the world presently appears?**",
-   "directed": "**What is the relationship between consciousness, the person you believe yourself to be, and the body through which the world presently appears?**"
+   "text": "What is the relationship between consciousness, the person you believe yourself to be, and the body through which the world presently appears?",
+   "directed": "What is the relationship between consciousness, the person you believe yourself to be, and the body through which the world presently appears?"
   },
   {
    "id": "b680",
@@ -5615,8 +5615,8 @@
    "section": "XII. THE LAST FUNERAL ON EARTH",
    "type": "narration",
    "voice": "granny",
-   "text": "**They don't.**",
-   "directed": "**They don't.**"
+   "text": "They don't.",
+   "directed": "They don't."
   },
   {
    "id": "b702",
@@ -5631,8 +5631,8 @@
    "section": "XII. THE LAST FUNERAL ON EARTH",
    "type": "narration",
    "voice": "granny",
-   "text": "**They don't.**",
-   "directed": "**They don't.**"
+   "text": "They don't.",
+   "directed": "They don't."
   },
   {
    "id": "b704",
@@ -5647,8 +5647,8 @@
    "section": "XII. THE LAST FUNERAL ON EARTH",
    "type": "narration",
    "voice": "granny",
-   "text": "**They don't.**",
-   "directed": "**They don't.**"
+   "text": "They don't.",
+   "directed": "They don't."
   },
   {
    "id": "b706",
@@ -5679,8 +5679,8 @@
    "section": "XII. THE LAST FUNERAL ON EARTH",
    "type": "narration",
    "voice": "granny",
-   "text": "**Do not waste the opportunity to understand your own existence while you can still investigate it.**",
-   "directed": "**Do not waste the opportunity to understand your own existence while you can still investigate it.**"
+   "text": "Do not waste the opportunity to understand your own existence while you can still investigate it.",
+   "directed": "Do not waste the opportunity to understand your own existence while you can still investigate it."
   },
   {
    "id": "b710",
@@ -5855,16 +5855,16 @@
    "section": "XII. THE LAST FUNERAL ON EARTH",
    "type": "narration",
    "voice": "granny",
-   "text": "**Make it one in which you genuinely investigated what you were.**",
-   "directed": "**Make it one in which you genuinely investigated what you were.**"
+   "text": "Make it one in which you genuinely investigated what you were.",
+   "directed": "Make it one in which you genuinely investigated what you were."
   },
   {
    "id": "b732",
    "section": "XII. THE LAST FUNERAL ON EARTH",
    "type": "narration",
    "voice": "granny",
-   "text": "*The end of the Death Yoga Trilogy.*",
-   "directed": "*The end of the Death Yoga Trilogy.*"
+   "text": "The end of the Death Yoga Trilogy.",
+   "directed": "The end of the Death Yoga Trilogy."
   },
   {
    "id": "b733",

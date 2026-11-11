@@ -1,0 +1,149 @@
+{
+ "b1": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/anubis.png",
+  "complete_bid": "b2",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist opening \u2014 visual-plan gap"
+ },
+ "b11": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b12",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist Phowa: what if you could redirect the exit? \u2014 visual-plan gap"
+ },
+ "b34": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/em-rising-corpse-first.png",
+  "complete_bid": "b35",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist The really difficult problem: what makes a body yours? -> SPLIT x5 (~90s each, subdivide by sub-head \u2014 visual-plan gap"
+ },
+ "b115": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b116",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist Phowa: what if you could redirect the exit? \u2014 visual-plan gap"
+ },
+ "b136": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/phowa-pin.jpg",
+  "complete_bid": "b137",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist Phowa: what if you could redirect the exit? -> SPLIT x3 (~86s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b185": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/tombstone-white.jpg",
+  "complete_bid": "b186",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist But hang on. What about the clear-light mind? \u2014 visual-plan gap"
+ },
+ "b216": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/tombstone.png",
+  "complete_bid": "b217",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist Nirm\u0101\u1e47ak\u0101ya phowa: return for the benefit of beings \u2014 visual-plan gap"
+ },
+ "b245": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/anubis.png",
+  "complete_bid": "b246",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist Dharmak\u0101ya phowa: the traveller disappears from the theory -> SPLIT x3 (~94s each, subdivide by sub- \u2014 visual-plan gap"
+ },
+ "b307": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b308",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist The really difficult problem: what makes a body yours? -> SPLIT x2 (~97s each, subdivide by sub-head \u2014 visual-plan gap"
+ },
+ "b374": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/em-rising-corpse-first.png",
+  "complete_bid": "b375",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist But then why do I feel trapped inside my body? -> SPLIT x3 (~102s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b437": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b438",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist Abhinavagupta gives an extraordinarily clear answer -> SPLIT x4 (~91s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b511": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/phowa-pin.jpg",
+  "complete_bid": "b512",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist Tantras\u0101ra Chapter 19: funeral initiation and the utterly as \u2014 visual-plan gap"
+ },
+ "b545": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/tombstone-white.jpg",
+  "complete_bid": "b546",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist The Trika question \u2014 visual-plan gap"
+ },
+ "b561": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/tombstone.png",
+  "complete_bid": "b562",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist The Trika position -> SPLIT x2 (~92s each, subdivide by sub-heads) \u2014 visual-plan gap"
+ },
+ "b598": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/anubis.png",
+  "complete_bid": "b599",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist Then why are their highest practices so remarkably similar? \u2014 visual-plan gap"
+ },
+ "b619": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b620",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist Then why are their highest practices so remarkably similar? -> SPLIT x2 (~112s each, subdivide by su \u2014 visual-plan gap"
+ },
+ "b664": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/em-rising-corpse-first.png",
+  "complete_bid": "b665",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist And Abhinavagupta delivers the final blow \u2014 visual-plan gap"
+ },
+ "b438": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/em-yama-scales-first.png",
+  "complete_bid": "b439",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist etch lead-in for yama-scales clip at b439 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b264": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/em-rising-corpse-first.png",
+  "complete_bid": "b265",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist etch lead-in for rising-corpse clip at b265 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b491": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/em-rising-corpse-first.png",
+  "complete_bid": "b492",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist etch lead-in for rising-corpse clip at b492 \u2014 first frame etches from white, then motion takes over seamless"
+ },
+ "b56": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/em-rainbow-body-first.png",
+  "complete_bid": "b57",
+  "clear": "fade",
+  "fade": 3.0,
+  "why": "heist etch lead-in for rainbow-body clip at b57 \u2014 first frame etches from white, then motion takes over seamless"
+ }
+}

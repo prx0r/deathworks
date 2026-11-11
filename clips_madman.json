@@ -1,0 +1,65 @@
+{
+ "b3": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/motion-2x/anubis_2x15s.mp4",
+  "complete_bid": "b4",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "madman anubis motif \u2014 placement evidence (anubis) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b281": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/motion-2x/anubis_2x15s.mp4",
+  "complete_bid": "b282",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "madman anubis motif \u2014 placement evidence (anubis) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b79": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/motion-2x/yama-scales_2x15s.mp4",
+  "complete_bid": "b80",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "madman yama-scales motif \u2014 placement evidence (yama-scales) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b119": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/motion-2x/yama-scales_2x15s.mp4",
+  "complete_bid": "b120",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "madman yama-scales motif \u2014 placement evidence (yama-scales) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b4": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/motion-2x/rising-corpse_2x15s.mp4",
+  "complete_bid": "b5",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "madman rising-corpse motif \u2014 placement evidence (rising-corpse) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b17": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/motion-2x/rising-corpse_2x15s.mp4",
+  "complete_bid": "b18",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "madman rising-corpse motif \u2014 placement evidence (rising-corpse) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b758": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/motion-2x/rainbow-body_2x15s.mp4",
+  "complete_bid": "b759",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "madman rainbow-body motif \u2014 placement evidence (rainbow-body) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b759": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/motion-2x/rainbow-body_2x15s.mp4",
+  "complete_bid": "b760",
+  "clear": "fade",
+  "fade": 3.5,
+  "why": "madman rainbow-body motif \u2014 placement evidence (rainbow-body) \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ },
+ "b282": {
+  "asset": "/home/ubuntu/deathworks/process/image-bank/motion-2x/anubis_2x15s.mp4",
+  "complete_bid": "b283",
+  "clear": "cut",
+  "fade": 3.5,
+  "why": "madman anubis \u2014 pending manifest, evidence beat \u2014 2x primary loop 15s, bg cleaned >=250 \u2014 2x primary loop 15s, bg cleaned >=250"
+ }
+}

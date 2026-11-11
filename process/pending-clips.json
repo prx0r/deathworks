@@ -1,0 +1,161 @@
+{
+ "lane": "deathworks",
+ "pending_wanted": [
+  {
+   "gif_id": "anubis",
+   "unit": "madman",
+   "bids": [
+    "b3",
+    "b281"
+   ],
+   "est_total_s": 23.5,
+   "status": "wanted",
+   "lanes": [
+    "deathworks"
+   ],
+   "passage": {
+    "ok": true,
+    "est_total_s": 48.5,
+    "wps_used": 2.6,
+    "method": "words/wps",
+    "etch_s": 31.5,
+    "play_s": 17.0,
+    "mid_bid": "b7",
+    "per_block": [
+     [
+      "b3",
+      10.8
+     ],
+     [
+      "b4",
+      4.6
+     ],
+     [
+      "b5",
+      3.8
+     ],
+     [
+      "b6",
+      1.5
+     ],
+     [
+      "b7",
+      11.9
+     ],
+     [
+      "b8",
+      2.7
+     ],
+     [
+      "b9",
+      2.3
+     ],
+     [
+      "b10",
+      0.8
+     ],
+     [
+      "b11",
+      1.5
+     ],
+     [
+      "b12",
+      1.2
+     ],
+     [
+      "b13",
+      7.3
+     ]
+    ],
+    "suggested": {
+     "draw": {
+      "start": "b3",
+      "complete": "b7"
+     },
+     "clip": {
+      "start": "b7",
+      "complete": "b14"
+     }
+    },
+    "note": ""
+   }
+  },
+  {
+   "gif_id": "anubis",
+   "unit": "ancestors",
+   "bids": [
+    "b3",
+    "b10"
+   ],
+   "est_total_s": 11.9,
+   "status": "wanted",
+   "lanes": [
+    "deathworks"
+   ],
+   "passage": {
+    "ok": true,
+    "est_total_s": 3366.7,
+    "wps_used": 0.04,
+    "method": "visual-plan+words",
+    "etch_s": 2188.3,
+    "play_s": 1178.3,
+    "mid_bid": "b9",
+    "per_block": [
+     [
+      "b3",
+      628.4
+     ],
+     [
+      "b4",
+      202.0
+     ],
+     [
+      "b5",
+      112.2
+     ],
+     [
+      "b6",
+      246.9
+     ],
+     [
+      "b7",
+      673.3
+     ],
+     [
+      "b8",
+      134.7
+     ],
+     [
+      "b9",
+      426.4
+     ],
+     [
+      "b10",
+      67.3
+     ],
+     [
+      "b11",
+      875.3
+     ]
+    ],
+    "suggested": {
+     "draw": {
+      "start": "b3",
+      "complete": "b9"
+     },
+     "clip": {
+      "start": "b9",
+      "complete": "b12"
+     }
+    },
+    "note": "passage 3367s outside 30-90s ideal; adjust etch_share or bounds"
+   }
+  }
+ ],
+ "banked_unplaced": [
+  "breath-body",
+  "dawn-ray",
+  "moon-disc",
+  "prayer-hands"
+ ]
+}
