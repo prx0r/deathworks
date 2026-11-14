@@ -806,7 +806,7 @@
    "id": "b100",
    "section": "III. Trika: why the fuck does Śiva become an ignorant person",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "; ]",
    "directed": "; ]"
   },
@@ -5686,7 +5686,7 @@
    "id": "b710",
    "section": "XII. The call to action: stop treating existence like a fuck",
    "type": "narration",
-   "voice": "granny",
+   "voice": "none",
    "text": "[Continue Reading - How Would You Know You're Free?]",
    "directed": "[Continue Reading - How Would You Know You're Free?]"
   }
